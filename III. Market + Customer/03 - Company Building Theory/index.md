@@ -1,4 +1,7 @@
-
+---
+title: Company Building Theory
+play: 3
+---
 
 ## Company Building Theory
 

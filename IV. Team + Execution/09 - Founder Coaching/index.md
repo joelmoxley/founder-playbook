@@ -1,4 +1,7 @@
-
+---
+title: Founder Coaching
+play: 9
+---
 
 ## Starting a Company
 

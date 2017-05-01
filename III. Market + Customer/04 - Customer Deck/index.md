@@ -1,4 +1,7 @@
-
+---
+title: Customer Deck
+play: 4
+---
 
 ## Customer Deck
 

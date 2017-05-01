@@ -1,4 +1,7 @@
-
+---
+title: Contract Manufacturing
+play: 8
+---
 
 ## Supply Chain *
 

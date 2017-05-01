@@ -1,4 +1,7 @@
-
+---
+title: Product Cost Modeling
+play: 2
+---
 
 ## ARPAE University
 

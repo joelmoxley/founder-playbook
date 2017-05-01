@@ -1,4 +1,7 @@
-
+---
+title: VC Pitch
+play: 1
+---
 
 ## Templates
 

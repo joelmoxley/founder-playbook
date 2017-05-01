@@ -1,4 +1,7 @@
-
+---
+title: Cap Table + VC Legal Docs
+play: 2
+---
 
 ## Cap Table Overview
 

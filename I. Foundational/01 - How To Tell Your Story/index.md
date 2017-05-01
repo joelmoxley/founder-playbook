@@ -1,4 +1,7 @@
-
+---
+title: How To Tell Your Story
+play: 1
+---
 
 ## Telling A Story
 

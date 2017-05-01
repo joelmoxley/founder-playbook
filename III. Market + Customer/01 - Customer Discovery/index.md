@@ -1,4 +1,7 @@
-
+---
+title: Customer Discovery
+play: 1
+---
 
 ## ICorps Customer Discovery
 

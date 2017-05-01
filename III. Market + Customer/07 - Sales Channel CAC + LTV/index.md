@@ -1,4 +1,7 @@
-
+---
+title: Sales Channel CAC + LTV
+play: 7
+---
 
 ## Sales Channel CAC + LTV Framework
 

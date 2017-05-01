@@ -1,4 +1,7 @@
-
+---
+title: Ops - Finance + Accounting
+play: 6
+---
 
 ## P&L
 

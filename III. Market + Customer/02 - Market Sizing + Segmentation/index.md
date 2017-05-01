@@ -1,4 +1,7 @@
-
+---
+title: Market Sizing + Segmentation
+play: 2
+---
 
 ## Market Segmentation
 

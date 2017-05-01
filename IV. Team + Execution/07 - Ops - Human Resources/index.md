@@ -1,4 +1,7 @@
-
+---
+title: Ops - Human Resources
+play: 7
+---
 
 ## Best Practices
 

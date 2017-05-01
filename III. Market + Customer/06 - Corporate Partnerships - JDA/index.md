@@ -1,4 +1,7 @@
-
+---
+title: Corporate Partnerships - JDA
+play: 6
+---
 
 ## Corporate Partnership JDA
 
