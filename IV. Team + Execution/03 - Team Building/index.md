@@ -16,7 +16,7 @@ play: 3
   04. [Haas - Problem Finding Problem Solving Toolkit](04-haas-problem-finding-problem-solving-toolkit.pdf)
   05. [C2M - Team Contracting Template](05-c2m-team-contracting-template.docx)
   06. [Netflix Team Culture](06-netflix-team-culture.pdf)
-  07. [Ben Horowitz - Why We Prefer Founding CEOs](07-ben-horowitz-why-we-prefer-founding-ceos.webloc)
+  07. [Ben Horowitz - Why We Prefer Founding CEOs](http://www.bhorowitz.com/why_we_prefer_founding_ceos)
   08. [Lindy Greer - Psychology of Startup Teams](08-lindy-greer-psychology-of-startup-teams.pptx)
 
 ## Managing Employees
@@ -25,5 +25,5 @@ play: 3
 
 ## Early Stage Advisors
 
-  01. [Founder Institute - Advisor Agreements ](01-founder-institute-advisor-agreements.webloc)
+  01. [Founder Institute - Advisor Agreements ](http://fi.co/FAST#)
 

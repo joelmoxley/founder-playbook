@@ -5,5 +5,5 @@ play: 6
 
 ## Opportunities and Approach
 
-  01. [DARPA Opportunities Overview](01-darpa-opportunities-overview.webloc)
+  01. [DARPA Opportunities Overview](http://www.darpa.mil/work-with-us/opportunities)
 

@@ -6,7 +6,7 @@ play: 2
 ## ARPAE University
 
   01. [ARPAE University - Cost Modeling](01-arpae-university-cost-modeling.pdf)
-  02. [ARPAE University - Cost Modeling](02-arpae-university-cost-modeling.webloc)
+  02. [ARPAE University - Cost Modeling](https://www.youtube.com/watch?v=ALdSxHH6jvg)
 
 ## Curated Cost Models
 

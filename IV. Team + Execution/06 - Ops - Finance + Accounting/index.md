@@ -21,28 +21,28 @@ play: 6
 
 ## Example Service Providers
 
-  01. [Lingh Duong](01-lingh-duong.webloc)
-  02. [Angela Wong](02-angela-wong.webloc)
-  03. [David Faulk](03-david-faulk.webloc)
-  04. [Arnold Zippel](04-arnold-zippel.webloc)
-  05. [Elaine Banks](05-elaine-banks.webloc)
-  06. [Bill Tyndall](06-bill-tyndall.webloc)
-  07. [Moss Adams](07-moss-adams.webloc)
-  08. [Jeff Faust](08-jeff-faust.webloc)
+  01. [Lingh Duong](http://www.bndcpas.com/about-us)
+  02. [Angela Wong](http://www.wongcpa.us/)
+  03. [David Faulk](http://www.portolatax.com/)
+  04. [Arnold Zippel](http://www.cchwebsites.com/preview/a8/a8fbac3e0eb58e6ef65be020e9690291/contact_us.html?contact_id=40560)
+  05. [Elaine Banks](http://crcfo.com/)
+  06. [Bill Tyndall](http://www.indinero.com/)
+  07. [Moss Adams](http://www.mossadams.com/home.aspx)
+  08. [Jeff Faust](http://aslcpa.com/)
 
 ## Accounting Software
 
-  01. [QuickBooks](01-quickbooks.webloc)
-  02. [Xero](02-xero.webloc)
-  03. [Wave Apps](03-wave-apps.webloc)
-  04. [FreshBooks](04-freshbooks.webloc)
-  05. [Bill dot com](05-bill-dot-com.webloc)
-  06. [InDinero](06-indinero.webloc)
-  07. [Bench](07-bench.webloc)
+  01. [QuickBooks](https://quickbooks.intuit.com/)
+  02. [Xero](https://www.xero.com/us/)
+  03. [Wave Apps](https://www.waveapps.com/)
+  04. [FreshBooks](https://www.freshbooks.com/)
+  05. [Bill dot com](https://www.bill.com/)
+  06. [InDinero](http://www.indinero.com/)
+  07. [Bench](https://bench.co/)
 
 ## Cap Table + Legal Mgmt
 
-  01. [eShares](01-eshares.webloc)
-  02. [Capshare](02-capshare.webloc)
-  03. [Shoobx](03-shoobx.webloc)
+  01. [eShares](https://esharesinc.com/)
+  02. [Capshare](https://www.capshare.com/)
+  03. [Shoobx](https://www.shoobx.com/)
 

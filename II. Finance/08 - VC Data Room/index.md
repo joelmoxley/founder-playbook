@@ -5,7 +5,7 @@ play: 8
 
 ## VC Data Rooms
 
-  01. [Box Data Room](01-box-data-room.webloc)
+  01. [Box Data Room](https://www.box.com/collaboration/virtual-data-room)
 
 ## VC Data Rooms
 

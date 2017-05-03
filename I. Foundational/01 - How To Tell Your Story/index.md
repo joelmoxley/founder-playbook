@@ -11,12 +11,12 @@ play: 1
       Credit: [Garage Venture Technologies](http://garage.com)
       
   02. [a - David Merkoski - Telling Your Story](02-a-david-merkoski-telling-your-story.pdf)
-  02. [b - David Merkoski - Telling Your Story](02-b-david-merkoski-telling-your-story.webloc)
-  03. [Nancy Duarte - Greatest Communicators](03-nancy-duarte-greatest-communicators.webloc)
-  04. [Andy Raskin - Improving Your Pitch](04-andy-raskin-improving-your-pitch.webloc)
+  02. [b - David Merkoski - Telling Your Story](https://www.youtube.com/watch?v=vBw3bEuB3nk)
+  03. [Nancy Duarte - Greatest Communicators](https://www.youtube.com/watch?v=1nYFpuc2Umk)
+  04. [Andy Raskin - Improving Your Pitch](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b#.jkv1k4520)
   05. [Venture Hacks - Pitching Hacks](05-venture-hacks-pitching-hacks.pdf)
-  06. [YCombinator - Guide To Demo Day Pitches](06-ycombinator-guide-to-demo-day-pitches.webloc)
-  07. [Khan Academy - Pixar Storytelling Series](07-khan-academy-pixar-storytelling-series.webloc)
+  06. [YCombinator - Guide To Demo Day Pitches](http://blog.ycombinator.com/guide-to-demo-day-pitches/)
+  07. [Khan Academy - Pixar Storytelling Series](https://www.khanacademy.org/partner-content/pixar/storytelling)
 
 ## Design Thinking
 

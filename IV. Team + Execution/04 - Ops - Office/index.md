@@ -5,19 +5,19 @@ play: 4
 
 ## Coworking Spaces
 
-  01. [42 Floors](01-42-floors.webloc)
-  02. [Creative Integration](02-creative-integration.webloc)
-  03. [Founder Habitat](03-founder-habitat.webloc)
-  04. [Galvanize](04-galvanize.webloc)
-  05. [Hanahaus](05-hanahaus.webloc)
-  06. [1776](06-1776.webloc)
-  07. [Herocity](07-herocity.webloc)
-  08. [Sandbox Suites](08-sandbox-suites.webloc)
-  09. [The Pad](09-the-pad.webloc)
-  10. [WeWork](10-wework.webloc)
+  01. [42 Floors](https://42floors.com/)
+  02. [Creative Integration](http://www.creative-integration.com/colab)
+  03. [Founder Habitat](https://www.founderhabitat.org/)
+  04. [Galvanize](http://www.galvanize.com/)
+  05. [Hanahaus](http://www.hanahaus.com/)
+  06. [1776](https://www.1776.vc/)
+  07. [Herocity](http://www.herocity.com/)
+  08. [Sandbox Suites](http://www.sandboxsuites.com/)
+  09. [The Pad](http://siliconvalleypad.com/)
+  10. [WeWork](https://www.wework.com/)
 
 ## Mail Scanning
 
-  01. [Earth Class Mail](01-earth-class-mail.webloc)
-  02. [Traveling Mailbox](02-traveling-mailbox.webloc)
+  01. [Earth Class Mail](https://www.earthclassmail.com/)
+  02. [Traveling Mailbox](https://travelingmailbox.com/)
 

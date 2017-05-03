@@ -10,6 +10,6 @@ play: 2
 
 ## Startup Boards
 
-  01. [Samer Hamadeh - What you need to know about startup boards](01-samer-hamadeh-what-you-need-to-know-about-startup-boards.webloc)
-  02. [Sequoia - Board Deck Structure](02-sequoia-board-deck-structure.webloc)
+  01. [Samer Hamadeh - What you need to know about startup boards](https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/)
+  02. [Sequoia - Board Deck Structure](https://www.sequoiacap.com/article/preparing-a-board-deck/)
 

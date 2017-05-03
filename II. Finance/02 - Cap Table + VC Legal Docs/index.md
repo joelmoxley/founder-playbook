@@ -5,7 +5,7 @@ play: 2
 
 ## Cap Table Overview
 
-  01. [Venture Hacks - Cap Table Overview](01-venture-hacks-cap-table-overview.webloc)
+  01. [Venture Hacks - Cap Table Overview](https://www.youtube.com/watch?v=f4KagovcMdg)
 
 ## Cap Table
 
@@ -13,7 +13,7 @@ play: 2
 
 ## SAFEs and Convertible Notes
 
-  01. [Simple Agreements for Future Equity - YCombinator](01-simple-agreements-for-future-equity-ycombinator.webloc)
+  01. [Simple Agreements for Future Equity - YCombinator](https://www.ycombinator.com/documents/)
   02. [SAFE_Primer](02-safe-primer.rtf)
   03. [SAFEs - Cyclontron Road](03-safes-cyclontron-road.pptx)
   04. [Fenwick - Seed Stage Financing Overview](04-fenwick-seed-stage-financing-overview.pdf)
@@ -30,6 +30,6 @@ play: 2
 
 ## Document Generators
 
-  01. [Wilmer Hale Launch Document Generator](01-wilmer-hale-launch-document-generator.webloc)
-  02. [Cooley Go Document Generator](02-cooley-go-document-generator.webloc)
+  01. [Wilmer Hale Launch Document Generator](https://launch.wilmerhale.com/build/document-generator/)
+  02. [Cooley Go Document Generator](https://www.cooleygo.com/documents/)
 

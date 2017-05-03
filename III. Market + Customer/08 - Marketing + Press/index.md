@@ -10,6 +10,6 @@ play: 8
 ## Press Execution
 
   01. [a - Rubicon Global - Wikipedia](01-a-rubicon-global-wikipedia.pdf)
-  01. [b - Rubicon Global wiki references section](01-b-rubicon-global-wiki-references-section.webloc)
-  02. [Nate Morris wiki references section](02-nate-morris-wiki-references-section.webloc)
+  01. [b - Rubicon Global wiki references section](https://en.wikipedia.org/wiki/Rubicon_Global#References)
+  02. [Nate Morris wiki references section](https://en.wikipedia.org/wiki/Nate_Morris#References)
 

@@ -5,11 +5,11 @@ play: 4
 
 ## Opportunities and Approach
 
-  01. [DOE SBIR Overview](01-doe-sbir-overview.webloc)
-  02. [NSF SBIR Overview](02-nsf-sbir-overview.webloc)
-  03. [NIH SBIR Overview](03-nih-sbir-overview.webloc)
-  04. [DOD SBIR Overview](04-dod-sbir-overview.webloc)
-  05. [National Innovation Summit To Network with SBIR PMs](05-national-innovation-summit-to-network-with-sbir-pms.webloc)
+  01. [DOE SBIR Overview](https://science.energy.gov/sbir/funding-opportunities/)
+  02. [NSF SBIR Overview](https://www.nsf.gov/eng/iip/sbir/home.jsp)
+  03. [NIH SBIR Overview](https://sbir.nih.gov/)
+  04. [DOD SBIR Overview](http://www.acq.osd.mil/osbp/sbir/)
+  05. [National Innovation Summit To Network with SBIR PMs](http://nationalinnovationsummit.com/)
 
 ## Full Proposal
 

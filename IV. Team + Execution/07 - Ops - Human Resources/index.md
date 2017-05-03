@@ -10,15 +10,15 @@ play: 7
 
 ## Resources
 
-  01. [RoundPegg](01-roundpegg.webloc)
-  02. [Teamphoria](02-teamphoria.webloc)
-  03. [Zenefits](03-zenefits.webloc)
-  04. [Gusto](04-gusto.webloc)
-  05. [Simply Insured](05-simply-insured.webloc)
-  06. [Trinet](06-trinet.webloc)
-  07. [Lever](07-lever.webloc)
-  08. [Greenhouse](08-greenhouse.webloc)
-  09. [Recruiterbox](09-recruiterbox.webloc)
-  10. [Workable](10-workable.webloc)
-  11. [Newton Software](11-newton-software.webloc)
+  01. [RoundPegg](http://roundpegg.com/)
+  02. [Teamphoria](https://www.teamphoria.com/)
+  03. [Zenefits](https://www.zenefits.com/)
+  04. [Gusto](https://gusto.com/)
+  05. [Simply Insured](https://www.simplyinsured.com/)
+  06. [Trinet](http://www.trinet.com/)
+  07. [Lever](https://www.lever.co/)
+  08. [Greenhouse](https://www.greenhouse.io/)
+  09. [Recruiterbox](http://recruiterbox.com/)
+  10. [Workable](https://www.workable.com/)
+  11. [Newton Software](http://newtonsoftware.com/)
 
