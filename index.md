@@ -4,4 +4,4 @@ Title: Founder Playbook
 
 # Home Page
 
-Example home page content.  Editable in github.  For pure file structure while we're in pure dev plan, see the soon-to-be-depreacted http://founderplaybook.io
+Example home page content.  Editable in github at https://github.com/joelmoxley/founder-playbook/.  For pure file structure while we're in pure dev mode, see http://founderplaybook.io.  (Please note we'll deprecate that link once this site is in production.)  
