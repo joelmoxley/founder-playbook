@@ -1,5 +1,5 @@
 ---
-title: Financial & Exit Modeling
+title: Financial + Exit Modeling
 play: 10
 ---
 
