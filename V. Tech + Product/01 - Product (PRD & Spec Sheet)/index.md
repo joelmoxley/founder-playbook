@@ -1,5 +1,5 @@
 ---
-title: Product (PRD & Spec Sheet)
+title: Product (PRD + Spec Sheet)
 play: 1
 ---
 
