@@ -3,7 +3,7 @@ title: Sales Channel CAC + LTV
 play: 7
 ---
 
-## Sales Channel CAC + LTV Framework
+## EoE - Sales Channel CAC + LTV Framework
 
   01. [Sales Channel CAC + LTV Framework Whitepaper](01-sales-channel-cac-ltv-framework-whitepaper.pdf)
   02. [Sales Channel CAC + LTV Framework Worksheet](02-sales-channel-cac-ltv-framework-worksheet.xlsx)
