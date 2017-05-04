@@ -11,7 +11,7 @@ play: 4
   04. [DOD SBIR Overview](http://www.acq.osd.mil/osbp/sbir/)
   05. [National Innovation Summit To Network with SBIR PMs](http://nationalinnovationsummit.com/)
 
-## Full Proposal
+## EoE - Full Proposal
 
   01. [a - Halotechnics NSF SBIR Phase I Project Description](01-a-halotechnics-nsf-sbir-phase-i-project-description.doc)
   01. [b - Halotechnics NSF SBIR Phase I Reviewer Response](01-b-halotechnics-nsf-sbir-phase-i-reviewer-response.docx)
