@@ -7,7 +7,7 @@ play: 2
 
   01. [Venture Hacks - Cap Table Overview](https://www.youtube.com/watch?v=f4KagovcMdg)
 
-## Cap Table
+## EoE - Cap Table
 
   01. [Venture Hacks - Cap Table Template](01-venture-hacks-cap-table-template.xls)
 
@@ -18,7 +18,7 @@ play: 2
   03. [SAFEs - Cyclontron Road](03-safes-cyclontron-road.pptx)
   04. [Fenwick - Seed Stage Financing Overview](04-fenwick-seed-stage-financing-overview.pdf)
 
-## VC Financing Template Docs
+## EoE- VC Financing Template Docs
 
   01. [SAFE Cap No Discount](01-safe-cap-no-discount.rtf)
   02. [SAFE Discount No Cap](02-safe-discount-no-cap.rtf)
