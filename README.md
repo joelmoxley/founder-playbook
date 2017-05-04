@@ -1,4 +1,4 @@
-#Founders Playbook Markdown Instructions
+# Founders Playbook Markdown Instructions
 
 
 ## Within Main Directory:
@@ -38,7 +38,7 @@ Markdown Example:
 ## Within Individual Plays
 example: 01 – How To Tell Your Story
 
-####Play index.md
+#### Play index.md
 
 * Title: Name of okay to appear in table of contents
 * Play: index for play
@@ -72,7 +72,9 @@ Markdown Example:
 
 	1. [Garage Ventures - Perfecting Your Pitch](01-garage-ventures-perfecting-your-pitch.pdf)
 	10-MIN READ II Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+	
 	Credit: [Dr. Busybody](http://www.busybody.com), [Dr. Soandso](http://www.soandso.com)
+	
 	2. [a - David Merkoski - Telling Your Story](02-a-david-merkoski-telling-your-story.pdf)
 	5-MIN READ II Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 	3. [b - David Merkoski - Telling Your Story](02-b-david-merkoski-telling-your-story.webloc)
