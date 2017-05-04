@@ -3,15 +3,15 @@ title: Ops - Finance + Accounting
 play: 6
 ---
 
-## P&L
+## EoE - P&L
 
   01. [MIT Energy Ventures - Financial Template - Corp.](01-mit-energy-ventures-financial-template-corp..xls)
 
-## Project Finance
+## EoE - Project Finance
 
   01. [MIT Energy Ventures - Proj Fin Model](01-mit-energy-ventures-proj-fin-model.xlsx)
 
-## Operating Plan
+## EoE - Operating Plan
 
   01. [Operating plan template](01-operating-plan-template.xlsx)
 
