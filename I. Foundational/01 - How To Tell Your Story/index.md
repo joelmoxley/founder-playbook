@@ -11,6 +11,7 @@ play: 1
       Credit: [Garage Venture Technologies](http://garage.com)
       
   02. [a - David Merkoski - Telling Your Story](02-a-david-merkoski-telling-your-story.pdf)
+15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   02. [b - David Merkoski - Telling Your Story](https://www.youtube.com/watch?v=vBw3bEuB3nk)
   03. [Nancy Duarte - Greatest Communicators](https://www.youtube.com/watch?v=1nYFpuc2Umk)
   04. [Andy Raskin - Improving Your Pitch](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b#.jkv1k4520)
