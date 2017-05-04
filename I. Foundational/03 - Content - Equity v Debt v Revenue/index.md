@@ -4,6 +4,6 @@ play: 3
 ---
 
   01. [a - Matthew Nordan - Demystifying Money](01-Matthew-Nordan-Demystifyng-Money.pdf)
-  02. [b - Matthew Nordan - Demystifying Money](02-Matthew-Nordan-Demystifying-Money.webloc)
+  02. [b - Matthew Nordan - Demystifying Money](https://www.youtube.com/watch?v=OusUTUIF5cU)
 
 
