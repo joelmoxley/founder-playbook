@@ -3,7 +3,7 @@ title: Corporate Partnerships - JDA
 play: 6
 ---
 
-## Corporate Partnership JDA
+## EoE - Corporate Partnership JDA
 
   01. [Form Product Development Agreement.DOC](01-form-product-development-agreement.doc)
   02. [a - Halotechnics Cooperation Agreement with ABC](02-a-halotechnics-cooperation-agreement-with-abc.doc)

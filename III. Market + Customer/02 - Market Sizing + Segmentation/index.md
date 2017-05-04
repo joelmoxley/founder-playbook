@@ -10,13 +10,13 @@ play: 2
   03. [MIT Energy Ventures - Market Segmentation](03-mit-energy-ventures-market-segmentation.pdf)
   04. [Stanford Energy - Tanguy Chau - Market Segmentation](04-stanford-energy-tanguy-chau-market-segmentation.pptx)
 
-## Market Requirements Documents
+## EoE - Market Requirements Documents
 
- *2007Wonica-Marketing requirements for high tech start-ups and business](-2007wonica-marketing-requirements-for-high-tech-start-ups-and-business.pdf)
+  * [2007 Wonica Marketing requirements for high tech start-ups and business](-2007wonica-marketing-requirements-for-high-tech-start-ups-and-business.pdf)
   01. [Cyclotron Road - Market Requirements Document Template](01-cyclotron-road-market-requirements-document-template.docx)
- MRD template-1](mrd-template-1.dotx)
+  02. [MRD template 1](mrd-template-1.dotx)
 
-## Market Sizing S1
+## EoE - Market Sizing S1
 
   2000. [Evergreen Solar](https://www.sec.gov/Archives/edgar/data/947397/000095013500004783/0000950135-00-004783.txt)
   2004. [Color Kinetics](https://www.sec.gov/Archives/edgar/data/1048611/000095013504003198/b48986a6sv1za.htm)

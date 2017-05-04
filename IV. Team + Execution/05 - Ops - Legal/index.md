@@ -9,29 +9,29 @@ play: 5
   02. [DLA Piper - Top nine startup legal issues](02-dla-piper-top-nine-startup-legal-issues.pptx)
   03. [Tallwood - Legal Best Practices](03-tallwood-legal-best-practices.pdf)
 
-## Confidentiality Templates
+## EoE - Confidentiality Templates
 
   01. [Confidentiality Agreement One Way Use Entity.DOCX](01-confidentiality-agreement-one-way-use-entity.docx)
   02. [Confidentiality Agreement One Way Use Individuals.DOCX](02-confidentiality-agreement-one-way-use-individuals.docx)
   03. [Confidentiality Agreement Two Way Use Entities.DOCX](03-confidentiality-agreement-two-way-use-entities.docx)
   04. [Confidentiality Agreement Two Way Use Individuals.DOCX](04-confidentiality-agreement-two-way-use-individuals.docx)
 
-## Consulting Templates
+## EoE - Consulting Templates
 
   01. [Consulting Agreement Individuals.DOCX](01-consulting-agreement-individuals.docx)
   02. [Consulting Agreement Entity.DOCX](02-consulting-agreement-entity.docx)
 
-## Employee Templates
+## EoE - Employee Templates
 
   01. [Employee At Will Offer Letter.DOCX](01-employee-at-will-offer-letter.docx)
   02. [Employee Invention Non Disclosure Agreement.DOCX](02-employee-invention-non-disclosure-agreement.docx)
   03. [Employee Non Solicitation Non Competition Agreement.DOCX](03-employee-non-solicitation-non-competition-agreement.docx)
 
-## Advisor Templates
+## EoE - Advisor Templates
 
   01. [Founder Advisor Standard Template](01-founder-advisor-standard-template.doc)
 
-## Standard Legal Templates
+## EoE - Standard Legal Templates
 
  01. [Acquisition Agreement](acquisition-agreement.docx)
  02. [Administrative and Technology Services Outsourcing](administrative-and-technology-services-outsourcing.docx)

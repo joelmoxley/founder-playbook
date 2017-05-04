@@ -8,7 +8,7 @@ play: 2
   01. [ARPAE University - Cost Modeling](01-arpae-university-cost-modeling.pdf)
   02. [ARPAE University - Cost Modeling](https://www.youtube.com/watch?v=ALdSxHH6jvg)
 
-## Curated Cost Models
+## EoE - Curated Cost Models
 
   01. [a - Argonne - BatPaC - Li ion EV battery pack cost model](01-a-argonne-batpac-li-ion-ev-battery-pack-cost-model.pdf)
   01. [b - Argonne - BatPaC - Li ion EV battery pack cost model](01-b-argonne-batpac-li-ion-ev-battery-pack-cost-model.xlsx)
@@ -22,11 +22,11 @@ play: 2
   08. [a - NREL - Biorefinery Economic Model Documentation](08-a-nrel-biorefinery-economic-model-documentation.pdf)
   08. [b - NREL - Biorefinery Economic Model Documentation](08-b-nrel-biorefinery-economic-model-documentation.xlsm)
 
-## Energy Storage Levelized Costs
+## EoE - Energy Storage Levelized Costs
 
   01. [Lazard - Levelized Cost of Energy Storage - Dec 2016](01-lazard-levelized-cost-of-energy-storage-dec-2016.pdf)
 
-## Solar PV Cost Modeling
+## EoE - Solar PV Cost Modeling
 
   01. [EES Buonassisi - Solar PV Cost Model Paper](01-ees-buonassisi-solar-pv-cost-model-paper.pdf)
   02. [EES Buonassisi - Solar PV Cost Model Workbook - 2.0](02-ees-buonassisi-solar-pv-cost-model-workbook-2.0.xlsx)

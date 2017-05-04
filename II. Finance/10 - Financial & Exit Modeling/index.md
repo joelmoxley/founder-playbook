@@ -3,7 +3,7 @@ title: Financial + Exit Modeling
 play: 10
 ---
 
-## Valuation Justification
+## EoE - Valuation Justification
 
   01. [Simbol - Jefferies Valuation Justification](01-simbol-jefferies-valuation-justification.pdf)
 

@@ -12,7 +12,7 @@ play: 3
   04. [a - ARPAE University - Funding Process](04-a-arpae-university-funding-process.pdf)
   04. [b - ARPAE University - Funding Process](https://www.youtube.com/watch?v=D8-fFWJwPEI)
 
-## ARPA-E Proposal
+## EoE - ARPA-E Proposal
 
   01. [ARPA-E Concept Paper Template - GET HALOTECHNICS](01-arpa-e-concept-paper-template-get-halotechnics.docx)
   01. [b - Halotechnics ARPA-E Technical Volume](01-b-halotechnics-arpa-e-technical-volume.docx)

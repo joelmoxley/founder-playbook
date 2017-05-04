@@ -7,7 +7,7 @@ play: 8
 
   01. [Stanford Entrep Course - Reality Marketing](01-stanford-entrep-course-reality-marketing.ppt)
 
-## Press Execution
+## EoE- Press Execution
 
   01. [a - Rubicon Global - Wikipedia](01-a-rubicon-global-wikipedia.pdf)
   01. [b - Rubicon Global wiki references section](https://en.wikipedia.org/wiki/Rubicon_Global#References)
