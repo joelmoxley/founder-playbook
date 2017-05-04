@@ -40,7 +40,7 @@ example: 01 – How To Tell Your Story
 
 #### Play index.md
 
-* Title: Name of okay to appear in table of contents
+* Title: Name of play to appear in table of contents
 * Play: index for play
 * Description: Description of play
 * Add section headers with “## Section Name”
