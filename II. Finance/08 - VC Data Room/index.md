@@ -7,7 +7,7 @@ play: 8
 
   01. [Box Data Room](https://www.box.com/collaboration/virtual-data-room)
 
-## VC Data Rooms
+## EoE - VC Data Rooms
 
   01. [Due Diligence Memo](01-due-diligence-memo.docx)
 
