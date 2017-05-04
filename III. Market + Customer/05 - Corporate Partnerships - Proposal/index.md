@@ -3,7 +3,7 @@ title: Corporate Partnerships - Proposal
 play: 5
 ---
 
-## Corporate Partnership Proposal
+## EoE - Corporate Partnership Proposal
 
   01. [Corporate Proposal Template](01-corporate-proposal-template.docx)
   02. [a - Halotechnics GameChangers Proposal Presentation 2013](02-a-halotechnics-gamechangers-proposal-presentation-2013.pptx)
