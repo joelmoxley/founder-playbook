@@ -52,4 +52,10 @@
   * ![Stanford](/img/stanford.png)
   * ![MIT](/img/mit-logo.png)
   * ![Breakthrough Energy](/img/breakthrough-energy.png)
+  * ![Stanford](/img/stanford.png)
+  * ![MIT](/img/mit-logo.png)
+  * ![Breakthrough Energy](/img/breakthrough-energy.png)
+  * ![Stanford](/img/stanford.png)
+  * ![MIT](/img/mit-logo.png)
+  * ![Breakthrough Energy](/img/breakthrough-energy.png)
 </div>
