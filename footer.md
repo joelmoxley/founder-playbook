@@ -47,6 +47,6 @@
   ###### Contributing Partners
 
   * ![Stanford](/img/stanford.png)
-  * ![MIT](/img/mit.png)
+  * ![MIT](/img/mit-logo.png)
   * ![Breakthrough Energy](/img/breakthrough-energy.png)
 </div>
