@@ -26,3 +26,12 @@ play: 1
   03. [Stanford d.school - Facilitator's Guide to Leading Re.d the G.G. Exp](03-stanford-d.school-facilitator-s-guide-to-leading-re.d-the-g.g.exp.pdf)
   04. [Stanford d.school - Design + Entreprenueship (mayfield)](04-stanford-d.school-design-entreprenueship-mayfield.ppt)
 
+## Network Experts
+
+ * [Justin Bessant](http://example.com)
+    Development
+    Engineer at Zero Mass
+ * [Nicholas Walrod](http://example.com)
+    3x5 Partners - Managing Director
+ * [Moji Karimi](http://example.com)
+    Entrepreneur | Startups | Energy & Biotech
