@@ -26,7 +26,7 @@ play: 1
   03. [Stanford d.school - Facilitator's Guide to Leading Re.d the G.G. Exp](03-stanford-d.school-facilitator-s-guide-to-leading-re.d-the-g.g.exp.pdf)
   04. [Stanford d.school - Design + Entreprenueship (mayfield)](04-stanford-d.school-design-entreprenueship-mayfield.ppt)
 
-## Network Experts
+## Network / Experts
 
  * ![](https://slack-imgs.com/?c=1&url=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_400_400%2FAAEAAQAAAAAAAAQOAAAAJDdkZDZmNTY1LWQ5YjMtNGVkYS1hM2RjLTFiNDAxNzljMjQxZg.jpg)
     [Justin Bessant](http://example.com)
