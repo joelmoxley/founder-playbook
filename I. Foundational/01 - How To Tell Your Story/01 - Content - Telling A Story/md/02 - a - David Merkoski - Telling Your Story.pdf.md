@@ -1,4 +1,4 @@
-aoneuht neuaohnsetuh nsaoeh enuosath nsoaethnsxaeuho
+aoneuht neuaohnsetuh nsaoeh enuosath nsoaethnsxaeuho foo
 
 {! search-content: !}
 5
