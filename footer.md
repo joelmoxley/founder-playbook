@@ -1,4 +1,4 @@
-<div markdown="1" class="columns medium-6">
+<div markdown="1" class="columns medium-6 footer-about hide-for-small-only">
 
   # About the Founder's Playbook
 
@@ -37,7 +37,7 @@
 </div>
 
 <div markdown="1" class="columns medium-6 partners">
-  ###### Funding Partners & Playbook Curators
+  ###### Founding Partners & Playbook Curators
 
   * ![Cyclotron Road](/img/cyclotronroad.png)
   * ![MH](/img/mh.png)
@@ -47,6 +47,15 @@
   ###### Contributing Partners
 
   * ![Stanford](/img/stanford.png)
-  * ![MIT](/img/mit.png)
+  * ![MIT](/img/mit-logo.png)
+  * ![Breakthrough Energy](/img/breakthrough-energy.png)
+  * ![Stanford](/img/stanford.png)
+  * ![MIT](/img/mit-logo.png)
+  * ![Breakthrough Energy](/img/breakthrough-energy.png)
+  * ![Stanford](/img/stanford.png)
+  * ![MIT](/img/mit-logo.png)
+  * ![Breakthrough Energy](/img/breakthrough-energy.png)
+  * ![Stanford](/img/stanford.png)
+  * ![MIT](/img/mit-logo.png)
   * ![Breakthrough Energy](/img/breakthrough-energy.png)
 </div>

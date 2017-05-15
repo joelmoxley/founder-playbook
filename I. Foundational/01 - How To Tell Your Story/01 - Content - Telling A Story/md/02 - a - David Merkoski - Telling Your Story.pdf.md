@@ -1,7 +1,6 @@
----
-title: 03 - Nancy Duarte - Greatest Communicators
-link: 02-a-david-merkoski-telling-your-story.pdf
----
+aoneuht neuaohnsetuh nsaoeh enuosath nsoaethnsxaeuho
+
+{! search-content: !}
 5
 of 45      
  Telling Your Story
