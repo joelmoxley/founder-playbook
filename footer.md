@@ -15,9 +15,6 @@
 
   # Join the Community
 
-  <i class="fa fa-creative-commons"></i>
-  <a href="http://github.com"><i class="fa fa-github"></i></a>
-
   ###### Want to use the playbook?
 
   The Founder's Playbook is an open access resource offered under creative
