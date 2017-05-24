@@ -15,6 +15,7 @@ To win over the hearts and minds of investors, your pitch has to accomplish thre
 	* Tell a good, clear, easy-to-repeat story—the story of an exciting new startup. 
   * Position your company as a perfect fit with other investments the investorshave made and their firm is chartered to make.
   * Beat out the other investments the firm is currently considering. 
+
 These latter two issues are beyond the scope of this modest guide. So for now, let’s just concentrate on telling a good story.
 Tell a good story
 Most of the articles on pitching are generally right about the topics, even if they miss the  nuance  (sell,  don’t  explain).  But  don’t  take  any  template  as  graven  in stone. Your story may require a moderate or even a dramatic variation on the list of slides below. You may need to explain the solution before you can explain the market; or if you are in a crowded space you may need to explain why you are different  than  everyone  else  early  on  in  the  conversation;  or  you  may  want  to drop  some  very  impressive  brand-name  customers  before  you  explain  your product or your market. The one thing you may not do is expand the number of slides  to  20  (or  30  or  50)!  Other  than  that,  let  the  specifics  of  your  situation dictate the flow of your slides.
