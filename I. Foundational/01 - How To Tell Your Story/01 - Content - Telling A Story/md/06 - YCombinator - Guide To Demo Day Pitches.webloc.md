@@ -1,7 +1,5 @@
----
-title: 06 - YCombinator - Guide To Demo Day Pitches
-link: http://blog.ycombinator.com/guide-to-demo-day-pitches/
----
+
+{! SEARCH-CONTENT: !}
 
 A Guide to Demo Day Presentations
 By Geoff Ralston
