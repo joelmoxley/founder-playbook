@@ -1,7 +1,5 @@
----
-title: 07 - Khan Academy - Pixar Storytelling Series
-link: https://www.khanacademy.org/partner-content/pixar/storytelling
----
+
+{! SEARCH-CONTENT: !}
 
 1. We are all storytellers
 
