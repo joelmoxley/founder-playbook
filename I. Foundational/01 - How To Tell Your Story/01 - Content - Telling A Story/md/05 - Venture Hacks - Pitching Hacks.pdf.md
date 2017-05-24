@@ -1,7 +1,5 @@
----
-title: 05 - Venture Hacks - Pitching Hacks
-link: 05-venture-hacks-pitching-hacks.pdf
----
+
+{! SEARCH-CONTENT: !}
 
   Pitching Hacks!
  (How to pitch startups to investors) BY VENTURE HACKS
