@@ -3,6 +3,7 @@
 Credit: [Garage Venture Technologies](http://garage.com)
 
 {! SEARCH-CONTENT: !}
+
 Perfecting Your Pitch
 
 By Garage Technology Ventures
