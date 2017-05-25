@@ -32,26 +32,26 @@ To empathize, you:
 - Engage. Sometimes we call this technique ‘interviewing’ but it should really feel more like a conversation. Prepare some questions you’d like to ask, but expect to let the conversation deviate from them. Keep the conversation only loosely bounded. Elicit stories from the people you talk to, and always ask “Why?” to uncover deeper meaning. Engagement can come through both short ‘intercept’ encounters and longer scheduled conversations.
 - Watch and Listen. Certainly you can, and should, combine observation and engagement. Ask someone to show you how they complete a task. Have them physically go through the steps, and talk you through why they are doing what they do. Ask them to vocalize what’s going through their mind as they perform a task or interact with an object. Have a conversation in the context of someone’s home or workplace – so many stories are embodied in artifacts. Use the environment to prompt deeper questions.
 
-Transition: Empathize >>> Defne
-Unpack: When you move from empathy work to drawing conclusions from that work, you need to process all the things you heard and saw in order to understand the big picture and grasp the takeaways of it all. Unpacking is a chance to start that process – sharing what you found with fellow designers and capturing the important parts in a visual form. Get all the information out of your head and onto a wall where you can start to make connections—post pictures of your user, post-its with quotes, maps of journeys or experiences—anything that captures impressions and information about your user. This is the beginning of the synthesis process, which leads into a ‘Defne’ mode.
+Transition: Empathize >>> Define
+Unpack: When you move from empathy work to drawing conclusions from that work, you need to process all the things you heard and saw in order to understand the big picture and grasp the takeaways of it all. Unpacking is a chance to start that process – sharing what you found with fellow designers and capturing the important parts in a visual form. Get all the information out of your head and onto a wall where you can start to make connections—post pictures of your user, post-its with quotes, maps of journeys or experiences—anything that captures impressions and information about your user. This is the beginning of the synthesis process, which leads into a ‘Define’ mode.
 
 
 DEFINE
 “Framing the right problem is the only way to create the right solution.”
 
-WHAT is the Defne mode
-The Defne mode of the design process is all about bringing clarity and focus to the design space. It is your chance, and responsibility, as a design thinker to defne the challenge you are taking on, based on what you have learned about your user and about the context. After becoming an instant-expert on the subject and gaining invaluable empathy for the person you are designing for, this stage is about making sense of the widespread information you have gathered.
-The goal of the Defne mode is to craft a meaningful and actionable problem statement – this is what we call a point-of-view. This should be a guiding statement that focuses on insights and needs of a particular user, or composite character. Insights don’t often just jump in your lap; rather they emerge from a process of synthesizing information to discover connections and patterns. In a word, the Defne mode is sensemaking.
+WHAT is the Define mode
+The Define mode of the design process is all about bringing clarity and focus to the design space. It is your chance, and responsibility, as a design thinker to define the challenge you are taking on, based on what you have learned about your user and about the context. After becoming an instant-expert on the subject and gaining invaluable empathy for the person you are designing for, this stage is about making sense of the widespread information you have gathered.
+The goal of the Define mode is to craft a meaningful and actionable problem statement – this is what we call a point-of-view. This should be a guiding statement that focuses on insights and needs of a particular user, or composite character. Insights don’t often just jump in your lap; rather they emerge from a process of synthesizing information to discover connections and patterns. In a word, the Define mode is sensemaking.
 
-WHY defne
-The Defne mode is critical to the design process because it results in your point-of-view (POV): the explicit expression of the problem you are striving to address. More importantly, your POV defnes the RIGHT challenge to address, based on your new understanding of people and the problem space. It may seem counterintuitive but crafting a more narrowly focused problem statement tends to yield both greater quantity and higher quality solutions when you are generating ideas.
-The Defne mode is also an endeavor to synthesize your scattered fndings into powerful insights. It is this synthesis of your empathy work that gives you the advantage that no one else has: discoveries that you can leverage to tackle the design challenge; that is, INSIGHT.
+WHY define
+The Define mode is critical to the design process because it results in your point-of-view (POV): the explicit expression of the problem you are striving to address. More importantly, your POV defines the RIGHT challenge to address, based on your new understanding of people and the problem space. It may seem counterintuitive but crafting a more narrowly focused problem statement tends to yield both greater quantity and higher quality solutions when you are generating ideas.
+The Define mode is also an endeavor to synthesize your scattered fndings into powerful insights. It is this synthesis of your empathy work that gives you the advantage that no one else has: discoveries that you can leverage to tackle the design challenge; that is, INSIGHT.
 
 DPØ STEPS:
-3 Capture Findings :: 4 Defne Problem Statement
+3 Capture Findings :: 4 Define Problem Statement
 
 
-HOW to defne
+HOW to define
 Articulate the meaningful challenge
 
 Consider what stood out to you when talking and observing people. What patterns emerge when you look at the set? If you noticed something interesting ask yourself (and your team) why that might be. In asking why someone had a certain behavior or feeling you are making connections from that person to the larger context. Develop an understanding of the type of person you are designing for – your USER. Synthesize and select a limited set of NEEDS that you think are important to fulfll; you may in fact express a just one single salient need to address. Work to express INSIGHTS you developed through the synthesis of information your have gathered through empathy and research work. Then articulate a point-of-view by combining these three elements – user, need, and insight – as an actionable problem statement that will drive the rest of your design work.
@@ -64,8 +64,8 @@ A good point-of-view is one that:
 - Captures the hearts and minds of people you meet
 - Saves you from the impossible task of developing concepts that are all things to all people (i.e. your problem statement should be discrete, not broad.)
 
-Transition: Defne >>> Ideate
-In the Defne mode you determine the specifc meaningful challenge to take on, and in the Ideate mode you focus on generating solutions to address that challenge. A well-scoped and -articulated point-of-view will lead you into ideation in a very natural way. In fact, it is a great litmus test of your point-of-view to see if brainstorming topics fall out your POV.
+Transition: Define >>> Ideate
+In the Define mode you determine the specifc meaningful challenge to take on, and in the Ideate mode you focus on generating solutions to address that challenge. A well-scoped and -articulated point-of-view will lead you into ideation in a very natural way. In fact, it is a great litmus test of your point-of-view to see if brainstorming topics fall out your POV.
 A great transition step to take is to create a list of “How-Might-We . . .?” brainstorming topics that ﬂow from your problem statement. These brainstorming topics typically are subsets of the entire problem, focusing on diﬀerent aspects of the challenge. Then when you move into ideation you can select diﬀerent topics, and try out a few to fnd the sweet spot of where the group can really churn out a large quantity of compelling ideas.
 
 
