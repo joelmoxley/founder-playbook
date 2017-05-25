@@ -138,7 +138,7 @@ Ideally you can test within a real context of the user’s life. For a physical 
 WHY test
 To refne prototypes and solutions. Testing informs the next iterations of prototypes. Sometimes this means going back to the drawing board.
 To learn more about your user. Testing is another opportunity to build empathy through observation and engagement—it often yields unexpected insights.
-To refne your POV. Sometimes testing reveals that not only did you not get the solution right, but also that you failed to frame the problem correctly.
+To refine your POV. Sometimes testing reveals that not only did you not get the solution right, but also that you failed to frame the problem correctly.
 
 DPØ STEPS: 6, 9 Share your solutions and get feedback
 
