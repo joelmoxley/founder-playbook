@@ -1,5 +1,18 @@
 
+Credit: [Khan Academy](https://www.khanacademy.org)
+
 {! SEARCH-CONTENT: !}
+
+The Art of Storytelling
+CONTENTS
+About
+1. We are all storytellers
+2. Character
+3. Story structure
+4. Visual language
+5. Film grammar
+6. Storyboard your film
+This topic is an exploration of the storytelling process at Pixar.
 
 1. We are all storytellers
 
@@ -14,6 +27,7 @@ Activity 3
 World & Character
 Activity 4
 Storytelling advice
+Glossary
 
 2. Character
 
@@ -31,20 +45,39 @@ Activity 4
 Stakes
 Activity 5
 Advice to storytellers 2
+Glossary
 
 3. Story structure
 
 Every story that is told has a foundation, or structure.  For example, one of the most basic story structures is “it begins, something happens, and it ends.”  But a story's structure can be complex, and if used well you’re not even aware of it.  In this lesson you’ll learn how Pixar structures their films, and you’ll start laying the foundation for your own stories.
+
 Introduction to Structure
-Coming soon!
+Story spine
+Activity 1
+Theme
+Activity 2
+Act 1
+Activity 3
+Act 2
+Activity 4
+Act 3
+Activity 5
+Advice to storytellers 3
+
+
 4. Visual language
 
 While telling almost any story involves words, characters and structure, making a film involves another aspect of storytelling that Pixar thinks a lot about: visual language. Visual language refers to how imagery is used to convey story ideas or meanings. Perspective, color, and shape can all be used to support a story by guiding the audience to see and feel certain things. In this lesson we introduce you to some basic principles of visual language, and you’ll get to apply those principles to your own stories.
 Coming soon!
+
+
 5. Film grammar
 
 Making a movie requires an understanding of the principles and terminology of cinematography, like camera angles, editing, composition, and movement of the camera and characters. This is also known as Film Grammar, and like actual spoken grammar, it is a language used to tell stories in a visual way. Each scene, shot, and frame is considered and crafted using this language. In this lesson we explore the basic Film Grammar used in cinematography and how Pixar approaches its use in storytelling. You will also use these principles to plan shots for your own film.
 Coming soon!
+
+
 6. Storyboard your film
 
 Storyboarding is the act of telling a story through sequential frames using simple drawings; it’s a quick way of working out all the elements of your story, from structure to composition, as you iterate and refine it. In this lesson we put everything together from the previous five lessons to demonstrate how Pixar uses storyboarding in their filmmaking process, and you will have the opportunity to try storyboarding the story you’ve been working on throughout these lessons.
+Coming soon!
