@@ -4,4 +4,6 @@ Title: Founder Playbook
 
 # Home Page
 
-Example home page content.  Editable in github at https://github.com/joelmoxley/founder-playbook/ (on the "master" branch).  To view the pure file structure, select the "File Tree" toggle or view it at founderplaybook.io while we're in pure dev mode.  (Please note we'll deprecate that link once this site is in production.  Please also note that search is currently for titles only, within-file indexing will occur in next phase.) 
+“And if you no longer go for a gap that exists, you are no longer a racing driver because we are competing, we are competing to win. And the main motivation to all of us is to compete for victory, it’s not to come 3rd, 4th, 5th or 6th.” – Ayrton Senna, 1991
+
+Search above (e.g. "pitch deck") or click one of the five volumes above (e.g. "foundational") and let's get after it to build some great companies.  Once you're in, swipe left and swipe right to nav.
