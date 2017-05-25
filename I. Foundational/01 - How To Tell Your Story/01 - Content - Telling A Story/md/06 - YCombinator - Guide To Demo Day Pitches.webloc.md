@@ -1,14 +1,14 @@
 
+Credit: [Geoff Ralston](http://blog.ycombinator.com/guide-to-demo-day-pitches/)
+
 {! SEARCH-CONTENT: !}
 
 A Guide to Demo Day Presentations
 By Geoff Ralston
  
 Advice
- July 25, 2016
+July 25, 2016
 In 2005 Y Combinator held its first Demo Day. Eight companies showed off their products and sold their vision to an audience of about 15 investors. Today, accelerators and incubators around the world hold their own demo days, and in 2016 over 200 YC companies will describe their startups to an audience of hundreds. Creating an effective demo day presentation has become an important part of participating in YC, not just due to the importance of Demo Day, but because the very process of fashioning the presentation is valuable. Surprisingly, it can be the first time founders achieve clarity together and come to a shared understanding of their story.1
-
-guide-to-demo-day-1
 
 Since that first YC batch we’ve helped over 1000 companies with their presentations. This guide summarizes what we’ve learned and describes how to create an effective demo day presentation. It is the perfect companion to A Guide to Seed Fundraising, where we discuss the mechanics of raising seed capital.2
 
@@ -34,8 +34,6 @@ It is helpful to begin your story as narrowly as you can and then expand upon th
 
 The Audience
 The goal of any presenter is to capture an audience’s attention and bring them along through their story. The very best presenters are captivating, informative, provocative, and sometimes funny. The worst are painfully awkward, convoluted, boring, or all of these.
-
-guide-to-demo-day-2
 
 The first step to success is to know to whom you are speaking. Or, rather, to know what it is that speaks to the people in front of you. Investors care only to find the next hot startup, and your goal is to convince them that it might just be you. Unfortunately, you usually have a distressingly short time in which to do this. This is true regardless of the length allotted to your presentation, since most investors will tune out almost instantly.
 
@@ -74,11 +72,7 @@ The most important part of your presentation is the story you tell. The slides a
 
 Please remember that an audience cannot read a slide AND listen to you simultaneously. If you force them to do so, they will probably read the slide and ignore you. Slides have to be dead simple to glance at and understand. In a presentation that lasts a matter of minutes you do not have time to walk your audience through a complex slide. Try this and you will find 80% of your listeners will be reading their email by the time you are through. Do not count on your audience being willing to work to understand you.
 
-guide-to-demo-day-3
-
 A good test is whether this slide or this point is more or less likely to persuade someone to join or invest in your company. This sort of testimonial feels good but has almost no impact on a listener.
-
-guide-to-demo-day-4
 
 Slide Tips
 Creating great slides is an art form that great presenters learn to master. Keep in mind that your slides are your support, not your competition. Kevin Hale’s presentation is a must-read. Follow his directions and keep the following tips in mind:
@@ -113,8 +107,6 @@ Every speaker has their own technique and it is important to be authentic. Yes, 
 
 Movement
 An important part of appearing confident, powerful, and formidable up on stage is how you move during your talk. It is almost never a good idea to be completely static. Your should be as natural as possible and not stand like a statue. An unmoving founder will often leave investors equally unmoved. Equally important is not to move too much so that you distract your audience.
-
-guide-to-demo-day-5
 
 Most of the time you should stand with your feet planted firmly and your weight equally distributed. Try not to shift your weight as that will cause you to sway distractingly. Similarly, although it is perfectly fine to move, do not pace. Take a few steps, stop, talk for a while, then move again if you like.
 
