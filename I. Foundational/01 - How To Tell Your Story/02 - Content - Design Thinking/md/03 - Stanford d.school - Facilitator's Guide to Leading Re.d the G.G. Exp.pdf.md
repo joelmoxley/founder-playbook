@@ -143,5 +143,87 @@ Tell them to note likes/dislikes and builds on the idea, but also listen for new
 Tell them to switch after four minutes.
 
 
+Ideate: generate alternatives to test.
+5 Sketch 3-5 radical ways to meet your user’s needs
+write your problem statement above
+
+6 Share your solutions & capture feedback. 8min (2 sessions x 4 minutes each)
+Notes
+
+Iterate based on feedback.
+How to facilitate this step
+IDEATE
+
+7—Reﬂect & generate a new solution
+They’ve had a chance to share their sketches with their partners and collect feedback.
+“Now, take a moment to consider what you have learned both about your partner, and about the solutions you generated.”
+“From this new understanding of your partner and his or her needs, sketch a new idea.”
+Tell them this solution may be a variation on an idea from before or something completely new.
+They are still addressing a problem statement that they articulated, but you might point out that their previous problem statement may need to change to incorporate the new insights and needs they discovered.
+“Try to provide as much detail and color around your idea as possible.”
+“How might this solution ft into the context of your partner’s life?”
+“When and how might they handle or encounter your solution?”
+While participants are working, grab the prototyping materials if you have not already.
+
+Iterate based on feedback.
+7 Reﬂect & generate a new solution. 3min
+Sketch your big idea, note details if necessary!
+
+Build and test.
+How to facilitate these steps
+
+PROTOTYPE
+8—Build!
+Tell participants to use the idea they just sketched as a blueprint for a tangible manifestation of their solution.
+“Create a physical prototype of your solution.”
+Explain that they should not simply make a scale model of their idea to explain the idea.
+They should create an experience that their partner can react to.
+They could decide to test just one aspect of the overall solution.
+“MAKE something that your partner can engage and interact with.”
+“If your solution is a service or a system, create a scenario that allows your partner to experience this innovation.”
+“Use whatever materials are available to you—including space!”
+Provide some urgency and excitement in your voice—you want to get them building immediately.
+“Be scrappy and quick—you only have fve minutes!!”
+
+TEST
+Explain that they will have four minutes each to share and collect feedback, and then they will switch so the other partner can share.
+“Now you’re going to have the opportunity to share your prototype with your partner.”
+Validation of the prototype is not the point—it should be an artifact that facilitates a new, targeted conversation.
+“When you test, LET GO of your prototype, physically and emotionally.”
+“Your prototype is NOT PRECIOUS, but the feedback and new insights it draws out are!”
+“Don’t defend your prototype; instead, watch how your partner uses and misuses it.”
+Tell them to jot down things their partner liked and didn’t like about the idea, as well as questions that emerged and new ideas that came up.
 
 
+Build and test.
+
+8 Build your solution. 5min
+Make something your partner can interact with! 
+
+9 Share your solution and get feedback. 8min (2 sessions x 4 minutes each)
++What worked...
+-What could be improved...
+?Questions
+!Ideas...
+
+
+Reﬂection and takeaways.
+How to facilitate this step
+10—Group gather and debrief
+This step is important! A well facilitated reﬂection has the power to turn this exercise from simply a fun activity to a meaningful experience that could impact the way participants approach innovation in the future.
+Quickly pull together a few tables that everyone can gather around.
+Tell everybody grab their prototypes and set them on the table in the middle of the room.
+“We’re going to huddle around and see what innovations you’ve created for your partners!”
+“Who had a partner who created something that you really like?”
+“Who sees something they are curious to learn more about?”
+Ask for the person who created the prototype and engage them in the conversation.
+“How did talking to your partner inform your design?”
+“How did testing and getting feedback impact your fnal design?”
+“What was the most challenging part of the process for you?”
+The key to leading this conversation is to relate the activity to the big takeaways you want to illustrate.
+Some of core values of design thinking that would be great to draw out include:
+Human-centered design: Empathy for the person or people you are designing for, and feedback from users, is fundamental to good design.
+Experimentation and prototyping: Prototyping is not simply a way to validate your idea; it is an integral part of your innovation process. We build to think and learn.
+A bias towards action: Design thinking is a misnomer; it is more about doing that thinking. Bias toward doing and making over thinking and meeting.
+Show don’t tell: Creating experiences, using illustrative visuals, and telling good stories communicate your vision in an impactful and meaningful way.
+Power of iteration: The reason we go through this exercise at a frantic pace is that we want people to experience a full design cycle. A person’s ﬂuency with design thinking is a function of cycles, so we challenege participants to go through as many cycles as possible—interview twice, sketch twice, and test with your partner twice. Additionally, iterating solutions many times within a project is key to successful outcomes.
