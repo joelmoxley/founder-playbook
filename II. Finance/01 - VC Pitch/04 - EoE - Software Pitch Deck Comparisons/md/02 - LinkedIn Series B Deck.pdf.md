@@ -97,6 +97,8 @@ Actual data, 5/03-present
 Growth projection (8/03)
 "LinkedIn has quickly become the Internet's largest online business network."
 "LinkedIn is the most strict about keeping its site solely for professional, business purposes."
+Forbes
+March 2004
 August 2004
 CONFIDENTIAL
 
