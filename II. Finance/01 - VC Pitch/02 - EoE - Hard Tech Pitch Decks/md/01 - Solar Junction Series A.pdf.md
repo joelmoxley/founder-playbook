@@ -241,3 +241,245 @@ Confidential 15
 
 How To Make a High Efficiency Solar Cell
 
+Energy Conversion Efficiency = Light Energy (Input) / Power (Output)
+Solar Irradiance (W/m2/nm)
+Wavelength (nm)
+Silicon
+1 Junction Solar Cell
+Max. Theoretical Efficiency ~ 30%
+Solar Irradiance (W/m2/nm)
+Wavelength (nm)
+Material 1 Absorbs This Light
+Material 2 Absorbs This Light
+Energy Conversion Efficiency of MJ Cell
+Material 3 Absorbs This Light
+Long Wavelength Light Unabsorbed
+Material 1
+Material 2
+Material 3
+3 Junction Solar Cell Stack
+Example Theoretical Efficiency 45%
+Confidential 16
+
+Optimal Spectrum Slicing:
+3 Layers
+Slicing Up the Solar Spectrum
+Solar Irradiance (W/m2/nm)
+Wavelength (nm)
+1.88eV InGaP Junction
+(42% of total sun power)
+1.42eV GaAs Junction
+(24% of total sun power)
+1eV Unknown Junction
+(22% of total sun power)
+Uncollected Long Wavelength Light
+(11% of total sun power)
+Current Solution: Germanium
+• Germanium has a 0.7eV bandgap (not 1eV)
+  • Compatible material with InGaP and GaAs
+  • Germanium‐based 3 junction cells now in space applications
+BUT
+Issues with Germanium Junction
+• Germanium Bandgap is NOT optimal:
+  • 0.7eV vs. optimal 1eV
+• Max theoretical efficiency of 3 Junction cell with
+  • Germanium Subcell: 39.9%
+  • Unknown 1eV Material Subcell: 44.5%
+Confidential 17
+
+Paths to a 1eV Junction
+GaInNAs Material 
+  • 1.0eV Bandgap Possible 
+  • Widely recognized as the ideal approach for Multi‐Junction Solar Cells
+GaInNAs(Sb)Success!!
+  • Homan Yuen, James Harris o So ar Junction & Stanford Univ.)
+  • Necessary performance metrics for Multi‐Junction cell integration demonstrated
+Tried by many and failed
+    Å Transmission Electron Microscope (TEM) image of lattice matched GaInNAs(Sb) material sandwiched between GaAs layers.
+Notice: No defects!
+2nd Choice Approach: Metamorphic InGaAs
+  • Complicated growth process 
+  • Less desirable
+  • Material quality not ideal 
+Transmission Electron Microscope (TEM) image of Metamorphic InGaAs on GaAs.
+Notice the high density of threading defects!
+Confidential 18
+
+Roadmap
+40%
+3 Junctions
+2 Junctions + Germanium
+45%
+3 Junctions
+2 Junctions + 1eV GaInNAs
+50%
+Improved Tunnel Junctions
+4 + Junctions
+Optimize Bandgaps
+Utilize GaInNAs: 0.9eV – 1.42eV
+Current
+Phase I 
+Phase II
+Confidential 19
+
+Current Status Summary
+• 1eV GaInNAs(Sb) single layer solar cell demonstrated with world record performance
+• Ready for integration into 3 junction cell 
+  • Target: world record solar cell efficiency
+• Further optimization of GaInNAs(Sb) possible
+• Utilizing Stanford University facilities for growth / process / test
+• Now is time to obtain Solar Junction owned & operated equipment
+Confidential 20
+
+Cost Modeling
+What a III‐V Cell Looks Like
+Metal Grid
+Epitaxy
+Single Cell (wafers have arrays of these….)
+Substrate
+Confidential 22
+
+Summary: $/product wafer
+Our Approach
+Competition
+Process & Test
+Epi
+Bond Wafer
+Substrate
+$324*
+Our Approach Competition
+$273*
+$245
+$190
+$255
+$224
+$193
+$151
+“Standard” 
+Doped GaAs substrate
+“Standard” 
+w/ cost reduction technique
+“Flip” 
+“Ge Junction” 
+(~38% efficiency limit)
+“MM InGaAs ”
+Metamorphic InGaAs 1eV junction
+Device Structures
+*Low Volume Substrate Pricing 
+Confidential 23
+
+The Plan
+Overview: The Plan
+Development (Current Phase)
+• Solar Junction acquired MBE epitaxy growth tool & support equipment
+• Hire staff
+• Develop key technology partners
+  • Spire
+  • NREL
+  • Foundry
+• Create world’s highest efficiency cell using our proprietary 3rd junction
+  • Outsource growth of the 2 “standard” junctions (GaAs / InGaP)
+  • Growth of the 1eV junction in‐house
+Production (Next Phase)
+• All epitaxial growth in‐house
+• Utilize existing foundries & outsourcing
+  • Infrastructure already exists
+  • Low CapEx
+  • Fast production ramp‐up
+  • High quality & yield
+Confidential 25
+
+Timeline
+High Efficiency Prototypes (Public Announcement)
+All MBE Developed
+OpEx:
+-- $0.65M $1.8M $1.7M
+$2.0M $2.0M $2.4M
+$2 6M $2 4M $2 8M $2 7M
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2008 2009
+. . . .
+Order Deliver
+Order Deliver
+CapEx #1 (Raise v1 & v2)
+Gen200 1st Chamber
+Metrology Tools
+Test Equipment
+Cleanroom & Improvements
+CapEx #2 (Raise v2)
+Gen200 2st Chamber
+
+Equity Raise v1:
+OpEx: $ 9.9M
+CapEx:$ 2.6M
+---------------------
+Total: $12.5M
+Debt: $7.7M Æ $3.9M
+(50% debt)
+Equity Raise v2:
+OpEx: $13.9M
+CapEx:$ 3.9M
+---------------------
+Total: $17.7M
+Debt: $5.2M Æ $2.6M
+(50% debt)
+Confidential 26
+CPV Levers for a Tera‐Watt Solar Revolution
+Research (Phase I)
+Pilot (Phase II)
+Production (Phase 1)
+Production (Phase 2)
+Production (Phase 3)
+Production (Future)
+Levers
+Wattage
+NA 
+4MW – 200MW 
+1.6GW 
+6.4GW
+150GW
+Concentration 
+500 
+500 
+500 
+1000 
+2000 
+5000
+Wafer Size 
+3inch 
+4inch 
+4inch 
+4inch / 6inch 
+4inch / 6inch 
+?
+Efficiency 
+40% 
+50%
+Fab Process Revision 
+X 
+X 
+X
+MBE Tool Revision 
+X 
+X 
+X
+Technology Innovations 
+GaInNAsSb / Improved Tunnel Junctions 
+Add Junction 
+TPV?
+Confidential 27
+
+Conclusion
+• All solar technologies will co‐exist in the future
+• CPV can address utilities to rooftops
+• CPV wins when:
+• Installation is area constrained
+• Trying to scaling to Tera‐watt levels
+• Cost is an issue
+• CPV module vendors feel their cell supply is in jeopardy
+• Solar Junction’s technology set will create the highest efficiency solar cells in the world
+• Efficiency is very valuable to CPV module vendors
+Confidential 28
+
+
+
