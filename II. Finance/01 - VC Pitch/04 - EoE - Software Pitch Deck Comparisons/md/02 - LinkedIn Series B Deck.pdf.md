@@ -198,6 +198,7 @@ Additional Professional Groups
 * InterFrench
 * Industry Standard Internet Executive Group
 * Press Club of California
+* PDMA NorCal
 * Association of International Product Marketing and Management
 Additional Corporate Alumni Groups
 * Sun Microsystems Alumni Association
