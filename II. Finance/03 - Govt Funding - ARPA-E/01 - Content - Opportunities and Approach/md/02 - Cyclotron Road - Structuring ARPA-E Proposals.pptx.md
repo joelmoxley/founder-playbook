@@ -7,23 +7,14 @@ Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 {! search-content: !}
 
 Budget that credibly allows you to perform work within project timeline
-
 Detailed plan with interim targets that show risk abatement
-
 Best possible team to carry out activities and address risks
-
 Activity streams that must be carried out
-
 Major technical risks that must be overcome to reach tech targets 
-
 State of the art and gap analysis b/w current state and targets
-
 Tech & T2M targets that demonstrate impact potential
-
 Your novel tech approach to address impact opportunity
-
 Impact Opportunity and Need
-
 Berkeley Lab
 cyclotronroad
 
