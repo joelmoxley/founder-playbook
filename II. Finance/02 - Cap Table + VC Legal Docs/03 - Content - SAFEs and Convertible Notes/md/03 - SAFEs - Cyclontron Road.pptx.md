@@ -44,6 +44,16 @@ Pivoting to pet social network
 Time
 Seed Time
 
+2. Convertibles Notes  defer valuation to a future date
+Value
+Convert to equity
+$$ as debt
+Compare payoff of Equity and Debt
+Debt Matures and is repaid
+Investment time
+Next Round
+Time
+
 
 3. Conversion Discount
 * Conversion Discount: early investors reward for taking early risk, 10% - 25% - more commonly 20%
