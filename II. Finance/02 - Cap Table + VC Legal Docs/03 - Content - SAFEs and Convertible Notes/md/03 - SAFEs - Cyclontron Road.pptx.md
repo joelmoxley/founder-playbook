@@ -22,8 +22,7 @@ Overview
 3. The terms of the convertibles can result in drastically different outcomes. 
 4. SAFEs are similar to convertibles notes but are relatively simpler and use equity instead of debt. 
 
-
-
+.
 
 1. Investors use various valuation methodologies
 
