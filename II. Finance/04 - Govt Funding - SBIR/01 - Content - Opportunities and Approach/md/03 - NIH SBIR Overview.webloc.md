@@ -18,4 +18,4 @@ SBIR
 The NIH SBIR program funds early stage small businesses that are seeking to commercialize innovative biomedical technologies. This competitive program helps small businesses participate in federal research and development, develop life-saving technologies, and create jobs.
 
 STTR
-The NIH STTR program is similar to the NIH SBIR program, but requires that the small business formally collaborate with a research institution in Phase I and Phase II. Learn more about the NIH SBIR and STTR programs, including their critical differences
+The NIH STTR program is similar to the NIH SBIR program, but requires that the small business formally collaborate with a research institution in Phase I and Phase II. Learn more about the NIH SBIR and STTR programs, including their critical differences.
