@@ -110,3 +110,10 @@ Ordered lists use numbers and will appear numbered.
 	1. Red
 	2. Blue
 	3. Green 
+
+## Dev notes:
+
+	* Create permalink landing page for each file
+		* A
+		* B
+	* UX
