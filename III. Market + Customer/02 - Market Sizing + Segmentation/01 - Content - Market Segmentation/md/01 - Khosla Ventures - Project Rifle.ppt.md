@@ -116,7 +116,7 @@ Life Insurance / Diversified Financial Services   ~$30M / yr
 0%
 
 
-Financial Services After Rifle Criteria:Target Universe Sharpens Considerably
+Financial Services After Rifle Criteria: Target Universe Sharpens Considerably
 Too Small (3%)
 Recent IVR Purchase (39%)
 Other Telecom Network  (42%)
