@@ -4,7 +4,6 @@ Here's an example of a description that appears under a link.
 
 Credit: [US Securities and Exchange Commission](https://www.sec.gov/)
 
-
 {! search-content: !}
 
 F-1/A 1 h01569a2fv1za.htm YINGLI GREEN ENERGY HOLDING COMPANY LIMITED
@@ -12507,4 +12506,3 @@ No. 001-33469).
 †		Confidential treatment has been requested for portions of this exhibit.
 
 II-9
-
