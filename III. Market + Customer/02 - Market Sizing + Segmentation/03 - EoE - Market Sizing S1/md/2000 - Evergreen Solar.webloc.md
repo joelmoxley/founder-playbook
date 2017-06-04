@@ -111,7 +111,7 @@ FILER:
                                    COPIES TO:
 
 <TABLE>
-<S>                                                 <C>
+<S>                                                 
            WILLIAM J. SCHNOOR, JR., ESQ.                           DAVID F. DIETZ, P.C.
           TESTA, HURWITZ & THIBEAULT, LLP                          ANDREW F. VILES, ESQ.
                   125 HIGH STREET                               GOODWIN, PROCTER & HOAR LLP
@@ -162,7 +162,7 @@ Issued October 31, 2000
 <CAPTION>
                                                               Per Share      Total
                                                               ---------      -----
-<S>                                                           <C>         <C>
+<S>                                                        
 Offering Price..............................................   $          $
 Discounts and Commissions to Underwriters...................   $          $
 Offering Proceeds to Evergreen Solar........................   $          $
@@ -214,7 +214,7 @@ BANC OF AMERICA SECURITIES LLC
 <CAPTION>
                                                               PAGE
                                                               ----
-<S>                                                           <C>
+<S>                                                           
 Prospectus Summary..........................................    1
 Risk Factors................................................    6
 Forward-Looking Statements..................................   17
@@ -353,7 +353,7 @@ Proposed Nasdaq National Market symbol..............................      "ESLR"
                                                  -------   -------   -------   -------   -------
                                                                                   (UNAUDITED)
                                                       (IN THOUSANDS, EXCEPT PER SHARE DATA)
-<S>                                              <C>       <C>       <C>       <C>       <C>
+<S>                                              
 STATEMENT OF OPERATIONS DATA:
 Product revenues...............................  $   153   $   163   $   189   $    81   $    97
 Research revenues..............................      556     1,395     2,113     1,070     1,008
@@ -390,7 +390,7 @@ Shares used in computing basic and diluted net income (loss) per common share...
                                                          --------    --------------    ------------
                                                                       (UNAUDITED)
                                                                      (IN THOUSANDS)
-<S>                                                      <C>         <C>               <C>
+<S>                                                   
 BALANCE SHEET DATA:
 Cash, cash equivalents and short-term investments......  $ 16,143       $16,143          $54,153
 Working capital........................................    16,416        16,416           54,426
@@ -721,7 +721,7 @@ WE ARE SUBJECT TO ANTI-TAKEOVER PROVISIONS IN OUR CHARTER AND BY-LAWS AND UNDER 
                                                              ACTUAL     PRO FORMA    AS ADJUSTED
                                                             --------    ---------    -----------
                                                              (IN THOUSANDS, EXCEPT SHARE DATA)
-<S>                                                         <C>         <C>          <C>
+<S>                                                         
 Long-term portion of notes payable and capital lease
   obligations.............................................  $     --    $     --      $     --
 Redeemable convertible preferred stock:
@@ -771,7 +771,7 @@ Accretion of redeemable convertible preferred stock.......    (4,391)         --
      Our pro forma net tangible book value as of June 30, 2000 was $19.3 million or $2.40 per share. Pro forma net tangible book value per share of common stock represents our total tangible assets less our total liabilities, divided by the aggregate number of shares of our common stock outstanding, including the effect of the conversion of our redeemable convertible preferred stock into common stock. After giving effect to the sale of the 3,000,000 shares of our common stock in this offering at an assumed initial public offering price of $14.00 per share and after deducting the underwriting discounts and commissions and estimated offering expenses payable by us, our net tangible book value as of June 30, 2000 would have been $57.4 million or $5.19 per share. This represents an immediate increase in net tangible book value of $2.79 per share to existing stockholders and an immediate dilution of $8.81 per share to new investors. Dilution per share represents the difference between the amount per share paid by the new investors in this offering and the net tangible book value per share as of June 30, 2000, giving effect to this offering. The following table illustrates this per share dilution to new investors.
 
 <TABLE>
-<S>                                                           <C>      <C>
+<S>                                                         
 Assumed initial public offering price per share.............           $14.00
   Pro forma net tangible book value per share as of June 30,
      2000...................................................  $2.40
@@ -792,7 +792,7 @@ Dilution per share to new investors.........................           $ 8.81
                                      ---------------------    ----------------------    AVERAGE PRICE
                                        NUMBER      PERCENT      AMOUNT       PERCENT      PER SHARE
                                      ----------    -------    -----------    -------    -------------
-<S>                                  <C>           <C>        <C>            <C>        <C>
+<S>                                  
 Existing stockholders..............   8,057,705      72.9%    $31,562,000      42.9%       $ 3.92
 New investors......................   3,000,000      27.1      42,000,000      57.1         14.00
                                      ----------     -----     -----------     -----
@@ -822,7 +822,7 @@ New investors......................   3,000,000      27.1      42,000,000      5
                                                            ------   -------   -------   -------   -------   -------   -------
                                                                                                                (UNAUDITED)
                                                                          (IN THOUSANDS, EXCEPT PER SHARE DATA)
-<S>                                                        <C>      <C>       <C>       <C>       <C>       <C>       <C>
+<S>                                                       
 STATEMENT OF OPERATIONS DATA:
 Product revenues.........................................  $   --   $    --   $   153   $   163   $   189   $    81   $    97
 Research revenues........................................     141       587       556     1,395     2,113     1,070     1,008
@@ -858,7 +858,7 @@ Weighted average shares used in computing basic and
                                                             ------   -------   -------   -------   --------   --------------
                                                                                                                (UNAUDITED)
                                                                                      (IN THOUSANDS)
-<S>                                                         <C>      <C>       <C>       <C>       <C>        <C>
+<S>                                                     
 BALANCE SHEET DATA:
 Cash, cash equivalents and short-term investments.........  $1,160   $ 3,837   $ 2,623   $ 4,805   $ 14,455      $ 16,143
 Working capital...........................................   1,196     3,885       426     4,985     14,982        16,416
@@ -1005,7 +1005,7 @@ HISTORICAL MILESTONES
 - -----------------------------------------------------------------------------
 DATE                                 HISTORICAL MILESTONE
 - -----------------------------------------------------------------------------
-<S>              <C>
+<S>              
 October 1994     Evergreen Solar founded with four employees in a 2,500 square foot laboratory.
 October 1995     First String Ribbon wafers produced.
 April 1997       9,400 square foot pilot manufacturing facility operational.
@@ -1047,7 +1047,7 @@ INDUSTRY BACKGROUND
 [CHART]
 
 <TABLE>
-<S>                                                           <C>                                <C>
+<S>                                                      
                                                                           Off-grid                           On-grid
 1990                                                                         46.00                             48.00
 1991                                                                         49.70                             52.30
@@ -1069,7 +1069,7 @@ INDUSTRY BACKGROUND
               [PIE CHART]
 
 <TABLE>
-<S>                                                           <C>
+<S>                                                           
 Japan                                                                            26.00
 Europe                                                                           15.00
 India                                                                             8.00
@@ -1173,7 +1173,7 @@ OUR TECHNOLOGY SOLUTION
                                                 INDUSTRIAL APPLICATION     INDUSTRIAL APPLICATION
  PROCESS STEP          CURRENT TECHNOLOGY       EXPECTED BY 2001-2002      EXPECTED BY 2003-2005
  ------------------------------------------------------------------------------------------------
- <S>                <C>                        <C>                        <C>
+ <S>             
  String Ribbon      - 5.6 cm wide              - 8 cm wide                - 10 cm wide
  Wafer Processing   - 250 microns thick                                   - 100 microns thick
 
@@ -1241,7 +1241,7 @@ OUR PRODUCTS
                                             INTRODUCTION EXPECTED BY    INTRODUCTION EXPECTED BY
 PRODUCT TYPE        CURRENT PRODUCTS               2001-2002                   2003-2005
 - ------------------------------------------------------------------------------------------------
-<S>              <C>                        <C>                         <C>
+<S>            
  Solar Panels     - 25 to 64 watt solar      - Larger solar panels       - Frameless roofing
                     panels                   of approximately 100          tiles and other
                                                watts                       building-integrated
@@ -1280,7 +1280,7 @@ with the recent passage of an additional government subsidy program. We also exp
 <CAPTION>
 MARKET                                                        SALES MIX
 - ------                                                        ---------
-<S>                                                           <C>
+<S>                                                           
 On-grid market..............................................     35%
 Rural electrification market................................     47%
 Other off-grid markets......................................     18%
@@ -1328,7 +1328,7 @@ Other off-grid markets......................................     18%
 <CAPTION>
 REGION                                                      SALES MIX
 - ------                                                      ---------
-<S>                                                         <C>
+<S>                                                        
 United States and Canada..................................     34%
 Africa....................................................     27%
 Latin America.............................................     20%
@@ -1451,7 +1451,7 @@ EXECUTIVE OFFICERS AND DIRECTORS
 <CAPTION>
 NAME                                   AGE                           POSITION
 - ----                                   ---                           --------
-<S>                                    <C>    <C>
+<S>                                    
 Mark A. Farber.......................  47     Chief Executive Officer, President and Director
 Richard G. Chleboski.................  34     Chief Financial Officer, Treasurer, Secretary and
                                               Director
@@ -1536,7 +1536,7 @@ EXECUTIVE COMPENSATION
                                                        -----------------------    SECURITIES UNDERLYING
 NAME AND PRINCIPAL POSITION(S)                         SALARY ($)    BONUS ($)         OPTIONS (#)
 - ------------------------------                         ----------    ---------    ---------------------
-<S>                                                    <C>           <C>          <C>
+<S>                                                  
 Mark A. Farber.......................................   101,750       10,000             34,642
   Chief Executive Officer and President
 Dr. Jack I. Hanoka...................................   106,838       10,000             34,642
@@ -1559,7 +1559,7 @@ Dr. Jack I. Hanoka...................................   106,838       10,000    
                                       OPTIONS     EMPLOYEES IN     PRICE     EXPIRATION   -----------------------
 NAME                                GRANTED (#)    FISCAL YEAR    ($/ SH)       DATE       5% ($)       10% ($)
 - ----                                -----------   -------------   --------   ----------   ---------   -----------
-<S>                                 <C>           <C>             <C>        <C>          <C>         <C>
+<S>                               
 Mark A. Farber....................    34,642          13.1%         0.87      7/26/09      759,856     1,227,795
 Dr. Jack I. Hanoka................    34,642          13.1%         0.87      7/26/09      759,856     1,227,795
 </TABLE>
@@ -1580,7 +1580,7 @@ Values
                                                    ---------------------------   ---------------------------
 NAME                                               EXERCISABLE   UNEXERCISABLE   EXERCISABLE   UNEXERCISABLE
 - ----                                               -----------   -------------   -----------   -------------
-<S>                                                <C>           <C>             <C>           <C>
+<S>                                          
 Mark A. Farber...................................     6,618         47,114          87,732        618,887
 Dr. Jack I. Hanoka...............................     7,658         47,460         101,845        623,582
 </TABLE>
@@ -1655,7 +1655,7 @@ LIMITATION OF LIABILITY AND INDEMNIFICATION OF OFFICERS AND DIRECTORS
                                                BENEFICIALLY       60 DAYS FROM        BEFORE      AFTER
 NAME AND ADDRESS OF BENEFICIAL OWNER(1)           OWNED           JUNE 30, 2000      OFFERING    OFFERING
 - ---------------------------------------      ----------------   -----------------    --------    --------
-<S>                                          <C>                <C>                  <C>         <C>
+<S>                                        
 5% STOCKHOLDERS:
 Arete Entities(2)..........................     2,154,616                --            26.3%       19.2%
   P.O. Box 1299
@@ -1686,7 +1686,7 @@ Nth Power Technologies Fund I, L.P.(3).....     1,016,914                --     
                                                BENEFICIALLY       60 DAYS FROM        BEFORE      AFTER
 NAME AND ADDRESS OF BENEFICIAL OWNER(1)           OWNED           JUNE 30, 2000      OFFERING    OFFERING
 - ---------------------------------------      ----------------   -----------------    --------    --------
-<S>                                          <C>                <C>                  <C>         <C>
+<S>                                         
 Swiss Reinsurance Company(4)...............       693,522                --             8.5%        6.2%
   Mythenquai 50/60
   CH 8022 Zurich
@@ -1754,7 +1754,7 @@ SALES OF STOCK, DEBENTURES AND WARRANTS
 <CAPTION>
 INVESTOR                                                 PROMISSORY NOTE    WARRANT SHARES
 - --------                                                 ---------------    --------------
-<S>                                                      <C>                <C>
+<S>                                                    
 Arete Entities.........................................    $1,160,000          107,159
 Zero Stage Capital Entities............................    $  400,000           36,951
 </TABLE>
@@ -1779,7 +1779,7 @@ Zero Stage Capital Entities............................    $  400,000           
                                             PROMISSORY      SHARES ISSUED   STOCK UPON    WARRANT
 INVESTOR                                       NOTES          FOR CASH      CONVERSION    SHARES
 - --------                                  ---------------   -------------   -----------   -------
-<S>                                       <C>               <C>             <C>           <C>
+<S>                                     
 Arete Entities..........................      596,271           175,000       356,243     142,496
 Nth Power Technologies Fund I, L.P. ....           --         1,000,000       461,893     184,757
 Swiss Reinsurance Company...............           --           500,000       230,946      92,378
@@ -1797,7 +1797,7 @@ Zero Stage Capital V, L.P. .............      205,610                --        9
                                                            NUMBER OF        COMMON STOCK
 INVESTOR                                                SERIES D SHARES    UPON CONVERSION
 - --------                                                ---------------    ---------------
-<S>                                                     <C>                <C>
+<S>                                                  
 Arete Entities........................................     1,020,000           471,130
 Kawasaki Heavy Industries, Ltd. ......................     2,000,000           923,787
 Nth Power Technology Fund I, L.P. ....................       801,623           370,264
@@ -1941,7 +1941,7 @@ EFFECTS OF SALES OF SHARES
                                                                 OF
 UNDERWRITER                                                   SHARES
 - -----------                                                   -------
-<S>                                                           <C>
+<S>                                                        
 Banc of America Securities LLC..............................
 CIBC World Markets Corp. ...................................
 FAC/Equities, a division of First Albany Corporation........
@@ -1967,7 +1967,7 @@ FAC/Equities, a division of First Albany Corporation........
                                                       ----------------------------
                                                       NO EXERCISE    FULL EXERCISE
                                                       -----------    -------------
-<S>                                                   <C>            <C>
+<S>                                                 
 Per share...........................................  $               $
 Total...............................................  $               $
 </TABLE>
@@ -2040,7 +2040,7 @@ Total...............................................  $               $
 <CAPTION>
                                                               PAGE
                                                               ----
-<S>                                                           <C>
+<S>                                                       
 Report of Independent Accountants...........................  F-2
 Balance Sheets as of December 31, 1998 and 1999, as of June
   30, 2000 (unaudited) and pro forma as of June 30, 2000
@@ -2095,7 +2095,7 @@ January 31, 2000, except as to the reverse stock split described in Note 2 and t
                                                                1998       1999       2000       2000 (NOTE 2)
                                                               -------   --------   --------   -----------------
                                                                                         (UNAUDITED)
-<S>                                                           <C>       <C>        <C>        <C>
+<S>                                                         
 ASSETS
 Current assets:
  Cash and cash equivalents..................................  $   162   $  1,466   $ 3,097
@@ -2202,7 +2202,7 @@ Stockholders' equity (deficit):
                                               1997       1998       1999       1999       2000
                                              -------    -------    -------    -------    -------
                                                                                  (UNAUDITED)
-<S>                                          <C>        <C>        <C>        <C>        <C>
+<S>                                       
 Revenues:
   Product revenues.........................  $   153    $   163    $   189    $    81    $    97
   Research revenues........................      556      1,395      2,113      1,070      1,008
@@ -2272,7 +2272,7 @@ Weighted average shares used in computing
                                 ---------------    PAID-IN       DEFERRED       SINCE       PREFERRED     STOCKHOLDERS'
                                 SHARES   AMOUNT    CAPITAL     COMPENSATION   INCEPTION       STOCK          DEFICIT
                                 ------   ------   ----------   ------------   ----------   ------------   -------------
-<S>                             <C>      <C>      <C>          <C>            <C>          <C>            <C>
+<S>                      
 BALANCE AT DECEMBER 31,
   1996........................   803       $8       $    9       $    --       $ (1,965)     $  (414)       $ (2,362)
 Accretion of redeemable
@@ -2340,7 +2340,7 @@ BALANCE AT JUNE 30, 2000
                                                   1997      1998      1999      1999      2000
                                                  -------   -------   -------   -------   -------
                                                                                   (UNAUDITED)
-<S>                                              <C>       <C>       <C>       <C>       <C>
+<S>                                             
 CASH FLOWS FOR OPERATING ACTIVITIES:
   Net income (loss)............................  $(3,056)  $(2,522)  $(2,932)  $(1,113)  $(1,875)
   Adjustments to reconcile net income (loss) to
@@ -2534,7 +2534,7 @@ Noncash transactions:
                                                                         ----------------    JUNE 30,
                                               USEFUL LIFE                1998      1999       2000
                                               -----------               ------    ------    --------
-<S>                                <C>                                  <C>       <C>       <C>
+<S>                              
 Laboratory equipment.............                 3-5                   $1,150    $1,241    $ 2,037
 Computer and office equipment....                 3-5                       56        79        106
 Leasehold improvements...........  Lesser of 3-5 years or lease term       123       123        117
@@ -2565,7 +2565,7 @@ Less accumulated depreciation....                                         (657) 
                                                 1997       1998      1999      1999      2000
                                                -------    ------    ------    ------    -------
                                                                                  (UNAUDITED)
-<S>                                            <C>        <C>       <C>       <C>       <C>
+<S>                                           
 Income tax expense (benefit) at US federal
   statutory tax rate.........................   (1,026)     (855)     (997)     (378)      (567)
 State income taxes, net of federal tax
@@ -2598,7 +2598,7 @@ tax credit carryforwards of approximately $449,000 and $369,000, respectively, a
                                                               -----------------   JUNE 30,
                                                                1998      1999       2000
                                                                ----      ----     --------
-<S>                                                           <C>       <C>       <C>
+<S>                                                       
 Net operating loss carry forwards...........................    3,007     4,175     4,850
 Research and development credit carry forwards..............      533       818       952
 Other.......................................................       37        52        56
@@ -2640,7 +2640,7 @@ Other.......................................................       37        52 
 <CAPTION>
                                                     SHARES     WEIGHTED AVERAGE OPTION PRICE
                                                     -------    -----------------------------
-<S>                                                 <C>        <C>
+<S>                                              
 Outstanding at December 31, 1996..................   91,893                $0.47
   Granted.........................................    4,848                 0.65
                                                     -------
@@ -2677,7 +2677,7 @@ Outstanding at June 30, 2000 (unaudited)..........  617,696                 1.42
                               EXERCISE       NUMBER      CONTRACTUAL   EXERCISE     NUMBER      EXERCISE
                                PRICES      OUTSTANDING      LIFE        PRICE     EXERCISABLE    PRICE
                               --------     -----------   -----------   --------   -----------   --------
-<S>                         <C>            <C>           <C>           <C>        <C>           <C>
+<S>                      
                             $   0.22           25,396        5.66       $0.22        25,396      $0.22
                                 0.43           24,702        6.09        0.43        18,869       0.43
                                 0.65           44,794        6.94        0.65        32,721       0.65
@@ -2707,7 +2707,7 @@ June 30, 2000 (unaudited)   $0.22 - 4.55      617,696        9.04       $1.42   
                        STOCKHOLDERS      SHARE       STOCKHOLDERS     SHARE      STOCKHOLDERS     SHARE
                        ------------   ------------   ------------   ----------   ------------   ----------
                                               (IN THOUSANDS, EXCEPT PER SHARE DATA)
-<S>                    <C>            <C>            <C>            <C>          <C>            <C>
+<S>               
 As reported..........    $(3,593)        $(4.47)       $(3,475)       $(4.33)      $(4,163)       $(5.18)
 Pro forma............    $(3,598)        $(4.48)       $(3,485)       $(4.34)      $(4,181)       $(5.21)
 
@@ -2721,7 +2721,7 @@ Pro forma............    $(3,598)        $(4.48)       $(3,485)       $(4.34)   
                        STOCKHOLDERS     SHARE      STOCKHOLDERS     SHARE
                        ------------   ----------   ------------   ----------
                                (IN THOUSANDS, EXCEPT PER SHARE DATA)
-<S>                    <C>            <C>          <C>            <C>
+<S>                  
 As reported..........    $(1,723)       $(2.15)      $(3,131)       $(3.88)
 Pro forma............    $(1,734)       $(2.16)      $(3,156)       $(3.91)
 </TABLE>
@@ -2736,7 +2736,7 @@ using the minimum value option pricing model with the following assumptions.
                                             --------------------    ----------------
                                             1997    1998    1999    1999       2000
                                             ----    ----    ----    -----      -----
-<S>                                         <C>     <C>     <C>     <C>        <C>
+<S>                                        
 Expected option term......................    10      10       7       7          7
 Risk-free interest rate...................   6.5%    5.8%    5.4%    5.4%       6.4%
 Expected dividend yield...................  None    None    None    None       None
@@ -2835,7 +2835,7 @@ ITEM 13.  OTHER EXPENSES OF ISSUANCE AND DISTRIBUTION.
      Estimated expenses, other than underwriting discounts and commissions, payable by us in connection with the sale of the common stock being registered under this registration statement are as follows:
 
 <TABLE>
-<S>                                                           <C>
+<S>                                                           
 SEC registration fee........................................  $   13,662
 NASD filing fee.............................................       5,675
 Nasdaq National Market listing fee..........................      90,000
@@ -2905,7 +2905,7 @@ ITEM 16.  EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
 <CAPTION>
 EXHIBIT NO.                           DESCRIPTION
 - -----------                           -----------
-<S>           <C>
+<S>        
  1.1+         Form of Underwriting Agreement.
  3.1+         Second Amended and Restated Certificate of Incorporation of
               the Registrant.
@@ -2936,7 +2936,7 @@ EXHIBIT NO.                           DESCRIPTION
 <CAPTION>
 EXHIBIT NO.                           DESCRIPTION
 - -----------                           -----------
-<S>           <C>
+<S>         
 10.5+         Lease Agreement between Registrant W9/TIB Real Estate
               Limited Partnership dated as of January 31, 2000, as
               amended.
@@ -3001,7 +3001,7 @@ ITEM 17.  UNDERTAKINGS.
 <CAPTION>
                      SIGNATURE                                  TITLE(S)                      DATE
                      ---------                                  --------                      ----
-<C>                                                  <S>                                <C>
+
                 /s/ MARK A. FARBER                   Chief Executive Officer,           October 31, 2000
 - ---------------------------------------------------    President and Director
                   Mark A. Farber                       (Principal Executive Officer)
@@ -3074,7 +3074,7 @@ January 31, 2000
                                               BEGINNING OF    CHARGED TO                   BALANCE AT
 DESCRIPTION                                      PERIOD       OPERATIONS    DEDUCTIONS    END OF PERIOD
 - -----------                                   ------------    ----------    ----------    -------------
-<S>                                           <C>             <C>           <C>           <C>
+<S>                                        
 YEAR ENDED DECEMBER 31, 1997
 Reserves and allowances deducted from asset
   accounts
@@ -3107,7 +3107,7 @@ EXHIBIT NO.
 - -----------
                                DESCRIPTION
                                -----------
-<S>           <C>
+<S>       
  1.1+         Form of Underwriting Agreement.
  3.1+         Second Amended and Restated Certificate of Incorporation of  the Registrant.
  3.2+         Third Amended and Restated Certificate of Incorporation of the Registrant.
@@ -3565,7 +3565,7 @@ Consulting Periods; provided, however, that in the event that EVERGREEN's determ
           Measurement Year                                      Minimum Royalty
           ----------------                                      ---------------
 
-<S>                                                 <C>
+<S>                                                
 [CONFIDENTIAL TREATMENT REQUESTED] /*/              [CONFIDENTIAL TREATMENT REQUESTED] /*/
 [CONFIDENTIAL TREATMENT REQUESTED] /*/              [CONFIDENTIAL TREATMENT REQUESTED] /*/
 [CONFIDENTIAL TREATMENT REQUESTED] /*/              [CONFIDENTIAL TREATMENT REQUESTED] /*/
@@ -3803,7 +3803,7 @@ provided, however, that in any such case, the transferee or other recipient shal
   File No.                          Description
   -------                           -----------
 
-<S>            <C>
+<S>          
 1.1            Interference: Dermatis background and negotiations.
 
 1.2            Interference: Dermatis file wrapper.
@@ -3836,7 +3836,7 @@ provided, however, that in any such case, the transferee or other recipient shal
 <TABLE>
 <CAPTION>
 
-<S>            <C>
+<S>          
 1.12           Interference:  Settlement includes copy of final settlement document with signatures. Confidential memo from Surek to his superiors. Contains a copy of EXHIBIT A in the settlement agreement.
 
 1.13           Further notes on Ciszek interference.
@@ -3874,7 +3874,7 @@ provided, however, that in any such case, the transferee or other recipient shal
 <TABLE>
 <CAPTION>
 
-<S>            <C>
+<S>          
 2.7            Solar patents - performance value?
 
 2.8            Melt dumping - original patents and data on this patent No. 4,627,887
@@ -3928,7 +3928,7 @@ provided, however, that in any such case, the transferee or other recipient shal
 <TABLE>
 <CAPTION>
 
-<S>            <C>
+<S>           
 3.14           SERI - correspondence re: publications.
 
 3.15           SERI - patent disclosures re: waiver - important disclosures, including storing materials, radiation shields.
