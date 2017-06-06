@@ -54,7 +54,7 @@ Nature of Industry  Opportunity for Entrepreneurs
 * Multi-Trillion dollar  lots of niches and large beachhead markets
 * Highly capitalized  good potential customers
 * Commodity business  incremental improvements can have a huge impact
-* xquisite supply chains  opportunity for shortcuts and disruption
+* Exquisite supply chains  opportunity for shortcuts and disruption
 * Essential services  strong need and lots of pain points
 * Considerable inertia  fast moving startups can out maneuver incumbents
 * Extensive regulation  can create major shifts and opportunities
