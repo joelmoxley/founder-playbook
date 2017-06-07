@@ -9,98 +9,40 @@ Credit: [InsideView](https://www.insideview.com/)
   InsideView
 
 Search …
-Leadership
 
-InsideView’s executives are pioneers of the SaaS, Content and CRM industries. Collectively, they’ve founded numerous startups and led them to successful IPOs (six and counting!), headed content production for top business information providers, architected multi-tenant, multi-tiered software systems and launched transformational products in a variety of markets.
+InsideView was founded on the principle that good information about companies and people is the fuel that powers the world’s business conversations.
 
+ ARTICLE: What’s the Scoop on That Prospect? This Company has the Inside View
+What’s the Scoop on That Prospect? This Company has the Inside View
 
-LEADERSHIP
+ ARTICLE: Make Sure Your CRM is Well Informed
+Make Sure Your CRM is Well Informed
 
-Umberto Milletti
-CEO and Founder
-READ BIO ›
+ ARTICLE: What Running a Company and Racing Cars Have in Common
+What Running a Company and Racing Cars Have in Common
 
-Jim Lightsey
-Chief Financial Officer
-READ BIO ›
+What if marketers had all the information to find, break through to, and connect with the right prospects? What if their counterparts in sales continued that level engagement during the sales cycle and beyond?
 
-Tracy Eiler
-Chief Marketing Officer
-READ BIO ›
+20,000+ companies already do. With InsideView.
 
-John Kelly
-Chief Revenue Officer
-READ BIO ›
+InsideView enables companies to easily identify and engage with prospects and customers, giving them a consistent, authoritative source of market intelligence that is easily embedded in company’s day-to-day workflow. With InsideView, sales and marketing teams find and qualify the best target accounts, engage with them in a highly relevant way, close more deals, and retain and expand relationships over time.
 
-Gordon Anderson
-Vice President, Content
-READ BIO ›
+InsideView is the only company that augments its industry-leading data with real time insights for greater immediacy and connections for greater influence. An early innovator, InsideView was the first to introduce a market intelligence solution in 2005. Today InsideView offers a robust portfolio of products that can be natively embedded in sales and marketing systems, used as stand-alone products, or integrated into a range of business applications via open APIs.
 
-Joe Andrews
-Vice President, Product and Solution Marketing
-READ BIO ›
+Headquartered in San Francisco, InsideView serves customers around the globe. And its market intelligence is a critical component of many of the industries leading sales and marketing applications, including Microsoft Dynamics, Salesforce.com, SAP Cloud for Customer, Oracle CRM on Demand, Marketo, SugarCRM, and NetSuite CRM.
 
-Andrea Austin
-Vice President, Enterprise Sales
-READ BIO ›
-
-Lisa Bailey
-Vice President, Program Portfolio Management
-READ BIO ›
-
-Loree Farrar
-Vice President, Human Resources
-READ BIO ›
-
-Jason Muldoon
-Vice President, Technology
-READ BIO ›
-
-Marc Perramond
-Vice President, Products
-READ BIO ›
-
-Sesha Rao
-Managing Director of Indian Operations
-READ BIO ›
-
-Heidi Tucker
-Vice President, Alliances and Business Development
-READ BIO ›
-Board of Directors
-Jerry Casilli
-Rembrandt
-Venture Partners
-  
-Paul Holland
-Foundation
-Capital
-  
-Brian Jacobs
-Emergence
-Capital Partners
-  
-Robert J. Majteles
-Treehouse
-Capital LLC
- 
-  
-Umberto Milletti
-InsideView
-  
-Jim Simons
-Split Rock
-Partners
-  
-Jeff Williams
-Spring Lake
-Equity Partners
+In 2017, InsideView was named to the prestigious CRM Watchlist for the third year in a row — one of very few companies to ever receive this distinction.
 
 
-Work with us
-Join the InsideView team of creative, inspired, fun innovative people who are working hard to transform the way people work. We are always looking for great people to come on board to help us achieve our mission.
-CAREERS
+Life is short. Be part of something important.
 
+Join our team of creative, inspired, fun, and innovative people who believe in the power of information to help companies interact with their customers in a more informed and interesting way.
+MANAGEMENT TEAM CAREERS
+TEN YEARS OF INNOVATION
+
+
+TimelineMobile
+ACCOLADES
 
 Why InsideView
 Targeting Intelligence
