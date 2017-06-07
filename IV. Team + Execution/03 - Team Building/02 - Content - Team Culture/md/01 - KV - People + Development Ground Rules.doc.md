@@ -20,6 +20,7 @@ People and Development Ground Rules
 *	Vacations.  Vacations are aggressively supported in this group.  Others in your group will chip in and help you get out of town or hang out at home or whatever. 
 3.  Personal development is a top priority 
 *	This divlet strives to provide outstanding career opportunities and personal development.  Some of the ways to accomplish this include: 
+   
   *	Partner with your manager.  Being proactive and honest with your manager about what you want to work on, what your aspirations are, other opportunities that interest you, etc. will allow them to best help you.  Also, you should feel free to have these discussions with other mentors or managers. 
   *	Ultimately, your own career success is up to you.  Good managers and peers will help you succeed, but you're in charge.  It's up to you to work with your manager and peers and peers to make sure you understand your options and opportunities, development areas, etc.  In the words of Jim Barksdale, "your career is not a team sport." 
   *	Clear objectives and feedback.  Generally the most successful employees want clear objectives and lots of feedback because it is easiest to succeed under these conditions.  You and your manager may use some combination of written objectives, self-assessments, and career plans. 
@@ -35,9 +36,9 @@ People and Development Ground Rules
 6.  Be disciplined 
 *	We try to keep administrative overhead to a minimum.  If you think the requirements are dumb that's fine, and it's ok to discuss not doing them or doing them in some alternative way with your manager.  Ignoring them is not acceptable. 
 *	Specific expectations are determined by individual groups, but probably include the following: 
-o	Give advance notice for vacations or absences.  In general you are expected to be at work during roughly normal working hours -- however, it's 100% fine for you to either take vacations or work at home. 
-o	Give special attention to email marked IMPORTANT or URGENT.  If you need to be sure someone in the group reads or responds to you quickly, mark you email accordingly. 
-o	Check voicemail, email and Calendar daily.  You are expected to check your email and voicemail daily and respond to urgent messages. 
+ *o	Give advance notice for vacations or absences.  In general you are expected to be at work during roughly normal working hours -- however, it's 100% fine for you to either take vacations or work at home. 
+ *o	Give special attention to email marked IMPORTANT or URGENT.  If you need to be sure someone in the group reads or responds to you quickly, mark you email accordingly. 
+ *o	Check voicemail, email and Calendar daily.  You are expected to check your email and voicemail daily and respond to urgent messages. 
 
 
 
