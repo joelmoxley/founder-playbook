@@ -49,13 +49,14 @@ Trusted by over 50,000 businesses around the world
 
 
 Quick facts
+* Founded in 2010
+* Over $30 million in funding
+* 15 languages & multiple currencies
+* Over 140 countries covered
+* Over 50,000 customers
+* 200+ employees
 
-Founded in 2010
-Over $30 million in funding
-15 languages & multiple currencies
-Over 140 countries covered
-Over 50,000 customers
-200+ employees
+
 Press highlights
 
 Pipedrive's main view and next-step sales activity pipeline is geared toward teams actively managing sales, and in that respect Pipedrive excels.
