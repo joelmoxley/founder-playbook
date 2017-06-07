@@ -36,9 +36,6 @@ People and Development Ground Rules
 6.  Be disciplined 
 *	We try to keep administrative overhead to a minimum.  If you think the requirements are dumb that's fine, and it's ok to discuss not doing them or doing them in some alternative way with your manager.  Ignoring them is not acceptable. 
 *	Specific expectations are determined by individual groups, but probably include the following: 
-   */Give advance notice for vacations or absences.  In general you are expected to be at work during roughly normal working hours -- however, it's 100% fine for you to either take vacations or work at home. 
-   */	Give special attention to email marked IMPORTANT or URGENT.  If you need to be sure someone in the group reads or responds to you quickly, mark you email accordingly. 
-   */ Check voicemail, email and Calendar daily.  You are expected to check your email and voicemail daily and respond to urgent messages. 
-
-
-
+   * Give advance notice for vacations or absences.  In general you are expected to be at work during roughly normal working hours -- however, it's 100% fine for you to either take vacations or work at home. 
+   * Give special attention to email marked IMPORTANT or URGENT.  If you need to be sure someone in the group reads or responds to you quickly, mark you email accordingly. 
+   * Check voicemail, email and Calendar daily.  You are expected to check your email and voicemail daily and respond to urgent messages. 
