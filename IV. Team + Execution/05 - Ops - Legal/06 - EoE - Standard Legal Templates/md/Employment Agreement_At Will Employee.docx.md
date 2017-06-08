@@ -15,12 +15,12 @@ This Employment Agreement for “At Will” Employee (the "Agreement") is made a
 
 BETWEEN:	[EMPLOYEE NAME] (the "Employee"), an individual with his main address at:
 
-	[COMPLETE ADDRESS] 
+[COMPLETE ADDRESS] 
 
 
 AND:	[YOUR COMPANY NAME] (the "Corporation"), an entity organized and existing under the laws of the [State/Province] of [STATE/PROVINCE], with its head office located at:
 
-	[YOUR COMPLETE ADDRESS] 
+[YOUR COMPLETE ADDRESS] 
 
 
 RECITALS
