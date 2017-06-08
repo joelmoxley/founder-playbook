@@ -2,7 +2,7 @@ Here's an example of a description that appears under a link.
 
 15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Credit: [Dr. Soandso](http://linkedin.com/test)
+Credit: []()
 
 {! search-content: !}
 
@@ -15,12 +15,12 @@ This Employee Non-Compete Agreement (the "Agreement") is made and effective this
 
 BETWEEN:	[EMPLOYEE NAME] (the "Employee"), an individual with his main address at:
 
-	[COMPLETE ADDRESS]
+[COMPLETE ADDRESS]
 
 
 AND:	[YOUR COMPANY NAME] (the "Company"), a corporation organized and existing under the laws of the [State/Province] of [STATE/PROVINCE], with its head office located at:
 
-	[YOUR COMPLETE ADDRESS]
+[YOUR COMPLETE ADDRESS]
 
 
 1.	COVENANT NOT TO COMPETE
