@@ -102,12 +102,12 @@ SEE ALL MEMBER BENEFITS
 
 HELP WITH GROWING YOUR BUSINESS
 
-Preferred Banking Rate
-Business Financing
-Favorable Rates on HR Services
-Discounted Storage Solutions
-One-Stop Accounting Shop
-Exclusive Rates On Shipping
+Chase Preferred Banking Rate
+Bond Street Business Financing
+TriNet  Favorable Rates on HR Services
+MakeSpace Discounted Storage Solutions
+inDinero  One-Stop Accounting Shop
+UPS Exclusive Rates On Shipping
 
 
 HOW WE STACK UP
