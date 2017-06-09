@@ -24,66 +24,121 @@ Find an advisor
 Resources 
  
 Partners 
-About Xero
-About
-Careers
-Media
-Investors
-Overview
-Team
-Governance
-Sponsorship
-Security
-Contact
-We help small businesses thrive worldwide
+Accounting software with everything you need to run your business beautifully
+Try Xero for free  Play video 
 
-1,700+ Employees
+small business accounting invoicing feature
+Invoicing
+Get paid fast to keep your cash flow healthy with online invoicing.
+Learn more
 
-1 Global team
+ small business accounting program with bank reconciliation
+Bank reconciliation
+Connect to your bank for automatic updates and simple bank reconciliation.
+Learn more
 
-1M+ Subscribers
+ small business accounting software data security
+Data security
+Protect your Xero data with multiple layers of security.
+Learn more
 
-We started Xero to change the game for small business. Our beautiful cloud-based accounting software connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration. We’re proud to be helping over 1 million subscribers worldwide transform the way they do business. And we’re just getting started.
+ small business inventory with Xero accounting software
+Inventory
+Track inventory, control stock, and easily add items into invoices and orders.
+Learn more
 
-Founded in 2006 in New Zealand, Xero is one of the fastest growing software as a service companies globally. We lead the New Zealand, Australian, and United Kingdom cloud accounting markets, employing a 
+ best small business accounting software for mobile
+Mobile app
+Work while you're on the move with the essentials in the Xero mobile app.
+Learn more
 
-world-class team of more than 1,400 people in 20 offices across the planet. Forbes identified Xero as the World’s Most Innovative Growth Company in 2014 and 2015.
+ pay bills with small business accounts software 
+Pay bills
+Pay the bills on time, reduce admin and keep control of your cash flow.
+Learn more
 
-Small business makes the world go round – it’s the heart of the global economy. We want millions of small businesses to thrive through better tools, information and connections. Like all great challenges, we can’t do it by ourselves: we work closely with our customers, partners, and other friends to push innovation forward, turning Xero into the online business platform for the world.
+ business software offering payroll
+Payroll
+Combine smart small business payroll software with your online accounting.
+Learn more
 
-xero
-xero
-Life before Xero was a nightmare. I was basically using an Excel spreadsheet set up by a friend. The amount of time it took was ridiculous.
+ dashboard for small businesses accounting package
+Dashboard
+See how business is going with a glance at charts on the Xero dashboard.
+Learn more
 
+ bookkeeping software expense claims feature
+Expense claims
+Easily record, claim and manage expenses & receipts online.
+Learn more
 
+ small business management software quoting feature
+Quotes
+Streamline your sales process with professional online quotes.
+Learn more
 
-Our numbers add up
-rocket
-1200+ product updates
-Our development cadence is phenomenal with over 1200 product updates and features delivered in the last year. Xero integrates with 500+ add-on applications allowing people to customize Xero to their needs.
+ accounting software program with purchase order feature
+Purchase orders
+Simplify your purchasing process and easily keep track of orders.
+Learn more
 
-partners
-16,000+ partners
-Xero connects with 16,000+ accounting and bookkeeping firms worldwide. We create practice tools that help partners extend their services and provide added value to small businesses.
+ business accounting performance dashboard
+Business performance dashboard
+Get the full picture of how your business is performing.
+Learn more
 
-$1 trillion
-NZ$1.4 trillion recorded in Xero
-Over NZ$1.4 trillion transactions were recorded in Xero last year. Our online accounting platform is secure and accessible anytime, anywhere. We’re loved and trusted in over 180 countries.
+ manage assets with small business software
+Fixed assets
+Discover a way to better manage your business’s fixed assets.
+Learn more
 
-paid-faster
-Get paid faster
-Businesses can improve cash flow by getting invoices paid faster on Xero. Access to real-time account information and business tools from your Mac, PC, tablet or phone means greater control and better decisions.
+ bookkeeping software reporting
+Reporting
+Tailor smart financial reports and budgets to suit your business.
+Learn more
 
-Over 1 million subscribers and growing
-Since our start in 2006, we’ve grown from a handful of small businesses in New Zealand to more than 1 million subscribers globally.
+ erp accounting software in multiple currencies
+Multi-currency
+Automatically track gains and losses across multiple currencies.
+Learn more
 
+ accounting software with contacts and smart lists
+Contacts and smart lists
+Get a complete snapshot of your contacts and relationship history.
+Learn more
 
-We're a beautiful team
+ search for the best accounting software features
+Search
+Search and find what you need from wherever you are in Xero.
+Learn more
 
-Work at Xero
-Making beautiful software
+ manage your accounts and accept payments with small business software
+Accept payments
+Get paid sooner by accepting payments from online payment services.
+Learn more
 
-See for yourself
+ bookkeeping software with cloud file storage
+Files
+Store your files and transactions online in one place for easy access.
+Learn more
+
+ best accounting software with sales tax
+Sales tax
+Make life easy for your small business with sales tax in Xero.
+Learn more
+
+ convert to Xero small business accounting software
+Convert from QuickBooks
+Easily convert your QuickBooks files when you make the switch to Xero.
+Learn more
+
+Free online support, 24/7
+Never be put on hold again
+Our friendly and knowledgeable experts are here to help, around the clock. With Xero offices all over the world, we’ll give you a speedy response by email or phone – no matter where you are.
+
+Learn more
+
+Xero support
 ABOUT US
 Team
 Governance
@@ -115,3 +170,4 @@ ACCOUNTING TERMS
 Legal Privacy
 © 2017 Xero Limited. All rights reserved. "Xero" and "Beautiful Accounting Software" are trademarks of Xero Limited.
 REGION: UNITED STATES Top
+Live chat with our team
