@@ -125,3 +125,6 @@ Ordered lists use numbers and will appear numbered.
 	* Next gen playbook displays
 		* Replace edit pen icon with the permalink icon
 		* Automaticaly calculate read time by the word count of the markdown file (especially search text)
+	* Front page
+		* Design concepts around having the most popular 3-5 resources featured on front page
+		* (Potentially ranked on downloads over past month in the future)
