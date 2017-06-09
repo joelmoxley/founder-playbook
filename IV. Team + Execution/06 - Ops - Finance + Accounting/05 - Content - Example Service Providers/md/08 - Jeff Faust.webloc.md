@@ -10,7 +10,6 @@ Credit: [Abbott, Stringham & Lynch](http://aslcpa.com/)
 Abbott, Stringham & Lynch
 Certified Public Accountants and Business Advisors
 
-
 Skip to main content
 Skip to the end
 PEOPLE
@@ -28,43 +27,18 @@ Search Here
 ASL
 Search
 |MENU
-Strategic Partners.
-Number Crunchers.
-Good People.
-What We Do Meet Our People 
+About Us
+Clients come for the financial acumen – and stay for the strategic advice.
 World-class business advising, accounting and tax services with around-the-corner service and personal accountability
-Next
+We work with emerging- and middle-market privately held businesses to help them thrive in their markets. We also partner with high-net-worth individuals – owners, founders and executives – to help them protect and grow their wealth. We identify untapped opportunities, challenges and solutions, enabling clients to make the effective and timely decisions today that lead to a fuller and more secure tomorrow.
+As one of the largest local CPA firms in the Silicon Valley, consistently ranked among the top 25 accounting firms in the San Jose Business Journal’s annual Book of Lists, ASL brings best-in-class professionals, decades of experience and broad connections to the table. Founded in 1977, ASL offers a wealth of experience in delivering services and specialties.
 
-Real Estate
+Designed to facilitate quality decisions, our services cover corporate tax planning and compliance, assurance and accounting, estate and gift tax planning, litigation support, succession planning and valuation. Our services are contextualized by our specialties in real estate, construction, technology, family wealth & individual tax, emerging businesses, manufacturing & distribution, nonprofit organizations, recreation & entertainment and renewable energy.
 
-Construction
+ASL was most recently named an INSIDE Public Accounting (IPA) Top 200 Firm for 2016.
 
-Family Wealth & 
-Individual Tax
 
-International
-
-Technology
-
-Nonprofit
-
-Emerging Businesses
-
-Manufacturing & 
-Distribution
-
-Recreation & 
-Entertainment
-UPCOMING ASL TALK
-
-B2B Marketing: Evolving from Spray-and-Pray to Align-and-Sign
-
-June 21, 2017 / 11:30 am - 1:00 pm
-View More Info 	
-CAREERS
-
-We are always looking to hire new team members with great energy, solid experience, a collaborative spirit and an up-beat attitude.
-View Open Positions 
+AssociationsOur Mission
 
 CONTACT US JOIN OUR LIST FOLLOW 			
 Privacy Policy | Site Map | Design by HDSF
