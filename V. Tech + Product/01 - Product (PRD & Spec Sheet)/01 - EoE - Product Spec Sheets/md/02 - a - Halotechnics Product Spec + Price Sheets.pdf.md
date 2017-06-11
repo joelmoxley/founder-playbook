@@ -231,3 +231,34 @@ Applications
 * Chemical synthesis processes
 
 Contact Halotechnics for pricing and availability!
+
+
+
+
+Saltstream™ Products
+
+Pricing Information
+1 kg Sample   25 kg Bag ($/kg)  Bulk* ($/mt)
+Saltstream 300  $ 59  $ 29  $ 9,699
+Saltstream 500  $ 179 $ 144 $ 37,699
+Saltstream XL   $ 45  $ 21  $ 2,989
+Saltstream HTS  $ 49  $ 22  $ 3,489
+Saltstream 565  $ 47  $ 20  $ 3,079
+Saltstream 60/40  $ 49  $ 21  $ 3,099
+Saltstream 700  $ 54  $ 22  $ 3,749
+Saltstream 700e $ 59  $ 23  $ 3,989
+
+Date of Issue   
+July 3, 2014    
+
+Contact
+Phone: (510) 984-6918
+Fax: (510) 547-2624
+Email: sales@halotechnics.com
+
+Terms and Conditions
+* Prices listed above are FCA Seller's Emeryville, California manufacturing facility. Invoice price determined by ship date, not order date. Prices are subject to change without notice.
+* Seller retains the right to select the mode and routing of shipments unless otherwise agreed in writing with Buyer. Shipping not included in the above quote.
+* Bulk pricing is for raw material and may require onsite mixing and melting.
+* Sample products are developed for testing purposes and may be produced with high purity components depending on application. For industrial applications, please contact Halotechnics.
+
