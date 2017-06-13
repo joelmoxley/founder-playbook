@@ -4,6 +4,7 @@ Here's an example of a description that appears under a link.
 
 Credit: [B Corporation](https://www.bcorporation.net/)
 
+{! search-content: !}
 
 Select Region
  
