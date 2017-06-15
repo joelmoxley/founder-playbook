@@ -464,11 +464,3 @@ Total Installed Cost (omits Decommissioning)								307.0	 $35,559,670 		 $69,01
 																										
 Total Annual OPEX									$1,599,527	4.5%	$3,333,230	4.8%	$6,176,040	3.1%	$9,471,187	2.7%										
 																										
-																										
-
-
-
-
-
-
-
