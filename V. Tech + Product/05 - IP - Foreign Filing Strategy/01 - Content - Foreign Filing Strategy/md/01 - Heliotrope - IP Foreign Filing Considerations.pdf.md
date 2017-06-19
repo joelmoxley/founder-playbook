@@ -1,10 +1,11 @@
 Definition of 3 Tiers based on the commercial importance of the invention in question and the markets it which one intends to opearate.
 
-Credit: [Dr. Soandso](http://linkedin.com/test)
+Credit: []()
 
 {! search-content: !}
 
-  IP	Foreign	Filing	Considerations	
+IP	Foreign	Filing	Considerations	
+
 In	order	to	minimize	the	high	costs	of	filing	foreign	patent	applications,	it	is	useful	to	define	
 various	tiers	based on	the	commercial	importance	of	the	invention	in	question and	the	markets	
 in	which	one	intends	to	operate.
@@ -27,6 +28,7 @@ due	to	translation	costs
 • EPO	=	about	$7-$10k
 • India,	Australia,	Singapore	=	$2-$3k	each	(filed	in	English)
 • Japan	=	$6-$8k
+
 These	are	only	general	guidelines	and	one	must	consider	the	factors such	as	their	business
 model,	market	dynamics,	and	strategic	partnerships	to	determine	the	exact	strategy	that	makes	
 most	sense for	their	company.
