@@ -29,12 +29,151 @@ Financing Needs / Use of Funds - How much money you need and what you will do wi
 Summary – Huge opp. + Differentiated tech. + Dream team + Strong traction
 
 
-Cover Slide: Company name, location, tagline, presenter’s name and title.
+Cover Slide: Company name, location, tagline, presenter’s name and title.
+
+TEAM
+
+
+COMPANY OVERVIEW
+
+
+PROBLEM
+
+
+SOLUTION
+
+
+SOLUTION DELIVERY / PRODUCT
+
+
+BENEFITS / VALUE
+
+
+SECRET SAUCE / IP / WHY NOW
+
+
+COMPETITIVE ADVANTAGE
+
+
+COMPETITION MATRIX
+
+
+GO TO MARKET STRATEGY
+
+
+BUSINESS MODEL
+
+
+FINANCIALS
+
+
+FINANCING REQUIREMENTS
+
+
+SUMMARY SLIDE
+
+
+SAMPLE SLIDES
+
+
+Company Overview – Example 
+
+What We Do
+NewCo is a [zero-jargon description of product] used by [broad but addressable market] to [benefits]. We are focused on the [$X billion target niche] market.
+
+Current Status
+We are [company stage, e.g. pre-revenue, pre-launch, etc.].
+
+Progress to Date
+Quarter 1: X key metric, Y key metric (Month or Quarter 2): X key metric, Y key metric
+
+Currently Raising
+[$X-Y million] seed round to supplement on [$xxxx] of [agency] funding
+
+Team
+Logos of Past Companies & Top Schools
+
+Customers/Partners
+Logos or Other Proof of Early Traction
 
 
 
+Market Size- Example 
+Annual Directly Addressable  Markets: 1,2
+
+Market
+Light Commercial
+Heavy-Duty Generators
+Heavy Duty APUs
+Non-Road Vehicles
+Military
+Total
+Annual Market Today
+MW
+MM $
+Annual Market Potential (’07 –’10)
+MM $2 
+
+1	For all market segments (except the light commercial) the annual market potential corresponds to 100 % penetration of the available market (technical market). For light commercial, the addressable market is estimated to be 6 % of the available market. 
+2  Based on appropriate mark-up of long-term factory cost of $ 400/kW. Mark-up was assumed at 2.1 for light commercial and generator markets, and at 1.5 for the other markets.
+Sources:  TIAX LLC & DOE SECA Presentation April 2003
 
 
 
+Competition – Example 
+
+[Low property]
+[High property]
+[High property2]
+[Low property2]
+Competitor A
+NewCo.
+Competitor C
+Competitor D
+We are stronger than the competition in [key differentiators].
+We are threatened by the competition in [honest worries you have].
 
 
+
+Competition Matrix - Example
+
+
+
+Competition Matrix – Example 
+Comparison of the of Power Systemsin the 3 - 50 kW Power Range
+Attribute
+Efficiency (%)
+Capital Cost ($/kW)
+Power Density (W/L)
+Noise
+Emissions
+Start-up Time 
+NewCo - SOFC
+Nickel-SOFC
+PEMFC (hydrocarbon)
+Internal Combustion Engine
+
+
+
+Financing: 3-Year Plan
+  2016
+  2017
+  2018
+  Team
+  head count
+  Technology
+  Market
+  Financial
+  burn ($k/mo) 
+   balance ($M) 
+Key Hire 1
+Key Hire 2
+Key Hire 3
+Milestone 1
+Milestone 2
+Seed
+Series A
+
+
+
+Financials – Example 

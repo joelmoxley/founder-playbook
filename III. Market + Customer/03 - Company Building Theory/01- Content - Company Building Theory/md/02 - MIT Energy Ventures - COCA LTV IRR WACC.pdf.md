@@ -4,13 +4,12 @@ Here's an example of a description that appears under a link.
 
 Credit: [15.366 Energy Ventures](https://energyventures.mit.edu/)
 
+{! search-content: !}
+
 Francis O’Sullivan, Tod Hynes, Bill Aulet
 Class 5: The Economic Equation of Energy Startups COCA/LTV & IRR > WACC
 October 6, 2016
 15.366 ENERGY VENTURES
-
-
-{! search-content: !}
 
 15.366 ENERGY VENTURES
 Calculate the COCA
