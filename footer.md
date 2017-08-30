@@ -38,6 +38,7 @@
 
 <div markdown="1" class="columns medium-6 partners">
   ###### Founding Partners & Playbook Curators
+  
 
   * ![Cyclotron Road](/img/cyclotronroad.png)
   * ![MH](/img/mh.png)
