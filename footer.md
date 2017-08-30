@@ -29,8 +29,11 @@
 
 ---
 
-<div markdown="1" class="columns community">
-  # The Founder's Playbook Community
+<div markdown="1" class="columns medium-6 partners">
+  ###### Cyclotron Road is a partnership between Lawrence Berkeley National Laboratory and Activation Energy
+
+  * ![Cyclotron Road](/img/cyclotronroad.png)
+  * ![MH](/img/mh.png)
 </div>
 
 <div markdown="1" class="columns medium-6 partners">
@@ -38,25 +41,4 @@
 
   * ![Cyclotron Road](/img/cyclotronroad.png)
   * ![MH](/img/mh.png)
-</div>
-
-<div markdown="1" class="columns medium-6 contributors">
-  ###### Contributing Partners
-
-  * ![Stanford](/img/stanford.png)
-  * ![MIT](/img/mit-logo.png)
-  * ![California Energy Commission](/img/california-energy.png)
-  * ![Breakthrough Energy](/img/breakthrough-energy.png)
-  * ![Stanford](/img/stanford.png)
-  * ![MIT](/img/mit-logo.png)
-  * ![California Energy Commission](/img/california-energy.png)
-  * ![Breakthrough Energy](/img/breakthrough-energy.png)
-  * ![Stanford](/img/stanford.png)
-  * ![MIT](/img/mit-logo.png)
-  * ![California Energy Commission](/img/california-energy.png)
-  * ![Breakthrough Energy](/img/breakthrough-energy.png)
-  * ![Stanford](/img/stanford.png)
-  * ![MIT](/img/mit-logo.png)
-  * ![California Energy Commission](/img/california-energy.png)
-  * ![Breakthrough Energy](/img/breakthrough-energy.png)
 </div>
