@@ -1,6 +1,5 @@
 ---
 linkedin-1: Contributor 1, http://linkedin.com/name1
-linkedin-2: Contributor 2, http://linkedin.com/name2
 ---
 
 Here's an example of a description that appears under a link.
