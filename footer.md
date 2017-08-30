@@ -29,7 +29,7 @@
 
 ---
 
-<div markdown="1" class="columns medium-6 partners">
+<div markdown="1" class="columns medium-6 cyclopartners">
   ###### Cyclotron Road is a partnership between Lawrence Berkeley National Laboratory and Activation Energy
 
   * ![Lawrence Berkeley National Laboratory](/img/Berkeley_Lab_Logo_white.png)
