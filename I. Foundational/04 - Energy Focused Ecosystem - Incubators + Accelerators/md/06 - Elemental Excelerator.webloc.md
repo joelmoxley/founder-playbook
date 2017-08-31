@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Elemental Excelerator (formerly Energy Excelerator) is a cleantech energy accelerator program based out of Hawaii. The program leverages Hawaii State's progressive policies towards renewables, storage, and distribution of the grid to provie startups an early market to test their solutions in, with an extensive industry partner network across the Asia Pacific region.
 
 Credit: [Elemental Excelerator](http://elementalexcelerator.com/)
 

@@ -1,4 +1,8 @@
 
+
+This Khan Academy series done in collaboration with Pixar animation studios walks through how to  tell a good story. The series begins by demonstrating how storytelling is a natural part of how humans communicate and connect. It goes on to demonstrate how to use characters, story structure, visual language to help construct a good story. The last modules focus on teaching the basics of film grammar, to help effectively communicate through film medium. The earlier modules on the value of storytelling in communication are good general resources.
+
+
 Credit: [Khan Academy](https://www.khanacademy.org)
 
 {! SEARCH-CONTENT: !}

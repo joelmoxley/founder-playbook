@@ -1,4 +1,4 @@
-Definition of 3 Tiers based on the commercial importance of the invention in question and the markets it which one intends to opearate.
+This quick one pager by Heliotrope provides advice on how to prioritize markets of relative value before filing expesive patent applications. Definition of 3 Tiers based on the commercial importance of the invention in question and the markets it which one intends to opearate.
 
 Credit: []()
 

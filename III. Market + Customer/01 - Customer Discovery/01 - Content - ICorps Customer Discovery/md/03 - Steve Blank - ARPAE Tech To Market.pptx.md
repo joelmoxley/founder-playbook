@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || This presentation by Steve Blank, the thought leader behind the Lean Startup approach, walks through the pitfalls of developing a buisness as startup, and specifically higlights how startup operations and purpose differ tfrom those of a large coproration in that startups are searching for a new business model while corporations are executing known plans. The deck also includes a range of exmaples from a hardtech startup to corporate initiatives. 
 
 Credit: [Steve Blank](www.steveblank.com)
 

@@ -1,3 +1,4 @@
+This thorough run through of important considerations and elements of demo day presentations by YCombinator helps entrepreneurs leverage the short pitch format to quickly communicate their company's value and relay information that would catch the attention of potential investors. Specific advice focuses on tuning your talking points to your audience, how to structure your presentation and what to include, how to use and design your slides, and some common pitfalls to avoid. This resource also lists some other useful sources. 
 
 Credit: [Geoff Ralston](http://blog.ycombinator.com/guide-to-demo-day-pitches/)
 

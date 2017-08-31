@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || The Rice Business Plan Competition is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at Rice University in Houston, Texas, and is created in partnership with the Rice Alliance for Technology and Entrepreneurship which supports technology commercialization and entrepreneurial education. 
 
 Credit: [RICE Business Plan Competition](http://www.ricebusinessplancompetition.com/)
 

@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Emerson Elemental is the environmental and sustainability oriented initiatives under Emerson Collective, a philathropy organization led by Lauren Powell Jobs. Elemental Excelerator (formerly Energy Excelerator) is a energy technology accelerator based in Hawaii that is supported by this initiative. 
 
 Credit: [Emerson Elemental](http://www.emersoncollective.com/emerson-elemental/)
 

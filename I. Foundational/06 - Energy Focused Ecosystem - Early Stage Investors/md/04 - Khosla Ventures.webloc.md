@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Khosla Ventures provides venture assistance and strategic advice to entrepreneurs working on breakthrough technologies. The firm was founded in 2004 by Vinod Khosla, co-founder of Sun Microsystems. With over four billion dollars under management, the firm focuses on a broad range of areas including consumer, enterprise, education, advertising, financial services, semiconductors, health, big data, agriculture/food, sustainable energy and robotics. Khosla Ventures is headquartered in Menlo Park, Calif.
 
 Credit: [Khosla Ventures](http://www.khoslaventures.com/)
 

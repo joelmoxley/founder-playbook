@@ -1,3 +1,5 @@
+This introduction to licensing from ARPA-E University takes entrepreneurs through the basics licensing your technology to an external party. 
+
 Dr. Edmonds reviews the impact of the America Invents Act on licensing, what to expect in a license agreement and their typical monetary terms, and how to meet the licensing needs of start-ups and academics. This session builds on the Energy Innovation and IP Strategy session of ARPA-E University that was held in December 2012 (http://youtu.be/bpSWsa_Qv3Q).
 
 Credit: [Karina Edmonds, PhD](https://energy.gov/contributors/karina-edmonds)

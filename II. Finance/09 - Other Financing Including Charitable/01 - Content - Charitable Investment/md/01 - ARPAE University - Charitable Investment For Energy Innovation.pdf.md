@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || The presentation for an ARPA-E webinar that covers how charitable investment through organizations like the PRIME Coalition can leverage funds that can have an impact where venture capital, and other types of funding have shied away due to poor alignment in timescales and outcomes. PRIME Coalition aggregates and qualifies hard science cleantech companies looking for investment that would be well suited to philanthropic investment, and then works with its network of philanthropic groups to complete the investment. 
 
 Credit: [ARPA-E University](https://arpa-e.energy.gov/?q=arpa-e-site-page/arpa-e-university)
 

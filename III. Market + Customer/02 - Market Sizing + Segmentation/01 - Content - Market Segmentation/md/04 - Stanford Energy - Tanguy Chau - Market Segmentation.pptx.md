@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || In this Stanford class lecture, hard tech entrepreneur and venture investor Tanguy Chau talks about the importance of market segmenetation to understanding the segment you are operating in. This helps identify potential customers and partners as you sketch our a business model and narrow a pricing scheme. 
 
 Credit: [Tanguy Chau](https://energy.stanford.edu/)
 

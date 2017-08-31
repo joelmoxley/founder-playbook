@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Hanahaus is SAP's co-working and innovation space on Univesrity Avenue in a historical Palo Alto building that provides a cafe and community workspace to meet, and exchange ideas. While SAP runs the space, it is open to the public for paying patrons through a per seat/space charge or to purchase foodd & drink at the cafe. The sapce also hosts a range of enterptainment and innovation speakers and events. 
 
 Credit: [HanaHaus](http://www.hanahaus.com/)
 

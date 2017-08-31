@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Ben Horowitz, successful entrepreneur and co-founder and general partner at Andreessen Horowitz explains the philosophy behind the firms most controversial investment strategy, that of preferne for keeping on founding CEOs. Industry wisdom generally indicates that startup CEOs should be replaced with professional CEOs to scale the business after achieving product-market fit, but Horowitz points to numerous historical examples, and highlights the continuity and strength of vision of founding CEOs to make his point. 
 
 Credit: [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz)
 

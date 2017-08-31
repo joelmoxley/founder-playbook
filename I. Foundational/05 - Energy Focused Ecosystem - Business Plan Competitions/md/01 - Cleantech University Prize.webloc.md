@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || The DOE Clean Energy Prize (Cleantech UP) is a national business plan competition that is done in collaboration with the Department of Energy and 8 Universities and local organizations that host regional competitions. The Cleantech UP is focused on providing aspiring entrepreneurs in the cleantech space the feedback, mentoring, and resources needed to lauch their ventures. Since the competition started, participants have formed more than 200 ventures, created more than 115 jobs, and raised more than $120 million in follow-on funding.
 
 Credit: [Cleantech University Prize](http://www.cleantechup.org/)
 

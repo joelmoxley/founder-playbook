@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || This document provides a checklist of ongoing accounting tasks to remain in compliance with Federal Acquisition Regulations (FAR) and the Cost Accounting Standards (CAS). Compliance with these standards is required to qualify for receipt of Phase II SBIR, STTR, R01 and BAA grants and contracts.
 
 Credit: [ ]()
 

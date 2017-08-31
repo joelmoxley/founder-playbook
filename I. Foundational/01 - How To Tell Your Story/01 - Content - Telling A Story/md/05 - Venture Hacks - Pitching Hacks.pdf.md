@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || The entrepreneurs behind Venture Hacks download their know-how and advice into this book, Pitching Hacks. It is an extensive, colloquially-written resource of savvy tips and advice on pitching venture capital investors. The initial chapters focus on the importance of demonstrating traction and getting credible introductions to investors to start the discussion off on the right foot. The books goes on to walk though the crucial elements of effectively communicating your idea, based on your audience, through elevator pitches, and pitch decks.The authors close by suggesting that certain elements like detailed business plans and NDAs are not very effective in reality and propose alternatives. This book offers valuable advice in quick short observations, with specific advice shared by prominent venture and entrepreneurial pundits sprinkled throughout. 
 
 Credit: [Venture Hacks](http://venturehacks.com/)
 

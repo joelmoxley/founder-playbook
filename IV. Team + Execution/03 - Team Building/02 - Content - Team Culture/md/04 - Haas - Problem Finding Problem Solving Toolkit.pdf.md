@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || This guide from the Haas School of Business at UC Berkeley lays out a problem solving process by which to frame, understand, and develop a solution for a given problem. Specifically, the framework takes a path through (1) understanding the problem, (2) collecting data to uncover relationships, (3) analyzing and synthesizing this data, (4) ideate solutions, and (5) test these solutions. 
 
 Credit: [Berkeley Haas School of Business](http://www.haas.berkeley.edu/)
 

@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Andy Raskin takes the reader through five crucial elements that, together, help tell a compelling story in your pitch deck, drawing inspiration from Elon Musk's May 2016 presentation in which Tesla unveiled the Powerwall battery unit. 
 
 Credit: [Andy Raskin](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
 

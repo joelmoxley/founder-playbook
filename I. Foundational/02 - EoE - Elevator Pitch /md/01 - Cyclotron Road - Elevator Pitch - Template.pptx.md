@@ -1,4 +1,4 @@
-[Your company name] is [your solution] for [your target customers/users]. We help [your customers/users] [solve this problem with these benefits]. We’re initially targeting [your market]. We make our money by [your business model]. We acquire customers by [your customer acquisition strategy ]. We have [your team advantage ], [ your technology advantage ]. [Traction statement ].
+10 MIN READ || This pitch template from Cylotron Road highlights three must-have elements that need to be communicated: pain, product, and customer relatability. 
 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)

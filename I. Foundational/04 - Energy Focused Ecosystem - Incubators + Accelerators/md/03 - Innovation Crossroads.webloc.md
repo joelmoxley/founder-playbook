@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Innovation Crossroads is a new program at Oak Ridge National Lab that, in partnership with the U.S. Department of Energy, is providing a runway for the innovators who will disrupt the energy economy. Innovation Crossroads allows entrepreneurial researchers to be located at ORNL, tapping into some of the best scientific resources in the country while simultaneously injecting new ideas into the national lab. Innovators will also receive mentorship to develop their business models and be more prepared to launch an energy company.
 
 Credit: [Innovations Crossroads](https://innovationcrossroads.ornl.gov/)
 

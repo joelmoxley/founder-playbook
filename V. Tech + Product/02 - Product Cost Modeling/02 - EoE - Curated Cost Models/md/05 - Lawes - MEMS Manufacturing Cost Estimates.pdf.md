@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || This paper examines the costs of layer deposition of principal high aspect ratio micromachining techniques used in microsystems/ MEMS fabrication, particularly silicon surface micromachining, wet bulk etching, wafer bonding, and other methods using cost model COST-MEMS. Factor explored include: increases in the wafer size, decreases in chip area, and the effect of shipping costs on overall expense.
 
 Credit: [R. A. Lawes]
 

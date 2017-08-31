@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || LA Cleantech Incubator (LACI) is a start incubator founded in partnership with the City of Los Angeles that focuses on supporting startups bringing green business to LA. LACI has helped 67 companies raise $134M in funding, created 1,500 jobs, and delivered more than $335M in long term economic value for the City of Los Angeles
 
 Credit: [LA Cleantech Incubator](http://laincubator.org/)
 

@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || Capricorn Investment Group was born from a belief that values- based, sustainable investment practices can enhance return rates. Underlying that principled investment approach has always been a depp desire to demonstrate the huge investment potential that resides in breakthrough commercial solutions to the world's most pressing problems. 
 
 Credit: [Capricorn Investment Group](http://capricornllc.com/)
 

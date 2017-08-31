@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || This web article describes the unique benefits of a SAFE (simple agreement for future equity), a funding mechanism sharing similarities to a convertible note that was created and pioneered by YCombinator. A SAFE is supposed to be easier to execute, due to a simple legal structure, does not saddle the startup with debt with a time limit, unlike a convertible note, and converts into preferred stock at the first priced round. The article provides links to 4 different types of SAFEs that can also be found as resources in the Founder's Playbook. 
 
 Credit: [YCombinator](https://www.ycombinator.com/)
 

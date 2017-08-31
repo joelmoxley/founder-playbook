@@ -1,6 +1,6 @@
 Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15 MIN READ || This presentation by Lindy Greer of the Stanford Graduate School of Business focuses on emphasizing the importance of diversity and working with new recruits to maintain your valuable team culture in building your startup team. She also points out pitfalls of hiring such as hiring a homogenous team, and hiring only when you need to fill a gap. 
 
 Credit: [Prof. Lindred L. Greer](https://www.gsb.stanford.edu/faculty-research/faculty/lindred-leura-greer)
 

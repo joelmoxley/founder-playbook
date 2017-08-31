@@ -1,4 +1,4 @@
-aoneuht neuaohnsetuh nsaoeh enuosath nsoaethnsxaeuho foo
+15 MIN || David Merkoski takes readers through a visual presentation, illustrating how to construct an effective story. 
 
 {! search-content: !}
 
