@@ -1,7 +1,7 @@
 
 This short guide provides a review of eight basic components of writing a grant proposal as well as details to include. 
 
-Credit: [ ](http://www.nmfs.noaa.gov/trade/howtodogrants.htm#The%20Basic%20Components)
+Credit: [ NOAA ](http://www.nmfs.noaa.gov/trade/howtodogrants.htm#The%20Basic%20Components)
 
 
 {! search-content: !}
