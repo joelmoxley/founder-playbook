@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This web article by Tren Griffin takes the reader through the importance of quanitifying customer acquisition cost (CAC) other values like lifetime value of a customer (LTV) with illustrative examples, and then provides the appropriate guidelines to do this, explaining factors to consider when analyzing such numbers.
 
 Credit: [Tren Griffin](https://25iq.com/author/trengriffin/)
 
