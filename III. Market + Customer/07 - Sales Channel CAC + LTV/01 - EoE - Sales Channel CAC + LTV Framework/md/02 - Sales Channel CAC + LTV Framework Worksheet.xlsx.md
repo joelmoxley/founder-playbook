@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This spreadsheet by Updata Partners functions as a companion to the previous resource. It provides a step by step method to calculate two key success metrics for SaaS businesses: GMPP (Gross Margin Payback Period) and rCAC (Return on Customer Acquisition Cost).
 
 Credit: [Updata Partners](http://updata.com/)
 
