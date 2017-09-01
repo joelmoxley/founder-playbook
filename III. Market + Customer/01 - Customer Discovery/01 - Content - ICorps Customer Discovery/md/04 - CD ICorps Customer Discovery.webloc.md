@@ -1,7 +1,7 @@
 
-Lean Launchpad video lectures that cover the importance, value, and methodology of customer discovery. 
+These Lean Launchpad video lectures cover the importance, value, and methodology of customer discovery. 
 
-Credit: [Customer Discovery](https://vimeo.com/groups/204136/sort:alphabetical/format:thumbnail)
+Credit: [Lean Launchpad Customer Discovery](https://vimeo.com/groups/204136/sort:alphabetical/format:thumbnail)
 
 {! search-content: !}
 
