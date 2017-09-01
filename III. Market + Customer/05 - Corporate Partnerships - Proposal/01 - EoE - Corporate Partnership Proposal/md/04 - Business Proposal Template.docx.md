@@ -2,7 +2,7 @@
 This business proposal template provides a structure to format your proposal document, including company overview, market need,  scope of the proposal, why your company is the best choice for collaboration/partnering, implementation plan, related budget, and an appendix.
 
 
-Credit: [ ]()
+Credit: [ BizTree ](http://www.biztree.com/doc/business-proposal-D1258)
  
 
 {! search-content: !}
