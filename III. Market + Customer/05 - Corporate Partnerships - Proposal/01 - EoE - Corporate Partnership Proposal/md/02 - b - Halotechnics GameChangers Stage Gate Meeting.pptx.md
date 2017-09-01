@@ -1,6 +1,4 @@
-Here's an example of a description that appears under a link.
-
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Halotechnics - This stage gate review for the Shell GameChanger program by Halotechnics provides an example of the type of information to include in phase checkins over the course of the program. Some of these factors are: questions to be answered, progress towards that goal, detailed analysis of the work done to date, and extraneous general slides. 
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
