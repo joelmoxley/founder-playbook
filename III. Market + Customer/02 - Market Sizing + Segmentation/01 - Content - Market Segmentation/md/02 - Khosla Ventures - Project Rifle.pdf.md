@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This presentation walks through the RIFLE quantitative methodology and how it helps provide concrete data to amek crucial business decisions, and offers uses in market strategy analysis, expansion strategy, and financial services segmentation, and a real life example. 
+This presentation by Khosla Ventures walks through the RIFLE quantitative methodology and how it helps provide concrete data to make crucial business decisions. The resource reviews applications in market strategy analysis, expansion strategy, and financial services segmentation, and includes a real life example. 
 
 Credit: [Khosla Ventures](http://www.khoslaventures.com/)
 
