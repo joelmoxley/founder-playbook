@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this presentation as part of ARPA-E University, Jeff Weiss from Vantage Partners shares his expertise on using 7 elements (interenst, alternatives, options, legitimacy, commitmments, relationship, and communication) for most effective negotiation. He explores understanding other position, arguing purely on merits, and the tradeoffs in the process. 
 
 Credit: [Vantage Partners, LLC](http://www.vantagepartners.com/)
  
