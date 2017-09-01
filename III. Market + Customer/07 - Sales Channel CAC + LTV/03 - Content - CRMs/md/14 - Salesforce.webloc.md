@@ -1,5 +1,5 @@
 
-The de facto established CRM and salesforce management solutions.Create deeper relationships with your customers with the cloud-based CRM platform that's accessible from anywhere over the internet.
+The de facto established CRM and salesforce management solution. Create deeper relationships with your customers with the cloud-based CRM platform that's accessible from anywhere over the internet.
 
 Credit: [Salesforce](https://www.salesforce.com/)
 
