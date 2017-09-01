@@ -1,6 +1,6 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This presentation on realistic Marketing by Sue Barsamian and Audrey MacLean, as part of the Stanford Venture Formation Course, covers writing a marketing plan, the pitfalls most startups face in marketing, and 4 topics to include in a realistic plan (big opportunity, defendable differentiatied position, great go-to-market plan, and an ability to create sustainable value). 
+
 
 Credit: [Stanford Technology Venture Formation](http://web.stanford.edu/class/msande273/)
 
