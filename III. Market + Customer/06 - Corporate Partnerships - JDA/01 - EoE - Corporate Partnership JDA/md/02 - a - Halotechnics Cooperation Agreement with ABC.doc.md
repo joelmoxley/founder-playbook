@@ -1,5 +1,5 @@
 
-Halotechnics - This example of a technology development agreement between startup Halotechnics and a corporporate partner provides the legal structure for these two parties to work together on a technology collaboration. The agreement specifies a work schedule with targets, along with a payment schedule and governance of how jointly created intellectual property will be handled. 
+Halotechnics - This example of a technology development agreement between startup Halotechnics and a corporate partner provides the legal structure for these two parties to work together on a technology collaboration. The agreement specifies a work schedule with targets, along with a payment schedule and governance of how jointly created intellectual property will be handled. 
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
