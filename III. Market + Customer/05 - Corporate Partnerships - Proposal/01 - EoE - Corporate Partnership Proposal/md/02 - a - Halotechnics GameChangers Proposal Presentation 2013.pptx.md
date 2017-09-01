@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This example of a presentation application to the Shell GameChanger program provides a thorough look at all the factors to address for a compelling application. These factors include technology introduction and differentiation, vision for technology, status and traction of the company, scope of a proposal to work with Shell, a related timeline, deliverables and a budget. 
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
