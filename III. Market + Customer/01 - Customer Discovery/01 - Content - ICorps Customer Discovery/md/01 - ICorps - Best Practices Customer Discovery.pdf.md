@@ -1,8 +1,8 @@
 
 
-This presentation, based on the Lean Startup approach, goes through best practices of customer discovery methods and interviews by focusing on listening to your customer's viewpoint and problems, rather than selling your solution.
+This presentation, based on the Lean Startup approach, goes through best practices of customer discovery methods and interviews, emphasizing listening to your customer's viewpoint and problems, rather than pushing  your vision and solution.
 
-Credit: [ICorps]()
+Credit: [ICorps](https://bayicorps.com/)
 
 {! search-content: !}
 
