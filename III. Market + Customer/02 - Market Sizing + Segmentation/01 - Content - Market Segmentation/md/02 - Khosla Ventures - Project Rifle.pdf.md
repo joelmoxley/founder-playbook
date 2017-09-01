@@ -1,5 +1,5 @@
 
-This presentation by Khosla Ventures walks through the RIFLE process, a quantitative methodology that bases crucial business decisions on concrete data. The resource reviews applications in market strategy analysis, expansion strategy, and financial services segmentation, and includes a real life example. 
+This presentation by Khosla Ventures walks through the RIFLE process, a framework to use concrete data to make crucial business decisions. The resource reviews applications in market strategy analysis, expansion strategy, and financial services segmentation, and includes a real life example. 
 
 Credit: [Khosla Ventures](http://www.khoslaventures.com/)
 
