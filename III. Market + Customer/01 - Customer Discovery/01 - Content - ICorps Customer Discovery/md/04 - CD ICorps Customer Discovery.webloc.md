@@ -1,4 +1,3 @@
-Here's an example of a description that appears under a link.
 
 15 MIN READ || Lean Launchpad video lectures that cover the importance, value, and methodology of customer discovery. 
 
