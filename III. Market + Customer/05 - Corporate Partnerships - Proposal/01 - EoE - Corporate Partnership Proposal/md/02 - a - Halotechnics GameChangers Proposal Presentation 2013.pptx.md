@@ -1,5 +1,5 @@
 
-This example of a presentation application to the Shell GameChanger program provides a thorough look at all the factors to address for a compelling application. These factors include technology introduction and differentiation, vision for technology, status and traction of the company, scope of a proposal to work with Shell, a related timeline, deliverables and a budget. 
+Halotechnics - This example of a presentation application to the Shell GameChanger program by Halotechnics provides a thorough look at all the factors to address for a compelling application. These factors include technology introduction and differentiation, vision for technology, status and traction of the company, scope of a proposal to work with Shell, a related timeline, deliverables and a budget. 
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
