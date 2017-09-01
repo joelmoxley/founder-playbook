@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Halotechnics - This example of a technology development agreement between startup Halotechnics and a corporporate partner provides the legal structure for these two parties to work together on a technology collaboration. The corporate partner is to provide funds and technical advice, while Halotechnics provides the core technology expertise in a related new area. Jointly created intellectual property is to remain with Halotechnics, with an option to license made open to the corporate partner. 
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
