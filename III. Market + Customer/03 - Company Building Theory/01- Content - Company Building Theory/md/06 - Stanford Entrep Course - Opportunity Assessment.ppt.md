@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This presentation from the Stanford Technology Venture Formation course walks through key factors to consider when assessing an opportunity to launch a new venture. Factors include the type of venture and the market you are targeting, which can affect sales, development, and funding strategies.  
 
 Credit: [Stanford Technology Venture Formation, MS&E 273](http://web.stanford.edu/class/msande273/)
 
