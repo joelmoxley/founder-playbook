@@ -1,6 +1,5 @@
 
-In this Wall Street Journal article Peter Thiel emphasizes the need to strive for a monopoly business as a goal for startups. While monopoly businesses own an entire market, delivering differentiated value, Thiel argues that those in competitive markets get lost in the low level, iterative back and forth that is market competition. Google is used as an example. 
-
+In this Wall Street Journal article Peter Thiel emphasizes the need for startups to strive to be monopoly businesses. While monopoly businesses own an entire market, delivering differentiated value, Thiel argues that those in competitive markets get lost in the low level, iterative back and forth that is market competition. Google is used as an example. 
 
 Credit: [Peter Thiel](https://www.linkedin.com/in/peterthiel)
 
