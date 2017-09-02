@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This presentation from the Energy Ventures course at MIT helps entrepreneurs assess the effectiveness of their economic operation by looking at COCA (cost of customer acquisition), LTV (life time value of a customer), IRR (Internal Rate of Return), and WACC (Weighted Average Cost of Capital). 
 
 Credit: [15.366 Energy Ventures](https://energyventures.mit.edu/)
 
