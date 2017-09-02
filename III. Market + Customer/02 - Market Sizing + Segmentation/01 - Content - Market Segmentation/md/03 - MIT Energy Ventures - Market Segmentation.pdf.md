@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This lecture from 15:366 Energy Ventures class at MIT covers the importance and methodology behind market segmentation and customer discovery using examples like Altaeros, A123, FastCAP, XL Hybrids, and Ambri. 
+This lecture from the Energy Ventures class at MIT covers the importance and methodology behind market segmentation and customer discovery using examples like Altaeros, A123, FastCAP, XL Hybrids, and Ambri. 
 
 Credit: [MIT](http://web.mit.edu/)
 
