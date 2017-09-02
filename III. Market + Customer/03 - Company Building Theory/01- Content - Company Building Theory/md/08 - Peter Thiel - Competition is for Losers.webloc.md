@@ -1,5 +1,5 @@
 
-In this lecture at Stanford Peter Thiel addresses his belief that when starting a venture, you should go after total market share i.e. be a monopoly. 
+In this lecture at Stanford Peter Thiel addresses his belief that when starting a venture, you should go after total market share i.e. be a monopoly business and in doing so shares his advice on beating out competitors and finding the right market. 
 
 
 Credit: [Peter Thiel](https://www.linkedin.com/in/peterthiel)
