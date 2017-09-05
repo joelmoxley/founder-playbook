@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - A thorough and real example of a Technical Volume document, detailing technology, and other details, for ARPA-E. 
+Halotechnics - A thorough and real example of a Technical Volume document, detailing technology, and other details, for ARPA-E. 
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
