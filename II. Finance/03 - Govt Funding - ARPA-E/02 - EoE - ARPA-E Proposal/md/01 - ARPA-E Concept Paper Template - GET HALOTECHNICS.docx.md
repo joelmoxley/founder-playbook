@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This ARPA-E template provides guidelines to create a concept paper, providing details about what to include around the technology, and state of art developments in the industry.
+This ARPA-E template provides guidelines to create a concept paper, providing details about what to include around the technology, and state of art developments in the industry.
 
-Credit: [ ]()
+Credit: [Justin Raade ](https://www.linkedin.com/in/justinraade)
 
 {! search-content: !}
 
