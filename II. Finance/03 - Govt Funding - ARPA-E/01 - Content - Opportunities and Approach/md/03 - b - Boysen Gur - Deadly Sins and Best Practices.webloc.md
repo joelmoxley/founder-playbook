@@ -1,4 +1,3 @@
-Published on Mar 5, 2014
 
 Funding applications often require something shorter than a research paper, but more substantive than a business pitch—you need a technical pitch. ARPA-E Program Directors Dane Boysen and Ilan Gur share their five best practices and five deadly sins for writing technical proposals. Participants will also learn about ARPA-E's mission and unique role in funding energy innovation. While the webinar uses concepts from the ARPA-E funding selection process, the proposal strategies are applicable to anyone attempting to communicate complex technical information in a short format.
 
