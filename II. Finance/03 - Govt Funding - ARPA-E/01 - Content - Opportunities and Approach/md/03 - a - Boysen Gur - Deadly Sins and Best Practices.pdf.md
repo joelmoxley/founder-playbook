@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Funding applications often require something shorter than a research paper, but more substantive than a business pitch—you need a technical pitch. ARPA-E Program Directors Dane Boysen and Ilan Gur share their five best practices and five deadly sins for writing technical proposals. Participants will also learn about ARPA-E's mission and unique role in funding energy innovation. While the webinar uses concepts from the ARPA-E funding selection process, the proposal strategies are applicable to anyone attempting to communicate complex technical information in a short format.
 
 Credit: [Dane A. Boysen PhD](https://www.linkedin.com/in/dane-boysen-841b4516)
         [Ilan Gur PhD](https://www.linkedin.com/in/ilangur)
