@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Department of Energy website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
+The Department of Energy website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
 
 Credit: [U.S. Department of Energy](https://science.energy.gov/)
 
