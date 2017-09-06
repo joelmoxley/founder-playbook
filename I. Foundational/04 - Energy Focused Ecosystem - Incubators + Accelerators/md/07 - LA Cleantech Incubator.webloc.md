@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || LA Cleantech Incubator (LACI) is a start incubator founded in partnership with the City of Los Angeles that focuses on supporting startups bringing green business to LA. LACI has helped 67 companies raise $134M in funding, created 1,500 jobs, and delivered more than $335M in long term economic value for the City of Los Angeles
+LA Cleantech Incubator (LACI) is a start incubator founded in partnership with the City of Los Angeles that focuses on supporting startups bringing green business to LA. LACI has helped 67 companies raise $134M in funding, created 1,500 jobs, and delivered more than $335M in long term economic value for the City of Los Angeles
 
 Credit: [LA Cleantech Incubator](http://laincubator.org/)
 
