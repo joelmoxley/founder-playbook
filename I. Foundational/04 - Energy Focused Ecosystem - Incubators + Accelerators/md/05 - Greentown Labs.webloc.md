@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Greentown Labs is a cleantech incubator supporting startups that are developing products with a hardware component. They provide office and lab space, and an extensive mentorship ecosystem to startups developing solutions in the energy efficiency and renewable energy areas. They are based in Somerville, near Boston. 
+Greentown Labs is a cleantech incubator supporting startups that are developing products with a hardware component. They provide office and lab space, and an extensive mentorship ecosystem to startups developing solutions in the energy efficiency and renewable energy areas. They are based in Somerville, near Boston. 
 
 Credit: [Greentown Labs](https://www.greentownlabs.com/)
 
