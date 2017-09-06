@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The MegaWatt Ventures is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the University of Central Florida.
+The MegaWatt Ventures is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the University of Central Florida.
 
 Credit: [Megawatt Ventures](https://www.megawattventures.com/)
 
