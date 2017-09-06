@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Congruent Ventures is a young venture capital firm that invests in early stage sustainable technologies. 
+Congruent Ventures is a young venture capital firm that invests in early stage sustainable technologies. 
 
 Credit: [Congruent Ventures](http://www.congruentvc.com/)
 
