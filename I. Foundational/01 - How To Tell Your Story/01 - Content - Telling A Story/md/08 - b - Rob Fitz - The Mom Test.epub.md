@@ -1,4 +1,5 @@
-90 MIN READ || In the Mom Test, entrepreneur Rob Fitz provides an honest guide on how to enage customers savvily and meaningfully in the path of Customer Discovery and Customer Development. The title's namesake example, the 'Mom test' highlights a simple situation of conversing with a prospective customer with the goal of focusing on their pain and perceived solutions, to learn about their process and priorities. The book goes on to highlight questions that provide valuable insights and rather than those that simply encourage your interviewee to reinforce your own beliefs about your market and product. 
+
+In the Mom Test, entrepreneur Rob Fitz provides an honest guide on how to enage customers savvily and meaningfully in the path of Customer Discovery and Customer Development. The title's namesake example, the 'Mom test' highlights a simple situation of conversing with a prospective customer with the goal of focusing on their pain and perceived solutions, to learn about their process and priorities. The book goes on to highlight questions that provide valuable insights and rather than those that simply encourage your interviewee to reinforce your own beliefs about your market and product. 
 
 Credit: [Rob Fitzpatrick](http://www.foundercentric.com/)
 
