@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Incubatenergy Network is accelerating the transition to a sustainable economy through national coordination of incubator resources supporting entrepreneurs focused on clean energy innovation and deployment. The network has supported more than 500 companies to date and has a significant pipeline.
+The Incubatenergy Network is accelerating the transition to a sustainable economy through national coordination of incubator resources supporting entrepreneurs focused on clean energy innovation and deployment. The network has supported more than 500 companies to date and has a significant pipeline.
 
 Credit: [Incubatenergy](https://incubatenergy.org/)
 
