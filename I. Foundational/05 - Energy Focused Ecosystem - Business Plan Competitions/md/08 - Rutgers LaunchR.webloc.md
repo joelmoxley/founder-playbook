@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Rutgers LaunchR is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at Rutgers University and is the university's student-run clean technology innovation contest and startup accelerator.  
+The Rutgers LaunchR is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at Rutgers University and is the university's student-run clean technology innovation contest and startup accelerator.  
 
 Credit: [Rutgers LaunchR](http://launchr.rutgers.edu/)
 
