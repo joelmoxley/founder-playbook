@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Austin Technology Incubator (ATI) is UT Austin's university incubator program under the IC2 Institute  and has been supporting companies since its inception in 1989.
+The Austin Technology Incubator (ATI) is UT Austin's university incubator program under the IC2 Institute  and has been supporting companies since its inception in 1989.
 
 Credit: [Austin Technology Incubator](http://ati.utexas.edu/)
 
