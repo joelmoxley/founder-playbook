@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Cyclotron Road is a 'hard technology' incubator that aims to be a home for hard science innovators addressing applications in energy and advanced manufacturing.Cyclotron Road was created in partnership with Lawrence Berkeley National Lab and Activation Energy. Cyclotron Road is an contributor to the Founder’s Playbook. 
+Cyclotron Road is a home for hard science innovators addressing applications in energy and advanced manufacturing. Cyclotron Road was created in partnership with Lawrence Berkeley National Lab and Activation Energy. Cyclotron Road is one of the contributors behind the Founder’s Playbook. 
 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
