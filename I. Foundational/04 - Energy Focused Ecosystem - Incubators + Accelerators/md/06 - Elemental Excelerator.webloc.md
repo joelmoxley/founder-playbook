@@ -1,5 +1,5 @@
 
-Elemental Excelerator (formerly Energy Excelerator, EEx) is a cleantech energy accelerator program based out of Hawaii. The program leverages Hawaii State's progressive policies towards renewables, storage, and distribution of the grid to provie startups an early market to test their solutions in, with an extensive industry partner network across the Asia Pacific region.
+Elemental Excelerator (formerly Energy Excelerator, EEx) is a cleantech energy accelerator program based out of Hawaii. The program leverages Hawaii State's progressive policies towards renewables, storage, and distribution of the grid to provide startups an early market to test their solutions in, with an extensive industry partner network across the Asia Pacific region.The program is backed by Emerson Collective, a philanthropic organization led by Laurene Powell Jobs. 
 
 Credit: [Elemental Excelerator](http://elementalexcelerator.com/)
 
