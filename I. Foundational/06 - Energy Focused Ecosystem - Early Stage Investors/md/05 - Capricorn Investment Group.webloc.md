@@ -1,6 +1,4 @@
-Here's an example of a description that appears under a link.
-
-15 MIN READ || Capricorn Investment Group was born from a belief that values- based, sustainable investment practices can enhance return rates. Underlying that principled investment approach has always been a depp desire to demonstrate the huge investment potential that resides in breakthrough commercial solutions to the world's most pressing problems. 
+Capricorn Investment Group was born from a belief that values- based, sustainable investment practices can enhance return rates. Underlying that principled investment approach has always been a depp desire to demonstrate the huge investment potential that resides in breakthrough commercial solutions to the world's most pressing problems. 
 
 Credit: [Capricorn Investment Group](http://capricornllc.com/)
 
