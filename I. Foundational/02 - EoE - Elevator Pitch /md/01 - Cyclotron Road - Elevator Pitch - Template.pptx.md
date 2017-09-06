@@ -1,5 +1,5 @@
-10 MIN READ || This pitch template from Cylotron Road highlights three must-have elements that need to be communicated: pain, product, and customer relatability. 
 
+This pitch template from Cylotron Road highlights three must-have elements that need to be communicated: pain, product, and customer relatability. 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
