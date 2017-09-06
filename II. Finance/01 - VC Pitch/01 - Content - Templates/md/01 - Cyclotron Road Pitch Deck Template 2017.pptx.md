@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This pitchdeck template from Cyclotron Road provides an empty presentation with relevant topic slides with guidelines on what information to include in the notes section. Find some populated example slides in the last section.
+This pitchdeck template from Cyclotron Road provides an empty presentation with relevant topic slides with guidelines on what information to include in the notes section. Find some populated example slides in the last section.
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
