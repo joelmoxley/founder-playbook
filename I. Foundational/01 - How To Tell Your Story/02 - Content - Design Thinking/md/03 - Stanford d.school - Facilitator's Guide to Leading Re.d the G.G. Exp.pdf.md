@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-25 MIN READ || This presentation by the Institute of Design at Stanford provides take you through facilitating a group exercise leveraging design thinking, including considerations, tools, and talking points. 
+This presentation by the Institute of Design at Stanford provides take you through facilitating a group exercise leveraging design thinking, including considerations, tools, and talking points. 
 
-Credit: [Hasso Plattner, Institute of Design at Stanford ]
+Credit: [Hasso Plattner, Institute of Design at Stanford ] (https://dschool.stanford.edu/)
 
 {! search-content: !}
 
