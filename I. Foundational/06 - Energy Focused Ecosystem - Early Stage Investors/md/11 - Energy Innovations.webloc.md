@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Energy Innovation: Policy and Technology LLC is an energy and environmental policy firm. We deliver high-quality research and original analysis to policymakers to help them make informed choices on energy policy. We focus on what matters and what works.
+Energy Innovation: Policy and Technology LLC is an energy and environmental policy firm. We deliver high-quality research and original analysis to policymakers to help them make informed choices on energy policy. We focus on what matters and what works.
 
 Credit: [Energy Innovation](http://energyinnovation.org/)
 
