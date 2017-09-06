@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The MIT Clean Energy Prize is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the Massachussetts Institute of Technology (MIT).
+The MIT Clean Energy Prize is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the Massachussetts Institute of Technology (MIT).
 
 Credit: [MIT Clean Energy Prize](http://cep.mit.edu/)
 
