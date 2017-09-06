@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Elemental Excelerator (formerly Energy Excelerator) is a cleantech energy accelerator program based out of Hawaii. The program leverages Hawaii State's progressive policies towards renewables, storage, and distribution of the grid to provie startups an early market to test their solutions in, with an extensive industry partner network across the Asia Pacific region.
+Elemental Excelerator (formerly Energy Excelerator, EEx) is a cleantech energy accelerator program based out of Hawaii. The program leverages Hawaii State's progressive policies towards renewables, storage, and distribution of the grid to provie startups an early market to test their solutions in, with an extensive industry partner network across the Asia Pacific region.
 
 Credit: [Elemental Excelerator](http://elementalexcelerator.com/)
 
