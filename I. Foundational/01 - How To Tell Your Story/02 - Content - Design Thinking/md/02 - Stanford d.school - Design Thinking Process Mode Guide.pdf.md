@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-30 MIN READ || This presentation by the Institute of Design at Stanford takes you through the different modes and methods behind the design thinking process.
+This presentation by the Institute of Design at Stanford takes you through the different modes and methods behind the design thinking process.
 
 Credit: [Hasso Plattner, Institute of Design at Stanford]
 
