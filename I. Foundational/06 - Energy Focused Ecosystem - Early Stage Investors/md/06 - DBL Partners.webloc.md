@@ -1,6 +1,4 @@
-Here's an example of a description that appears under a link.
-
-15 MIN READ || Double Bottom Line (DBL) Partners is a venture firm that invests for both finanacial returns and social and environmental benefit. Prominent portfolio companies include Tesla, Solar City, Advanced Microgrid Solutions, NextTracker, and Bright Source
+DBL (Double Bottom Line) Partners is a venture firm that invests for both finanacial returns and social and environmental benefit. Prominent portfolio companies include Tesla, Solar City, Advanced Microgrid Solutions, NextTracker, and Bright Source.
 
 Credit: [DBL Partners](http://www.dblpartners.vc/)
 
