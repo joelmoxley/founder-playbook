@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-10 MIN READ || This one page tip sheet contains quick bullet points of how to target your talking points, and your delivery to effectively connect with your audience. 
+This one page tip sheet contains quick bullet points of how to target your talking points, and your delivery to effectively connect with your audience. 
 
 Credit: []
 
