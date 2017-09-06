@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Venture Hacks blog post covers the importance of an elevator pitch in getting a follow on meeting and details elements of an effective elevator pitch.
+This Venture Hacks blog post covers the importance of an elevator pitch in getting a follow on meeting and details elements of an effective elevator pitch.
 
 Credit: [Venture Hacks](http://venturehacks.com/)
 
