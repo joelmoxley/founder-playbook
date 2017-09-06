@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Midwest Chicago Cleantech University Prize is a regional competition within the larger DOE Cleantech University Prize business plan competition hosted by the Clean Energy Trust. This competition is held in Chicago and draws and has been done in partnership with Case Western Reserve, Northwestern University, and Purdue Univesity.
+The Midwest Chicago Cleantech University Prize is a regional competition within the larger DOE Cleantech University Prize business plan competition hosted by the Clean Energy Trust. This competition is held in Chicago and draws and has been done in partnership with Case Western Reserve, Northwestern University, and Purdue Univesity.
 
 Credit: [Cleantech University Prize](http://cleanenergytrust.org/programs/cleantech-up/)
 
