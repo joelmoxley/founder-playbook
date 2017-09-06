@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Allegheny CMU Cleantech University Prize  is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the Carnegie Mellon University.
+The Allegheny CMU Cleantech University Prize  is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the Carnegie Mellon University.
 
 Credit: [Allegheny Cleantech University Prize](https://cleantechprize.org/)
 
