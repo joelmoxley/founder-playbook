@@ -1,5 +1,5 @@
 
-he Caltech First Look West (FLoW) is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the California Institute of Technology.
+The Caltech First Look West (FLoW) is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the California Institute of Technology.
 
 Credit: [Caltech First Look West](http://flow.caltech.edu/index.php)
 
