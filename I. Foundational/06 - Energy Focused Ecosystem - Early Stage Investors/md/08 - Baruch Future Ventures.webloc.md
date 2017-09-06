@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Baruch Future Ventures is a family office and venture capital firm that invests in startups focused on resource scarce, climate sensitive global markets. 
+Baruch Future Ventures is a family office and venture capital firm that invests in startups focused on resource scarce, climate sensitive global markets. 
 
 Credit: [Baruch Future Ventures](http://www.baruch.vc/)
 
