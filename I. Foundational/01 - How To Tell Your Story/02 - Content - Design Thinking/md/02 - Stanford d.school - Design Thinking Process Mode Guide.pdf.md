@@ -1,7 +1,7 @@
 
 This presentation by the Institute of Design at Stanford takes you through the different modes and methods behind the design thinking process.
 
-Credit: [Hasso Plattner, Institute of Design at Stanford]
+Credit: [Hasso Plattner, Institute of Design at Stanford] (https://dschool.stanford.edu/)
 
 
 {! search-content: !}
