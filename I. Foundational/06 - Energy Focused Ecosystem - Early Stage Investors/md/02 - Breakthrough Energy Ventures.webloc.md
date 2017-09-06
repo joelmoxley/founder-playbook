@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Breakthrough Energy Ventures is an investor-led, science focused venture fund that provides flexible and patient capital for companies making a positive climate impact in five areas: electricity, transportation, agriculture, manufacturing, and buildings. Breakthrough Energy Ventures is an investment vehicle initiative of the Breakthrough Energy Coalition which is made up of high profile successful entrepreneurs, veteran investors, and industry and educational institutions that have come together to support the development of zero-carbon energy technology coming out of government and university research, including Bill Gates, Vinod Khosla, John Doerr, Ratan Tata, and the University of California. 
+Breakthrough Energy Ventures is an investor-led, science focused venture fund that provides flexible and patient capital for companies making a positive climate impact in five areas: electricity, transportation, agriculture, manufacturing, and buildings. Breakthrough Energy Ventures is an investment vehicle initiative of the Breakthrough Energy Coalition which is made up of high profile successful entrepreneurs, veteran investors, and industry and educational institutions that have come together to support the development of zero-carbon energy technology coming out of government and university research, including Bill Gates, Vinod Khosla, John Doerr, Ratan Tata, and the University of California. 
 
 Credit: [Breakthrough Energy Ventures](http://www.b-t.energy/)
 
