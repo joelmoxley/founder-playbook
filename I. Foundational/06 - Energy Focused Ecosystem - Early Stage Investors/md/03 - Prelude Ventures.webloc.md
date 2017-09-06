@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Prelude Ventures is a family office that invests in venture stage companies tackling applications to reduce overall impact on the climate. 
+Prelude Ventures is a family office that invests in venture stage companies tackling applications to reduce overall impact on the climate. 
 
 Credit: [Prelude Ventures](http://www.preludeventures.com/)
 
