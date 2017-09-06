@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Rice Business Plan Competition is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at Rice University in Houston, Texas, and is created in partnership with the Rice Alliance for Technology and Entrepreneurship which supports technology commercialization and entrepreneurial education. 
+The Rice Business Plan Competition is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at Rice University in Houston, Texas, and is created in partnership with the Rice Alliance for Technology and Entrepreneurship which supports technology commercialization and entrepreneurial education. 
 
 Credit: [RICE Business Plan Competition](http://www.ricebusinessplancompetition.com/)
 
