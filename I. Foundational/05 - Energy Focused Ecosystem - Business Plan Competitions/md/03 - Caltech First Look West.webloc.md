@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Caltech First Look West (FLoW) is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the California Institute of Technology.
+he Caltech First Look West (FLoW) is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the California Institute of Technology.
 
 Credit: [Caltech First Look West](http://flow.caltech.edu/index.php)
 
