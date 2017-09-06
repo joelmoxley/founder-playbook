@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The DOE Clean Energy Prize (Cleantech UP) is a national business plan competition that is done in collaboration with the Department of Energy and 8 Universities and local organizations that host regional competitions. The Cleantech UP is focused on providing aspiring entrepreneurs in the cleantech space the feedback, mentoring, and resources needed to lauch their ventures. Since the competition started, participants have formed more than 200 ventures, created more than 115 jobs, and raised more than $120 million in follow-on funding.
+The DOE Clean Energy Prize (Cleantech UP) is a national business plan competition that is done in collaboration with the Department of Energy and 8 Universities and local organizations that host regional competitions. The Cleantech UP is focused on providing aspiring entrepreneurs in the cleantech space the feedback, mentoring, and resources needed to lauch their ventures. Since the competition started, participants have formed more than 200 ventures, created more than 115 jobs, and raised more than $120 million in follow-on funding.
 
 Credit: [Cleantech University Prize](http://www.cleantechup.org/)
 
