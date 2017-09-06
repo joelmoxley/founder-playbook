@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || True North Venture Partners is a venture capital company looks to invest in and support early stage businesses in areas covering energy, water, agriculture and waste with the goal of building fundamentally sustainable, value-creating businesses, rather than quick exits. True North is backed by a group of family with expertise in building and scaling global businesses. A notable portfolio company that went from  startup to an S&P 500 company is First Solar. 
+True North Venture Partners is a venture capital company looks to invest in and support early stage businesses in areas covering energy, water, agriculture and waste with the goal of building fundamentally sustainable, value-creating businesses, rather than quick exits. True North is backed by a group of family with expertise in building and scaling global businesses. A notable portfolio company that went from  startup to an S&P 500 company is First Solar. 
 
 Credit: [True North Venture Partners](http://www.truenorthvp.com/)
 
