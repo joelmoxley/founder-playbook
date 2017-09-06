@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Emerson Elemental is the environmental and sustainability oriented initiatives under Emerson Collective, a philathropy organization led by Lauren Powell Jobs. Elemental Excelerator (formerly Energy Excelerator) is a energy technology accelerator based in Hawaii that is supported by this initiative. 
+Emerson Elemental is the environmental and sustainability oriented initiatives under Emerson Collective, a philathropy organization led by Lauren Powell Jobs. Elemental Excelerator (formerly Energy Excelerator) is a energy technology accelerator based in Hawaii that is supported by this initiative. 
 
 Credit: [Emerson Elemental](http://www.emersoncollective.com/emerson-elemental/)
 
