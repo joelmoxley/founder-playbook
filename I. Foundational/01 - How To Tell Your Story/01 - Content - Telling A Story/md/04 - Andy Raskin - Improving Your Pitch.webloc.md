@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Andy Raskin takes the reader through five crucial elements that, together, help tell a compelling story in your pitch deck, drawing inspiration from Elon Musk's May 2016 presentation in which Tesla unveiled the Powerwall battery unit. 
+Andy Raskin takes the reader through five crucial elements that, together, help tell a compelling story in your pitch deck, drawing inspiration from Elon Musk's May 2016 presentation in which Tesla unveiled the Powerwall battery unit. 
 
 Credit: [Andy Raskin](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
 
