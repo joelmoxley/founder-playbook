@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Seed 2 Growth (S2G Ventures) is a multi-stage venture fund investing in transformative food and agriculture companies whose products and services meet the shifting demands for healthy, sustainable, and local food.
+Seed 2 Growth (S2G Ventures) is a multi-stage venture fund investing in transformative food and agriculture companies whose products and services meet the shifting demands for healthy, sustainable, and local food.
 
 Credit: [](http://linkedin.com/test)
 
