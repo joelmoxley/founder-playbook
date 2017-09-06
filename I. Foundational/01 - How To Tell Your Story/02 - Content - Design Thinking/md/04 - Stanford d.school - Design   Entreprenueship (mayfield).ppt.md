@@ -1,6 +1,6 @@
-Here's an example of a description that appears under a link.
 
-20 MIN READ || This presentation by the Institute of Design at Stanford walks you through how to use design thinking for an entrepreneur, to understand and iterate the viability of a new venture. 
+This presentation by the Institute of Design at Stanford walks you through how to use design thinking for an entrepreneur, to understand and iterate the viability of a new venture. 
+
 Credit: [Stanford d.school](https://dschool.stanford.edu/)
 
 
