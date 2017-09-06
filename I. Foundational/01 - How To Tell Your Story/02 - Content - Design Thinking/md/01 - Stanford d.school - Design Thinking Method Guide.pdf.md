@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-30 MIN READ || This presentation by the Institute of Design at Stanford takes you through different methods of creative thinking, brainstorming, engaging your group and audience, and demonstrating and evolving your ideas. 
+This presentation by the Institute of Design at Stanford takes you through different methods of creative thinking, brainstorming, engaging your group and audience, and demonstrating and evolving your ideas. 
 
 Credit: [Hasso Plattner, Institute of Design at Stanford](https://en.wikipedia.org/wiki/Hasso_Plattner)
 
