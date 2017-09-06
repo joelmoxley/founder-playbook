@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || 1955 Capital is a young venture capital firm focused on investing in high impact areas including energy & environment, health & education, food safety & supply, and emerging technologies. Founded in 2015 by a partner at Khosla Ventures, Andrew Chung, the firm will initially focus on the Chinese and other developing markets. 
+1955 Capital is a young venture capital firm focused on investing in high impact areas including energy & environment, health & education, food safety & supply, and emerging technologies. Founded in 2015 by a partner at Khosla Ventures, Andrew Chung, the firm will initially focus on the Chinese and other developing markets. 
 
 Credit: [1955 Capital](http://www.1955.capital/)
 
