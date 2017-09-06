@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Chain Reaction Innovations (CRI) is a new two-year program for innovators focused on energy and science technologies and based out of Argonne National Laboratory. 
+Chain Reaction Innovations (CRI) is a new two-year program for innovators focused on energy and science technologies and based out of Argonne National Laboratory. 
 
 Credit: [Chain Reaction Innovations](https://chainreaction.anl.gov/)
 
