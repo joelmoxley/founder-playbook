@@ -1,6 +1,3 @@
----
-linkedin-1: Joel Moxley, http://linkedin.com/name1
----
 
 This guide to fine tuning a good investor pitch by Garage Ventures helps the entrepreneur communicate the unique value his/her product brings to the market. It includes concrete tips to give a compelling investor pitch. 
 
