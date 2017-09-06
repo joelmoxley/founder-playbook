@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Berkeley Cleantech University Prize (CUP) is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the University of California, Berkeley.
+The Berkeley Cleantech University Prize (CUP) is a regional competition within the larger DOE Cleantech University Prize business plan competition. This competition is held at the University of California, Berkeley.
 
 Credit: [Berkeley Energy & Climate Institute University Prize](http://beci.berkeley.edu/cup/)
 
