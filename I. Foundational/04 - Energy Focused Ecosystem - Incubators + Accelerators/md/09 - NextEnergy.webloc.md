@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || NextEnergy is a Detroit, Michigan based innovation center focused on accelerating new energy, mobility and urban solutions for the built enviroment. Since its inception, NextEnergy has worked with more than 400 companies, universities, federal agencies, and philanthropic organizations to drive more than $1.5 billion in advanced energy and mobility technology investments. NextEnergy includes has wet lab, office, and event space with a range of prototyping and testing platforms and programs. 
+NextEnergy is a Detroit, Michigan based innovation center focused on accelerating new energy, mobility and urban solutions for the built enviroment. Since its inception, NextEnergy has worked with more than 400 companies, universities, federal agencies, and philanthropic organizations to drive more than $1.5 billion in advanced energy and mobility technology investments. NextEnergy includes has wet lab, office, and event space with a range of prototyping and testing platforms and programs. 
 
 Credit: [Next Energy](https://nextenergy.org/)
 
