@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This series A fundraising pitch deck by LinkedI provides an example of a growth stage pitch deck by an sharing economy startup. AirBnB enables home and apartment owners to rent out their properties for short period of time.
+This series A fundraising pitch deck by LinkedI provides an example of a growth stage pitch deck by an sharing economy startup. AirBnB enables home and apartment owners to rent out their properties for short period of time.
 
 Credit: [Halotechnics, Inc](http://www.halotechnics.com/)
 
