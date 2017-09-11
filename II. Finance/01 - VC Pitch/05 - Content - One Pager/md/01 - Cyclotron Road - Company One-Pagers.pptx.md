@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This instructional presentation by Cyclotron Road, walks the reader through the elements, and structure of an effective company one pager that will give the recipient a thorough idea of the venture.
+This instructional presentation by Cyclotron Road, walks the reader through the elements, and structure of an effective company one pager that will give the recipient a thorough idea of the venture.
 
 Credit: [Dane A. Boysen](http://www.cyclotronroad.org/)
 
