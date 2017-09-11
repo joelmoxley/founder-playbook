@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Market Requirement Document (MRD) template from Cyclotron Road breaks down the required pieces of an MRD into Business Opportunity, Target Market, Target Customer, and Market requirements. 
+This Market Requirement Document (MRD) template from Cyclotron Road breaks down the required pieces of an MRD into Business Opportunity, Target Market, Target Customer, and Market requirements. 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
