@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This series B fundraising pitch deck by LinkedI provides an example of a growth stage pitch deck by an internet startup. LinkedIn provides an online professional network with related services.
+This series B fundraising pitch deck by LinkedI provides an example of a growth stage pitch deck by an internet startup. LinkedIn provides an online professional network with related services.
 
 Credit: [Sequoia Capital](http://www.sequoiacap.com)
 
