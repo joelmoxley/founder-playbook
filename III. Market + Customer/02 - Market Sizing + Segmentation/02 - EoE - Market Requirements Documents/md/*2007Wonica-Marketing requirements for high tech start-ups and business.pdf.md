@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This market segmentation and research guide focuses on helping high technology startups, many of whom are B2B businesses, avoid pitfalls related to poor market sizing and customer identification that causes many startups to fail. 
+This market segmentation and research guide focuses on helping high technology startups, many of whom are B2B businesses, avoid pitfalls related to poor market sizing and customer identification that causes many startups to fail. 
 
 Credit: [Dennis Wonica, Ph. D.](www.laserlightnetworks.com)
 
