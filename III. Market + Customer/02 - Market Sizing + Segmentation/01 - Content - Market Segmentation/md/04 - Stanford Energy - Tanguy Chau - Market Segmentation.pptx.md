@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || In this Stanford class lecture, hard tech entrepreneur and venture investor Tanguy Chau talks about the importance of market segmenetation to understanding the segment you are operating in. This helps identify potential customers and partners as you sketch our a business model and narrow a pricing scheme. 
+In this Stanford class lecture, hard tech entrepreneur and venture investor Tanguy Chau talks about the importance of market segmenetation to understanding the segment you are operating in. This helps identify potential customers and partners as you sketch our a business model and narrow a pricing scheme. 
 
 Credit: [Tanguy Chau](https://energy.stanford.edu/)
 
