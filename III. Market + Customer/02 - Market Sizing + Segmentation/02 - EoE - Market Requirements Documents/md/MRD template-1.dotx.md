@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Market Requirement Document (MRD) template breaks down required pieces of an MRD into business opportunity, product strategy, competitive lanscape, market requirements, target market segmentation & priority, and some use cases. 
+This Market Requirement Document (MRD) template breaks down required pieces of an MRD into business opportunity, product strategy, competitive lanscape, market requirements, target market segmentation & priority, and some use cases. 
 
 Credit: [ ]()
 
