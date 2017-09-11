@@ -1,9 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This template by Cylotron Road provides a template for a company one pager that can communicate the company's solution, value, technology, and team to the recipient. 
+This template by Cylotron Road provides a template for a company one pager that can communicate the company's solution, value, technology, and team to the recipient. 
 
-Credit: [Awesome]
-
+Credit: [Cyclotron Road] (http://www.cyclotronroad.org)
 
 {! search-content: !}
 
