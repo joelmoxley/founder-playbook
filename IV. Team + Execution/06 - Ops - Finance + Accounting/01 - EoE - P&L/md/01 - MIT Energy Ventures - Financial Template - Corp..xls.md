@@ -1,5 +1,5 @@
 
-This example spreadsheet developed by Charlie Tillett at MIT provides a template for companies to list and track financial details for functions like sales, product development and deployment (capex, and opex), staffing, and profit and loss statements. 
+This example spreadsheet developed by Charlie Tillett provides a template for companies to list and track financial details for functions like sales, product development and deployment (capex, and opex), staffing, and profit and loss statements. 
 
 Credit: [Created by Charlie Tillett for MIT ](http://www.nutsandbolts.mit.edu)
 
