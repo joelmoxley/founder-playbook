@@ -1,6 +1,6 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Tallwood Venture Capital’s guide provides an extensive look at all the legal steps to take to create, launch, and manage your new venture through its many stages. 
+Tallwood Venture Capital’s guide provides an extensive look at all the legal steps to take to create, launch, and manage your new venture through its many stages. 
+
 Credit: [Tallwood Venture Capital](https://www.tallwoodvc.com/)
 
 {! search-content: !}
