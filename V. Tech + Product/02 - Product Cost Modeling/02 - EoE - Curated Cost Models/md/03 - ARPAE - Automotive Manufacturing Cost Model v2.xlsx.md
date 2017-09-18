@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This detailed spreadsheet workbook provided through ARPA-E allows you to input cost factors into an automotive manufacturing model to better understand the costs of manufacturing and putting together automotive parts. 
+This detailed spreadsheet workbook provided through ARPA-E, and created by Piyush Bubna (Ricard Strategic Consulting) allows you to input cost factors into an automotive manufacturing model to better understand the costs of manufacturing and putting together automotive parts. 
 
 Credit: [Ricardo PLC](http://www.ricardo.com/)
 
