@@ -1,6 +1,4 @@
-Here's an example of a description that appears under a link.
-
-15 MIN READ || A co-working space. 
+DEFUNCT
 
 Credit: [Founder Habitat](https://www.founderhabitat.org/)
 
