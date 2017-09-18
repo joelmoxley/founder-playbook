@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Wald Siskens outlines a methodology by which to weigh the need of an additional hire. He also provides some guidelines on how to go about bringing on new members without giving up quality of the overall team. 
+In this document Wald Siskens outlines a methodology by which to weigh the need of an additional hire. He also provides some guidelines on how to go about bringing on new members without giving up quality of the overall team. 
 
 Credit: [Wald Siskens](https://www.linkedin.com/in/wald-siskens-ph-d-33a2821/)
 
