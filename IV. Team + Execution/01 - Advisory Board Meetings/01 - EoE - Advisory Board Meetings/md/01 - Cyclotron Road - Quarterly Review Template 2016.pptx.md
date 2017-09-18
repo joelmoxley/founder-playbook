@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Quarterly Review presentation template from Cyclotron Road provides a structure to review updates, changes and risks in hiring, strategy, market and customer discovery, finances. 
+This Quarterly Review presentation template from Cyclotron Road provides a structure to review updates, changes and risks in hiring, strategy, market and customer discovery, finances. 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
