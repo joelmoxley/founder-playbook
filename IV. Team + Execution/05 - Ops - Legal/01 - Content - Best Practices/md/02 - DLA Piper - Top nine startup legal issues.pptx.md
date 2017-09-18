@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Jonathan Axelrad goes through 9 legal challenges startups face.
+Jonathan Axelrad goes through 9 legal challenges startups face.
 
 Credit: [Jonathan Axelrad](https://www.dlapiper.com/en/us/people/a/jonathan-axelrad/)
 
