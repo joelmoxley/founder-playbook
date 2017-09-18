@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || WeWork is global network of co-working spacing with a dynamic environment. 
+WeWork is global network of co-working spacing with a dynamic environment. 
 
 Credit: [WeWork](https://www.wework.com/)
 
