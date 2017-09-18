@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || eShares provides some guidelines and suggestions around how to create an inclusive, productive work culture, with individual suggestions for managing work relationships, including being honest, checking in regularly, and creating an open environment.
+eShares provides some guidelines and suggestions around how to create an inclusive, productive work culture, with individual suggestions for managing work relationships, including being honest, checking in regularly, and creating an open environment.
 
 Credit: [eShares](https://esharesinc.com/)
 
