@@ -1,7 +1,7 @@
 
 This guide, from the Cleantech to Market(C2M) program and class at Haas School of Business, provides relevant questions for team members to answer while establishing a working relationship and team rapport at the startup of a group project. 
 
-Credit: [ ]()
+Credit: [C2M, Haas School of Business](http://ei.haas.berkeley.edu/education/c2m/)
 
 {! search-content: !}
 
