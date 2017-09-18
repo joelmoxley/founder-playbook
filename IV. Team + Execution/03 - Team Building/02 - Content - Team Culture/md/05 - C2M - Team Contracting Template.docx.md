@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide, from the Cleantech2Market program and class at Haas, provides relevant questions for team members to answer while establishing a working relationship and team rapport at the startup of a group project. 
+This guide, from the Cleantech to Market(C2M) program and class at Haas School of Business, provides relevant questions for team members to answer while establishing a working relationship and team rapport at the startup of a group project. 
 
 Credit: [ ]()
 
