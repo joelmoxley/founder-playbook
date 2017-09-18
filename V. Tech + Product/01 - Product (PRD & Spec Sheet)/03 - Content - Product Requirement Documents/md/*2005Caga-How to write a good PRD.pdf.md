@@ -1,6 +1,6 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide by Silicon Valley Product Group provides an unambiguous method of creating a product requirement document (PRD), differentiating it from a product strategy document,  and a market requirement document. 
+This guide by Silicon Valley Product Group provides an unambiguous method of creating a product requirement document (PRD), differentiating it from a product strategy document,  and a market requirement document. 
+
 Credit: [Martin Cagan](http://svpg.com/our-team/)
 
 {! search-content: !}
