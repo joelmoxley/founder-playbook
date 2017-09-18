@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This document by Fenwick and West serves as a legal overview guide for a startup, taking it from incorporation, to a liquidity event. It is not meant to be a replacement for legal advice, but rather a resource that provides overview of legal considerations when forming, growing, and selling your business.
+This document by Fenwick and West serves as a legal overview guide for a startup, taking it from incorporation, to a liquidity event. It is not meant to be a replacement for legal advice, but rather a resource that provides overview of legal considerations when forming, growing, and selling your business.
 
 Credit: [Fenwick & West LLP](http://www.fenwick.com/pages/default.aspx)
 
