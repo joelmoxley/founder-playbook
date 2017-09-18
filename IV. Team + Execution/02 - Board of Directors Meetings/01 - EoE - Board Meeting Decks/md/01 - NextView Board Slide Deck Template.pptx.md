@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This deck template by NextView provides a guide on what to include in a startup presentation to its board. 
+This deck template by NextView provides a guide on what to include in a startup presentation to its board. 
 
 Credit: [NextView Ventures](http://nextviewventures.com/)
 
