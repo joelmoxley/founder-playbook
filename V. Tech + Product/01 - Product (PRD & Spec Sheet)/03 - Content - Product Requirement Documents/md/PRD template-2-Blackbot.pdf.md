@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide from the Blackbot Product Manager's Toolkit provides a template to create a product requirements document (PRD).
+This guide from the Blackbot Product Manager's Toolkit provides a template to create a product requirements document (PRD).
 
 Credit: [Blackblot](https://www.blackblot.com/)
 
