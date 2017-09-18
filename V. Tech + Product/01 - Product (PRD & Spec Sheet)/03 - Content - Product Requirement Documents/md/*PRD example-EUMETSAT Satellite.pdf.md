@@ -1,7 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This document by EUMETSAT provides an example of a product requirements document related to Satellite Application Facility on Climate Monitoring. 
-
+This document by EUMETSAT provides an example of a product requirements document related to Satellite Application Facility on Climate Monitoring. 
 
 Credit: [EUMETSAT CM SAF](http://www.cmsaf.eu/EN/Home/home_node.html)
 
