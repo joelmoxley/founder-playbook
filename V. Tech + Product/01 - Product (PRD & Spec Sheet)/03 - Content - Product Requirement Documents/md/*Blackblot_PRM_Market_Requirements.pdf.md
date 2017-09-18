@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide from the Blackbot Product Manager's Toolkit provides a template to create a market requirements document (MRD).
+This guide from the Blackbot Product Manager's Toolkit provides a template to create a market requirements document (MRD).
 
 Credit: [Blackblot](https://www.blackblot.com/)
 
