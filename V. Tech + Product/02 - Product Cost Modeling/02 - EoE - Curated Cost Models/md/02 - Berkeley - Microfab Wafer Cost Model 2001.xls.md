@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This detailed spreadsheet provides a template to model the cost of microfab wafers. 
+This detailed spreadsheet provides a template to model the cost of microfab wafers. 
 
 Credit: [University of California, Berkeley](http://www.berkeley.edu/)
 
