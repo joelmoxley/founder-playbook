@@ -1,7 +1,7 @@
 
 This presentation by the Cleantech to Market(C2M) program higlights a set of tips and guidelines to solve interpersonal and team dynamics issues to have a successful working team. 
 
-Credit: [Umanity, LLC](https://www.linkedin.com/company-beta/10904324/)
+Credit: [C2M, Haas School of Business](http://ei.haas.berkeley.edu/education/c2m/)
 
 {! search-content: !}
 
