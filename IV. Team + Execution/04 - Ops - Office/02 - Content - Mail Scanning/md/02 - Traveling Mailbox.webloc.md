@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || An online mailbox service that handles the front-office tasks of collecting physical mail, opening, and sifting it. Traveling Mailbox handles this for you and makes it available through online scans for you to peruse. 
+An online mailbox service that handles the front-office tasks of collecting physical mail, opening, and sifting it. Traveling Mailbox handles this for you and makes it available through online scans for you to peruse. 
 
 Credit: [Traveling Mailbox](https://travelingmailbox.com/)
 
