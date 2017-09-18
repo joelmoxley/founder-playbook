@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || An online mailbox service that handles the tasks of receiving, sifting and acting on snail mail so you only need to act on the important stuff. 
+An online mailbox service that handles the tasks of receiving, sifting and acting on snail mail so you only need to act on the important stuff. 
 
 Credit: [Earth Class Mail](https://www.earthclassmail.com/)
 
