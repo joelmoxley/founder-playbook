@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Hanahaus is SAP's co-working and innovation space on Univesrity Avenue in a historical Palo Alto building that provides a cafe and community workspace to meet, and exchange ideas. While SAP runs the space, it is open to the public for paying patrons through a per seat/space charge or to purchase foodd & drink at the cafe. The sapce also hosts a range of enterptainment and innovation speakers and events. 
+Hanahaus is SAP's co-working and innovation space on Univesrity Avenue in a historical Palo Alto building that provides a cafe and community workspace to meet, and exchange ideas. While SAP runs the space, it is open to the public for paying patrons through a per seat/space charge or to purchase foodd & drink at the cafe. The sapce also hosts a range of enterptainment and innovation speakers and events. 
 
 Credit: [HanaHaus](http://www.hanahaus.com/)
 
