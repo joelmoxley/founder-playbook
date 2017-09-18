@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Co-working spaces across the Bay Area. 
+Sandbox offers several levels of memberships that include month-to-month virtual, part-time, full-time, private desk and private office memberships as well as daily drop-ins. 
 
 Credit: [Sandbox Suites](http://www.sandboxsuites.com/)
 
