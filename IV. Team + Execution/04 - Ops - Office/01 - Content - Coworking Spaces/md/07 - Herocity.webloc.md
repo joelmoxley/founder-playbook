@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Hero City is a co-working space meant for entrepreneurs looking to change the world. The Hero City was designed by VC Tim Draper and has access to the Draper ecosystem. 
+Hero City is a co-working space meant for entrepreneurs looking to change the world. The Hero City was designed by VC Tim Draper and has access to the Draper ecosystem. 
 
 Credit: [Hero City](http://www.herocity.com/)
 
