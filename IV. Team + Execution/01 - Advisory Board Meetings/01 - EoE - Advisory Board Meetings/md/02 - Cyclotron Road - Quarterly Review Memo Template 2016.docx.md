@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Quarterly Review Memo template from Cyclotron Road provides a structure for a memo detailing the place, time, and agenda for a quarterly review meeting. 
+This Quarterly Review Memo template from Cyclotron Road provides a structure for a memo detailing the place, time, and agenda for a quarterly review meeting. 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
