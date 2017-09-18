@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || A Co-working space. 
+Creative Integration is a design studio & lab focused on mobility (MoLAB) based in Oakland, CA.
 
 Credit: [Institute for Creative Integration](https://www.creative-integration.com/)
 
