@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This comprehensive example of a product spec sheet from Cummins provides a guide to what information customers in industry will look for when being approached, by startups, or established entities. 
+This comprehensive example of a product spec sheet from Cummins provides a guide to what information customers in industry will look for when being approached, by startups, or established entities. 
 
 Credit: [Cummins](https://www.cummins.com/)
 
