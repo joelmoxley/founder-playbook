@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This confidentiality agreement template is meant for one way protection between two individuals.
+This confidentiality agreement template is meant for one way protection between two individuals.
 
 Credit: [ ]()
 
