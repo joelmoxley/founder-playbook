@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - This document provides an example of a product specification and pricing document, detailing product overview, technical specifications relevant to the customer, components, and highlights
+Halotechnics - This document provides an example of a product specification and pricing document, detailing product overview, technical specifications relevant to the customer, components, and highlights
 
 Credit: [Halotechnics, Inc](http://www.halotechnics.com)
 
