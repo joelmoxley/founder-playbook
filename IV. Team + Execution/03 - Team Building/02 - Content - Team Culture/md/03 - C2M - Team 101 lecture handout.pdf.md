@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This presentation by the Cleantech 2 Market program higlights a set of tips and guidelines to solve interpersonal and team dynamics issues to have a successful working team. 
+This presentation by the Cleantech 2 Market program higlights a set of tips and guidelines to solve interpersonal and team dynamics issues to have a successful working team. 
 
 Credit: [Umanity, LLC](https://www.linkedin.com/company-beta/10904324/)
 
