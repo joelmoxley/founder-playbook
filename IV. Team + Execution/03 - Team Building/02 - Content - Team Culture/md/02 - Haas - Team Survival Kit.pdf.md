@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide from Haas School of Business at UC Berkeley highlights methods to work with a team 
+This guide from Haas School of Business at UC Berkeley highlights methods to work with a team 
 
 Credit: [The Berkeley MBA](http://mba.haas.berkeley.edu/)
 
