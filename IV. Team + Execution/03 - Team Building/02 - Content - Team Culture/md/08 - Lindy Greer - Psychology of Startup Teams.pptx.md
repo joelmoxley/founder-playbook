@@ -1,6 +1,6 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This presentation by Lindy Greer of the Stanford Graduate School of Business focuses on emphasizing the importance of diversity and working with new recruits to maintain your valuable team culture in building your startup team. She also points out pitfalls of hiring such as hiring a homogenous team, and hiring only when you need to fill a gap. 
+
+This presentation by Lindy Greer of the Stanford Graduate School of Business focuses on emphasizing the importance of diversity and working with new recruits to maintain your valuable team culture in building your startup team. She also points out pitfalls of hiring such as hiring a homogenous team, and hiring only when you need to fill a gap. 
 
 Credit: [Prof. Lindred L. Greer](https://www.gsb.stanford.edu/faculty-research/faculty/lindred-leura-greer)
 
