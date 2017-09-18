@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This consulting agreement template is meant for to govern interactions between two individuals.
+This consulting agreement template is meant for to govern interactions between two individuals.
 
 Credit: []()
 
