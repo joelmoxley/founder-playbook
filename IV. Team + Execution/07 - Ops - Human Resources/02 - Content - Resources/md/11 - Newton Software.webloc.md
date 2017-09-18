@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Newton is the brainchild of recruiting professionals who launched the product in 2009 after having run hundreds of high-performance recruiting programs across the US. Their goal wasn’t to revolutionize recruiting, it was to create an ATS that was easy-to-use, easy-to-implement, and affordable for any size of company regardless of how fast they were growing.
 
 Credit: [Newton](http://newtonsoftware.com/)
 
