@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This paper provides a bottom up framework to assess and quantify the design and cost of Lithium ion batteries.  
+This paper provides a bottom up framework to assess and quantify the design and cost of Lithium ion batteries.  
 
 Credit: [Argonne National Laboratory](https://www.anl.gov/)
 
