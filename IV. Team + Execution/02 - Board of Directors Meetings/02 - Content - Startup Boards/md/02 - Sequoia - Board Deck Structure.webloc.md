@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide by Sequoia Capital provides an overview of how to structure a startup deck for the board. 
+This guide by Sequoia Capital provides an overview of how to structure a startup deck for the board. 
 
 Credit: [Bryan Schreier](https://www.sequoiacap.com/people/bryan-schreier/)
 
