@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Co-working space based in Sunnyvale, CA. 
+Co-working space based in Sunnyvale, CA. 
 
 Credit: [Silicon Valley Pad](http://siliconvalleypad.com/)
 
