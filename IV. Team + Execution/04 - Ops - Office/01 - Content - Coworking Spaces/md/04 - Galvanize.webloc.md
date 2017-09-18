@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Galvanize is a co-working space company that has offices in major metropolises across the U.S., including in San Francisco.  THe SF office in the SoMa neighborhood boasts 5 floors of incubation, meeting, and co-working space and a thriving ecosystem of mentors and startups.
+Galvanize is a co-working space company that has offices in major metropolises across the U.S., including in San Francisco.  The SF office in the SoMa neighborhood boasts 5 floors of incubation, meeting, and co-working space and a thriving ecosystem of mentors and startups.
 
 Credit: [Galvanize, Inc.](https://www.galvanize.com/)
 
