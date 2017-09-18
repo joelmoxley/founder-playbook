@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This colloquially written techCrunch article on the ins and outs of startup boards, gives a basic overview of key considerations for founders starting out. Tips include how to maintain control of your venture at different stages and after funding, and how to navigate managing different stakeholders on your board. 
+This colloquially written techCrunch article on the ins and outs of startup boards, gives a basic overview of key considerations for founders starting out. Tips include how to maintain control of your venture at different stages and after funding, and how to navigate managing different stakeholders on your board. 
 
 Credit: [Samer Hamadeh](https://www.linkedin.com/in/samershamadeh/)
         [Adam Dinow](https://www.linkedin.com/in/adam-dinow-1642518/)
