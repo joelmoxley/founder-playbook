@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+SFMade is a California 501(c)(3) non-profit corporation, established in 2010 and headquartered in San Francisco. It is the only organization of its kind focused on building San Francisco’s economic base by developing the local manufacturing sector. SFMade’s mission is to build and support a vibrant manufacturing sector in San Francisco, that sustains companies producing locally-made products, encourages entrepreneurship and innovation, and creates employment opportunities for a diverse local workforce.
 
 Credit: [SF Made](http://www.sfmade.org/)
 
