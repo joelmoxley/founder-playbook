@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Zenefits makes it easy to manage all your HR functions through a series of specialized apps. Each Zenefits app automatically shares its data with the other apps you use on the Zenefits platform, and all are easily accessed through a single online dashboard, eliminating thousands of hours in administrative work and enabling small businesses to run smoother.
 
 Credit: [Zenefits](https://www.zenefits.com/)
 
