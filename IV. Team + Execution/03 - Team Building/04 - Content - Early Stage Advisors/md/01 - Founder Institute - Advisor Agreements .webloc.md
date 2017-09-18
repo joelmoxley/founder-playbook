@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The FAST Agreement is used by tens of thousands of entrepreneurs and advisors per year to establish productive working relationships, trading advice and support for a standardized amount of equity.
+The FAST Agreement is used by tens of thousands of entrepreneurs and advisors per year to establish productive working relationships, trading advice and support for a standardized amount of equity.
 
 Credit: [Founder Institute](http://fi.co/)
 
