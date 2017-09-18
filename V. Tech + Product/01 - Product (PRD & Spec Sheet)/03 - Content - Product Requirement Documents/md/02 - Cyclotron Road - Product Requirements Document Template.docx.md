@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This detailed Product Requirement Document (PRD) template by Cyclotron Road provides a structure and information to include when defining a PRD to communicate the value of your product. 
+This detailed Product Requirement Document (PRD) template by Cyclotron Road provides a structure and information to include when defining a PRD to communicate the value of your product. 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
