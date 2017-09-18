@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide to hiring a great team by Ilan Gur of Cyclotron Road, lays out a set of tips and steps by which to attract, screen, and bring on great team members for your growing startup, while keeping your culture, vision, and quality in mind. 
+This guide to hiring a great team by Ilan Gur of Cyclotron Road, lays out a set of tips and steps by which to attract, screen, and bring on great team members for your growing startup, while keeping your culture, vision, and quality in mind. 
 
 Credit: [Ilan Gur, PhD](http://www.cyclotronroad.org/team/)
 
