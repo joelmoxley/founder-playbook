@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide from the Haas School of Business at UC Berkeley lays out a problem solving process by which to frame, understand, and develop a solution for a given problem. Specifically, the framework takes a path through (1) understanding the problem, (2) collecting data to uncover relationships, (3) analyzing and synthesizing this data, (4) ideate solutions, and (5) test these solutions. 
+This guide from the Haas School of Business at UC Berkeley lays out a problem solving process by which to frame, understand, and develop a solution for a given problem. Specifically, the framework takes a path through (1) understanding the problem, (2) collecting data to uncover relationships, (3) analyzing and synthesizing this data, (4) ideate solutions, and (5) test these solutions. 
 
 Credit: [Berkeley Haas School of Business](http://www.haas.berkeley.edu/)
 
