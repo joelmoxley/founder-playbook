@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This effective Governance (eG) meeting agenda example provides a general list and order topics to be covered in a board meeting including in-camera session, meeting opening, matter for decision, mattery discussion, matters for noting, and meeting finalization. 
+This effective Governance (eG) meeting agenda example provides a general list and order topics to be covered in a board meeting including in-camera session, meeting opening, matter for decision, mattery discussion, matters for noting, and meeting finalization. 
 
 Credit: [Effective Governance Pty Ltd](http://www.effectivegovernance.com.au/)
 
