@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - This document provides an example of a product specification and cost document, detailing product costs by weight.
+Halotechnics - This document provides an example of a product specification and cost document, detailing product costs by weight.
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
