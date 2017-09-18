@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This set of tips around creating a productive, open, adaptive work exerience with a supportive team by David Weiden puts emphasis on honesty, personal relationships, and flexibility as cornerstones to a healthy work space. 
+This set of tips around creating a productive, open, adaptive work exerience with a supportive team by David Weiden puts emphasis on honesty, personal relationships, and flexibility as cornerstones to a healthy work space. 
 
 Credit: [David Weiden](https://www.linkedin.com/in/davidweiden/)
 
