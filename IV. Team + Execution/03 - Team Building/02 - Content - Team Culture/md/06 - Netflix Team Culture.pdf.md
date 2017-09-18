@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This presentation higlights the cultural elements that Netflix management sees as valuable within members making up a dynamic, effective organization: Judgement, Communication, Impact, Curiousity, Innovation, Courage, Passion, Honesty, Selflessness
+This presentation higlights the cultural elements that Netflix management sees as valuable within members making up a dynamic, effective organization: Judgement, Communication, Impact, Curiousity, Innovation, Courage, Passion, Honesty, Selflessness
 
 Credit: [Netflix](https://www.netflix.com/)
 
