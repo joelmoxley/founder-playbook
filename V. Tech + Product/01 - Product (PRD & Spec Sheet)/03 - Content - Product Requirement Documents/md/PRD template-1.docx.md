@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This is a Product Requirement Document template to give you an idea of how to structure and fill in your PRD. 
+This is a Product Requirement Document template to give you an idea of how to structure and fill in your PRD. 
 
 Credit: []()
 
