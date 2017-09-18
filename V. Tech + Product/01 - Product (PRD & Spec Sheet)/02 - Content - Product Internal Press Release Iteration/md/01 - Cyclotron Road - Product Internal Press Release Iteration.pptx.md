@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This template from Cyclotron Road provides a guide on what information to include in an effective product internal press release to communicate the value your product brings to a certain market and set of customers. 
+This template from Cyclotron Road provides a guide on what information to include in an effective product internal press release to communicate the value your product brings to a certain market and set of customers. 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
