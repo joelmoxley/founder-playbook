@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This ARPA-E University cost modeling presentation provides a structure by which to think through the process of analyzing and modeling cost and introduces how to use the attached spreadsheet template.
+This ARPA-E University cost modeling presentation provides a structure by which to think through the process of analyzing and modeling cost and introduces how to use the attached spreadsheet template.
 
 Credit: [ARPA-E University](https://arpa-e.energy.gov/?q=arpa-e-site-page/arpa-e-university)
 
