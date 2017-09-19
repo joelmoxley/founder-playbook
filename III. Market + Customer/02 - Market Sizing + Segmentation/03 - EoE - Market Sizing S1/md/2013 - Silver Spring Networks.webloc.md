@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The U.S. Securities and Exchange Commission (SEC) filing for an Initial Public Offering (IPO) for Silver Spring Networks in 2013. 
+The U.S. Securities and Exchange Commission (SEC) filing for an Initial Public Offering (IPO) for Silver Spring Networks in 2013. 
 
 Credit: [US Securities and Exchange Commission](https://www.sec.gov/)
 
