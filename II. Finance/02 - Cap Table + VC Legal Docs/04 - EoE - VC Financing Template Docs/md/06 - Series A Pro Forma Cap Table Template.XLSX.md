@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This capitalization table (cap table) template enables tracking of ownership across founders, universities, and investors for series A investment. 
+This capitalization table (cap table) template enables tracking of ownership across founders, universities, and investors for series A investment. 
 
 Credit: [ ]()
 
