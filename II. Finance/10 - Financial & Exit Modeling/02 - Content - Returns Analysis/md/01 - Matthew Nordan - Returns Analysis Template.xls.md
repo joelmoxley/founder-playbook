@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This spreadsheet template by Matthew Nordan with descriptive comments shows the expected returns for a model venture capital firm for a particular investment, using inputs such as revenue, investment made, total invesmtent raised by the startup and ownership and provides metrics such as absolute return in dollars based on a given valuation.
+This spreadsheet template by Matthew Nordan with descriptive comments shows the expected returns for a model venture capital firm for a particular investment, using inputs such as revenue, investment made, total invesmtent raised by the startup and ownership and provides metrics such as absolute return in dollars based on a given valuation.
 
 Credit: [Matthew M. Nordan](https://mnordan.com/)
 
