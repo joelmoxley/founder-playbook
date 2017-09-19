@@ -1,6 +1,6 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Preaward Checklist for Accounting survey provides a checklist of accounting practices that need to be filled out for all prospective contractors working with governement agencies. 
+This Preaward Checklist for Accounting survey provides a checklist of accounting practices that need to be filled out for all prospective contractors working with governement agencies. 
+
 Credit: [ ]()
 
 {! search-content: !}
