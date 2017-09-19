@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Cooley Go website provides customized legal document creation and growth of a startup. 
+The Cooley Go website provides customized legal document creation and growth of a startup. 
 
 Credit: [Cooley GO](https://www.cooleygo.com)
 
