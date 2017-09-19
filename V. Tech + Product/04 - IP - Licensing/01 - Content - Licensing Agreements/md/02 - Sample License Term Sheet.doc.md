@@ -1,6 +1,6 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This sample license term sheet outline provides the structure for all basic relevant information to be included in a licensing agreement. 
+This sample license term sheet outline provides the structure for all basic relevant information to be included in a licensing agreement.
+
 Credit: []()
 
 {! search-content: !}
