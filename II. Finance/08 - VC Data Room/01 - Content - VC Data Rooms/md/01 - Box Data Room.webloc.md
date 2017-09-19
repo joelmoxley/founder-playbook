@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This online service provided through Box enables complex contracting exercises including as mergers, aquisitions, and funding, to become more automated, and streamlined, showing you what you need to see so 'you can manage deals, not documents.’
+This online service provided through Box enables complex contracting exercises including as mergers, aquisitions, and funding, to become more automated, and streamlined, showing you what you need to see so 'you can manage deals, not documents.’
 
 Credit: [Box](https://www.box.com)
 
