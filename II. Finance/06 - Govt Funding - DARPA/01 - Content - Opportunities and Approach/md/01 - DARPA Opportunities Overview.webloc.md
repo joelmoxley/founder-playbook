@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This website provides an overview of the opportunities to work with the Defense Advanced Research Projects Agency (DARPA) in areas that is looking to partner with external parties, including academic, corporate, and governmental partners. 
+This website provides an overview of the opportunities to work with the Defense Advanced Research Projects Agency (DARPA) in areas that is looking to partner with external parties, including academic, corporate, and governmental partners. 
 
 Credit: [Defense Advanced Research Projects Agency](http://www.darpa.mil/)
 
