@@ -1,7 +1,7 @@
 
 This template by Cylotron Road provides a template for a company one pager that can communicate the company's solution, value, technology, and team to the recipient. 
 
-Credit: [Cyclotron Road] (http://www.cyclotronroad.org)
+Credit: [Cyclotron Road](http://www.cyclotronroad.org)
 
 {! search-content: !}
 
