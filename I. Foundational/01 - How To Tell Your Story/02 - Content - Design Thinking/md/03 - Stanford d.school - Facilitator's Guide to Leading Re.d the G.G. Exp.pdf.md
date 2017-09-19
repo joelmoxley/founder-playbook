@@ -1,7 +1,7 @@
 
 This presentation by the Institute of Design at Stanford provides take you through facilitating a group exercise leveraging design thinking, including considerations, tools, and talking points. 
 
-Credit: [Hasso Plattner, Institute of Design at Stanford ] (https://dschool.stanford.edu/)
+Credit:[Hasso Plattner, Institute of Design at Stanford](https://dschool.stanford.edu/)
 
 {! search-content: !}
 
