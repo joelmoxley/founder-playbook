@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || the National Science Foudation website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
+The National Science Foudation website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
 
 Credit: [National Science Foundation](https://www.nsf.gov)
 
