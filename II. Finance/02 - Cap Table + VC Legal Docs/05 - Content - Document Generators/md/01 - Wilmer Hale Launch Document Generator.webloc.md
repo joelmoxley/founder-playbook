@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Wilmer Hale website provides customized legal document creation and growth of a startup. 
+The Wilmer Hale website provides customized legal document creation and growth of a startup. 
 
 Credit: [Wilmerhale Launch](https://launch.wilmerhale.com)
 
