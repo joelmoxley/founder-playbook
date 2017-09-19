@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide from Fenwick and West highlights seven mistakes an entrepreneur can make in relation to intellectual property (IP) development and sharing. 
+This guide from Fenwick and West highlights seven mistakes an entrepreneur can make in relation to intellectual property (IP) development and sharing. 
 
 Credit: [Rajiv P. Patel](https://www.fenwick.com/professionals/pages/rajivpatel.aspx)
 
