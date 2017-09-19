@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This introduction to licensing from ARPA-E University takes entrepreneurs through the basics licensing your technology to an external party. 
+This introduction to licensing from ARPA-E University takes entrepreneurs through the basics licensing your technology to an external party. 
 
 Credit: [Karina Edmonds, PhD](https://energy.gov/contributors/karina-edmonds)
 
