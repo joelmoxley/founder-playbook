@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This presentation by Partner Kristine di Bacco at Fenwick and West provides considerations for a startup on the incorporation process and the seed fundraising process. 
+This presentation by Partner Kristine di Bacco at Fenwick and West provides considerations for a startup on the incorporation process and the seed fundraising process. 
 
 Credit: [Fenwick & West LLP](http://www.fenwick.com/pages/default.aspx)
 
