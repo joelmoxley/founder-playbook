@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Department of Defense website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
+The Department of Defense website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
 
 Credit: [U.S. Department of Defense SBIR/STTR](http://www.acq.osd.mil/osbp/sbir/)
 
