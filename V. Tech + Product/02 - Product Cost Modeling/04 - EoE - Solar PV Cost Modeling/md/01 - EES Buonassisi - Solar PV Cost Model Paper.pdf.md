@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This paper by members of the MIT Photovoltaic Research looks at factors affecting the cost of solar photovoltaic (PV) manufacturing and suggests some ways to reduce capex and increase opportunities to scale the technology.
+This paper by members of the MIT Photovoltaic Research looks at factors affecting the cost of solar photovoltaic (PV) manufacturing and suggests some ways to reduce capex and increase opportunities to scale the technology.
 
 Credit: [Royal Society of Chemistry](http://www.rsc.org/)
 
