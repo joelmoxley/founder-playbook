@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This sample licensing agreement provides a vetted framework to license you IP and technology to an external partner or group, along with a drop in statement of work (SOW) section to identify any work being done with the license. 
+This sample licensing agreement provides a vetted framework to license you IP and technology to an external partner or group, along with a drop in statement of work (SOW) section to identify any work being done with the license. 
 
 Credit: []()
 
