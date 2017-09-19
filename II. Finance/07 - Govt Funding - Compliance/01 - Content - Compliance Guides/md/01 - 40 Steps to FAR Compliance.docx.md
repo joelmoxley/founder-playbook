@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This document provides a checklist of ongoing accounting tasks to remain in compliance with Federal Acquisition Regulations (FAR) and the Cost Accounting Standards (CAS). Compliance with these standards is required to qualify for receipt of Phase II SBIR, STTR, R01 and BAA grants and contracts.
+This document provides a checklist of ongoing accounting tasks to remain in compliance with Federal Acquisition Regulations (FAR) and the Cost Accounting Standards (CAS). Compliance with these standards is required to qualify for receipt of Phase II SBIR, STTR, R01 and BAA grants and contracts.
 
 Credit: [ ]()
 
