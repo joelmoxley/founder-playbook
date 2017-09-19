@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This quick overview of what a SAFE provides by way of a financing vehicle for early stage startups acts includes a Q&A section and many simple illustrative examples. 
+This quick overview of what a SAFE provides by way of a financing vehicle for early stage startups acts includes a Q&A section and many simple illustrative examples. 
 
 Credit: [YCombinator](http://www.ycombinator.com)
 
