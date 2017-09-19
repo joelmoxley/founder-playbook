@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This document provides an overview of the Small Business Voucher (SBV) program provided by the Department of Energy. 
+This document provides an overview of the Small Business Voucher (SBV) program provided by the Department of Energy. 
 
 Credit: [Small Business Vouchers Pilot](https://www.sbv.org/)
 
