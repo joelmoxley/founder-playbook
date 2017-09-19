@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This sample licensing agreement provides a vetted framework to license you IP and technology to an external partner or group
+This sample licensing agreement provides a vetted framework to license you IP and technology to an external partner or group
 
 Credit: [ ]()
 
