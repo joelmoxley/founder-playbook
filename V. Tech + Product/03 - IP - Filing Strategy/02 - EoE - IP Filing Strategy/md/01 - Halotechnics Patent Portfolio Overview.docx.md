@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - This example of patent portfolio shows how to categorize and document all patents held under a given entitity. 
+Halotechnics - This example of patent portfolio shows how to categorize and document all patents held under a given entitity. 
 
 Credit: [Halotechnics, Inc.](http://www.halotechnics.com/)
 
