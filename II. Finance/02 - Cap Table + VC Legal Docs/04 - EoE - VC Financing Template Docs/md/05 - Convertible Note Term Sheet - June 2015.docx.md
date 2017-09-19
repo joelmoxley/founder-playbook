@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This example of a convertible note contains commentary on key considerations and common terms to give entrepreneurs a realistic idea of fair terms.
+This example of a convertible note contains commentary on key considerations and common terms to give entrepreneurs a realistic idea of fair terms.
 
 Credit: [ ]
 
