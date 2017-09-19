@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Due Diligence Memo document outlines all the information collected and requested in startup due diligence ahead of investment. 
+This Due Diligence Memo document outlines all the information collected and requested in startup due diligence ahead of investment. 
 
 Credit: [ ]()
 
