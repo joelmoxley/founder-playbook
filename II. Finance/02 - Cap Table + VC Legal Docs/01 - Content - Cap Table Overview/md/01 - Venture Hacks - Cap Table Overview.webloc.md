@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This video by Venture Hacks walks through how to fill in and use the Venture Hacks Cap Table Template, which you can also find among the resources on the Founder's Playbook. 
+This video by Venture Hacks walks through how to fill in and use the Venture Hacks Cap Table Template, which you can also find among the resources on the Founder's Playbook. 
 
 Credit: [Venture Hacks](http://venturehacks.com/)
 
