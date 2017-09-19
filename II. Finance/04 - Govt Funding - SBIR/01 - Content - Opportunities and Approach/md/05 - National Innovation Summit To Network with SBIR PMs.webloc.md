@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The National Innovation Summit by TechConnect brings together entrepreneurs and Program Managers for SBIR programs to network and engage. 
+The National Innovation Summit by TechConnect brings together entrepreneurs and Program Managers for SBIR programs to network and engage. 
 
 Credit: [National Innovation Summit & Showcase](http://nationalinnovationsummit.com/)
 
