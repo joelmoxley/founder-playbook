@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This presentation by Cyclotron Road provides a clear and simple explanation of what a SAFE (simple agreement for future equity) entails, including examples. 
+This presentation by Cyclotron Road provides a clear and simple explanation of what a SAFE (simple agreement for future equity) entails, including examples. 
 
 Credit: [Cyclotron Road](http://www.cyclotronroad.org/)
 
