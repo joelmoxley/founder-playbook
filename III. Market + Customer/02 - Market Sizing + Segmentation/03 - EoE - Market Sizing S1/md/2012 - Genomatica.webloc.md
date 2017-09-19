@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The U.S. Securities and Exchange Commission (SEC) filing for an Initial Public Offering (IPO) for Genomatica in 2012. 
+The U.S. Securities and Exchange Commission (SEC) filing for an Initial Public Offering (IPO) for Genomatica in 2012. 
 
 Credit: [US Securities and Exchange Commission](https://www.sec.gov/)
 
