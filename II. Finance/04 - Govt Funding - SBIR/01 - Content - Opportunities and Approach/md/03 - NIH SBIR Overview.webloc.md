@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || the National Institute of Health website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
+The National Institute of Health website detailing opportunities for investment for Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
 
 Credit: [Small Business Innovation Research ](https://sbir.nih.gov/)
 
