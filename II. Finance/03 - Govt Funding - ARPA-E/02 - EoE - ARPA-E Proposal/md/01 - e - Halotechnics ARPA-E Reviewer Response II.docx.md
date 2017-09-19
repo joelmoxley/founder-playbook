@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - A thorough and real example of a Reviewer Response document for ARPA-E in which the team at Halotechnics responds to review comments with clarifications, and additional data on the technology. Part II
+Halotechnics - A thorough and real example of a Reviewer Response document for ARPA-E in which the team at Halotechnics responds to review comments with clarifications, and additional data on the technology. Part II
 
-Credit: [ ]()
+Credit: [Halotechnics]( http://www.halotechnics.com)
 
 {! search-content: !}
 
