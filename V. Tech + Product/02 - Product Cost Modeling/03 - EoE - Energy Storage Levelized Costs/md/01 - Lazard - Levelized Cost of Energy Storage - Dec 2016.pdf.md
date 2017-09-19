@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This study done in collaboration between Lazard and Enovation Partners provides a framework to quanitify the levelized cost of electricity (LCOE) of energy storage. 
+This study done in collaboration between Lazard and Enovation Partners provides a framework to quanitify the levelized cost of electricity (LCOE) of energy storage. 
 
 Credit: [Lazard](https://www.lazard.com/)
 
