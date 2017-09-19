@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Crystalline Silicon Solar Module Cost and Price Model workbook by the MIT Photovoltaic Research Lab provides a working spreadsheet describing to plug in your own values to asses your own PV manufacturing costs. 
+This Crystalline Silicon Solar Module Cost and Price Model workbook by the MIT Photovoltaic Research Lab provides a working spreadsheet describing to plug in your own values to asses your own PV manufacturing costs. 
 
-Credit: []()
+Credit: [Douglas Powell](http://pv.mit.edu/pvmit_people/doug-powell/)
 
 {! search-content: !}
 
