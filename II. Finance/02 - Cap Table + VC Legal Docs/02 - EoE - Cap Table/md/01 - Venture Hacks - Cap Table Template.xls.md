@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This Venture Hacks capitalization spreadsheet (cap table) template includes an easily used template to plug in values of raised capital, and track ownership, equity dilution, and value of equity by investor, founder, and lender.
+This Venture Hacks capitalization spreadsheet (cap table) template includes an easily used template to plug in values of raised capital, and track ownership, equity dilution, and value of equity by investor, founder, and lender.
 
 Credit: [Venture Hacks](http://venturehacks.com/)
 
