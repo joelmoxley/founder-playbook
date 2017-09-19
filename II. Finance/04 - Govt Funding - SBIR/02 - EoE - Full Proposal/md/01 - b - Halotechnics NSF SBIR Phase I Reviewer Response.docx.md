@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - This example of an NSF SBIR Phase I Review Response gives readers an idea of how to provide a constructive response to review comments.
+Halotechnics - This example of an NSF SBIR Phase I Review Response gives readers an idea of how to provide a constructive response to review comments.
 
-Credit: [ ]()
+Credit: [Halotechnics]( http://www.halotechnics.com)
 
 
 {! search-content: !}
