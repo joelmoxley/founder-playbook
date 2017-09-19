@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The Department of Energy Small Business Voucher (SBV) Pilot program allows small businesses to apply for and receive between $50K and $300K in vouchers to be used at leading national labs to overcome technology and commercialization risks. Labs invovled include: Lawrence Berkeley National Laboratory, the National Renewable Energy Laboratory, Oak Ridge National Laboratory, Pacific Northwest National Laboratory and Sandia National Laboratories.
+The Department of Energy Small Business Voucher (SBV) Pilot program allows small businesses to apply for and receive between $50K and $300K in vouchers to be used at leading national labs to overcome technology and commercialization risks. Labs invovled include: Lawrence Berkeley National Laboratory, the National Renewable Energy Laboratory, Oak Ridge National Laboratory, Pacific Northwest National Laboratory and Sandia National Laboratories.
 
 Credit: [Small Business Vouchers Pilot](https://www.sbv.org/)
 
