@@ -1,7 +1,7 @@
 
 This presentation reviews the different types of financial sources you can draw on when funding a new venture, including equity based funding, revenue, and debt. The author Matthew Nordan takes you through each one, covering the benefits and drawbacks.  
 
-Credit: [Matthew M. Nordan](http://www.venrock.com/)
+Credit: [Matthew M. Nordan](https://www.linkedin.com/in/matthewnordan)
 
 {! search-content: !}
 
