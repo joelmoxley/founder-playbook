@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This presentation from ARPA-E University takes entrepreneurs through lessons learned of taking a technology from academia into a startup setting and the related difficulties and pitfalls to look out for. 
+This presentation from ARPA-E University takes entrepreneurs through lessons learned of taking a technology from academia into a startup setting and the related difficulties and pitfalls to look out for. 
 
 Credit: [Professor Lee Lynd](http://biology.dartmouth.edu/people/lee-r-lynd)
 
