@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - A thorough and real example of a Budget Justification details, for ARPA-E. 
+Halotechnics - A thorough and real example of a Budget Justification details, for ARPA-E. 
 
-Credit: [ ]( )
+Credit: [Halotechnics]( http://www.halotechnics.com)
 
 
 {! search-content: !}
