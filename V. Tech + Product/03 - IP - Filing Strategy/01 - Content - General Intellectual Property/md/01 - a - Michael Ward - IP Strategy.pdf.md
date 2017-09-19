@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Michael Ward from Morreson Foerester LLP takes you through the differences between trade secrets and patents and different protections one needs in the case of both. He covers patent infringement, trade secret protection, patent categories. 
+Michael Ward from Morreson Foerester LLP takes you through the differences between trade secrets and patents and different protections one needs in the case of both. He covers patent infringement, trade secret protection, patent categories. 
 
 Credit: [Michael R. Ward, Ph.D., J.D.](https://www.mofo.com/people/michael-ward.html)
 
