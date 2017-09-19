@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || The presentation for an ARPA-E webinar that covers how charitable investment through organizations like the PRIME Coalition can leverage funds that can have an impact where venture capital, and other types of funding have shied away due to poor alignment in timescales and outcomes. PRIME Coalition aggregates and qualifies hard science cleantech companies looking for investment that would be well suited to philanthropic investment, and then works with its network of philanthropic groups to complete the investment. 
+The presentation for an ARPA-E webinar that covers how charitable investment through organizations like the PRIME Coalition can leverage funds that can have an impact where venture capital, and other types of funding have shied away due to poor alignment in timescales and outcomes. PRIME Coalition aggregates and qualifies hard science cleantech companies looking for investment that would be well suited to philanthropic investment, and then works with its network of philanthropic groups to complete the investment. 
 
 Credit: [ARPA-E University](https://arpa-e.energy.gov/?q=arpa-e-site-page/arpa-e-university)
 
