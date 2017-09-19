@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - This example of an NSF SBIR Phase I Project Description gives readers an idea of how to write a proper project overview and description, including proper elements. 
+Halotechnics - This example of an NSF SBIR Phase I Project Description gives readers an idea of how to write a proper project overview and description, including proper elements. 
 
-Credit: [ ]()
+Credit: [Halotechnics]( http://www.halotechnics.com)
 
 {! search-content: !}
 
