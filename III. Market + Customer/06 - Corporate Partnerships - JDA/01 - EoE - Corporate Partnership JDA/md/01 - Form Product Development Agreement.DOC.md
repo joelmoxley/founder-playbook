@@ -1,7 +1,7 @@
 
 Halotechnics - This example of a product development agreement between start Halotechnics and a corporate partner provides a structure and legal language to allow both partners to enter into a commercial collaboration with the corporation paying the startup NRE fees. 
 
-Credit: [ ]()
+Credit: [Halotechnics](http://www.halotechnics.com)
 
  
 {! search-content: !}
