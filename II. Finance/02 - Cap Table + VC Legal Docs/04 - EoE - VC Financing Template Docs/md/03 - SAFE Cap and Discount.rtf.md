@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This SAFE (simple agreement for future equity) contract is designed for an agreement with a valuation cap, and with a defined discount rate. 
+This SAFE (simple agreement for future equity) contract is designed for an agreement with a valuation cap, and with a defined discount rate. 
 
-Credit: []()
+Credit: [YCombinator](http://www.ycombinator.com)
 
 
 {! search-content: !}
