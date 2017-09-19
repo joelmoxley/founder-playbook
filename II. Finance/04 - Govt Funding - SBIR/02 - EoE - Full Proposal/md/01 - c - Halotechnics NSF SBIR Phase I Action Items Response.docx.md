@@ -1,8 +1,7 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || Halotechnics - This example of an NSF SBIR Project Description gives readers an idea of how to write such a document. 
+Halotechnics - This example of an NSF SBIR Project Description gives readers an idea of how to write such a document. 
 
-Credit: [ ]()
+Credit: [Halotechnics]( http://www.halotechnics.com)
 
 
 {! search-content: !}
