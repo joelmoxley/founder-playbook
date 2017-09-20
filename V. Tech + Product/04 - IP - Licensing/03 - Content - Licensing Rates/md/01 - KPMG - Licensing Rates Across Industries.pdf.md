@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || KPMG, a large manufacturing corporation, shows how licensing varies across different industries and the implications thereof.
+KPMG shows how licensing varies across different industries and the implications thereof.
 
 Credit: [KPMG International](https://home.kpmg.com/xx/en/home.html)
 
