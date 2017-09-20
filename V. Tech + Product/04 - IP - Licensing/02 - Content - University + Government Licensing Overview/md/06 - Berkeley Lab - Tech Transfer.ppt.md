@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This tech transfer overview of moving technology from the LBNL lab into a startup environment also details resources within the lab to help with IP protection, and how to collaborate with the lab to improve future research. 
+This tech transfer overview of moving technology from the LBNL lab into a startup environment also details resources within the lab to help with IP protection, and how to collaborate with the lab to improve future research. 
 
 Credit: [Cheryl Fragiadakis](https://www.linkedin.com/in/cherylfragiadakis)
 
