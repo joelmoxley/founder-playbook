@@ -1,6 +1,5 @@
-Here's an example of a description that appears under a link.
 
-15 MIN READ || This guide by the Office of Technology Licensing (OTL) at UC Berkeley explains how to license technology from the university for use in an external venture. 
+This guide by the Office of Technology Licensing (OTL) at UC Berkeley explains how to license technology from the university for use in an external venture. 
 
 Credit: [Michael Cohen](http://ipira.berkeley.edu/bio-michael-cohen-uc-berkeley)
 
