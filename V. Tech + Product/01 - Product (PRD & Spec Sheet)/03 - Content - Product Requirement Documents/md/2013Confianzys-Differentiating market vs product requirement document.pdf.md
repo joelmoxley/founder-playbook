@@ -1,5 +1,5 @@
 
-This presentation by Confianzys walks readers through the crucial difference between a Market Requirement Document (MRD), which communicates the requirements you would like your product to address based on your market and customer research, and the Product Requirement Document (PRD) which communicates what product actually does in the context of the market needs.
+This presentation by Confianzys walks readers through the crucial difference between a Market Requirement Document (MRD), which communicates the requirements you would like your product to address based on your market and customer research, and the Product Requirement Document (PRD) which communicates what product actually does in the context of the market needs.   
 
 Credit: [Confianzys](http://www.confianzys.com/)
 
