@@ -16,15 +16,15 @@ Search above (e.g. "pitch") or click one of the five volumes above (e.g. "founda
 
 # Most Popular Resources
 * [Cyclotron Road - Elevator Pitch - Template](/foundational/eoe-elevator-pitch//cyclotron-road-elevator-pitch-template.pptx.md)
-Caption One
+
 * [Cyclotron Road Pitch Deck Template 2017](/finance/vc-pitch/content-templates/cyclotron-road-pitch-deck-template-2017.pptx.md)
-Caption Two
+
 * [ICorps - Best Practices Customer Discovery](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
-Caption Three
+
 * [Cyclotron Road - Quarterly Review Template 2016](/team-execution/advisory-board-meetings/eoe-advisory-board-meetings/cyclotron-road-quarterly-review-template-2016.pptx.md)
-Caption Four
+
 * [Cyclotron Road Spec Sheet Template From Cummins](/tech-product/product-prd-spec-sheet/eoe-product-spec-sheets/cyclotron-road-spec-sheet-template-from-cummins.docx.md)
-Caption Five
+
 
 </div>
 
