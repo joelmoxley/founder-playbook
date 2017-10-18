@@ -1,7 +1,7 @@
 
 This ARPA-E template provides guidelines to create a concept paper, providing details about what to include around the technology, and state of art developments in the industry.
 
-Credit: [Justin Raade ](https://www.linkedin.com/in/justinraade)
+Credit: [ARPA-E](https://arpa-e.energy.gov)
 
 {! search-content: !}
 
