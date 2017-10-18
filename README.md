@@ -109,22 +109,4 @@ Ordered lists use numbers and will appear numbered.
 
 	1. Red
 	2. Blue
-	3. Green 
-
-## Dev notes:
-
-	* UX upgrade / overhaul
-		* Focus on mobile
-		* Every click and gesture creates an immediate user action, even if things need to be loading in background
-		* Design queues to swipe on mobile and/or paddle left / right on desktop
-	* Create permalink landing page for each file
-		* Shareable url
-		* Big button to access the file
-		* Description section (with the edit pen to markdown moved to here)
-		* Search text section (indexable and appears long tail google searches)
-	* Next gen playbook displays
-		* Replace edit pen icon with the permalink icon
-		* Automaticaly calculate read time by the word count of the markdown file (especially search text)
-	* Front page
-		* Design concepts around having the most popular 3-5 resources featured on front page
-		* (Potentially ranked on downloads over past month in the future)
+	3. Green
