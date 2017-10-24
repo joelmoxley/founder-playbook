@@ -22,9 +22,9 @@
   own version via Github.
   See restrictions of use [here](/restrictions)
 
-  ###### Have a resource to suggest? [Click here](mailto:joel@moxleyholdings.com?Subject=Founders%20Playbook%20Suggestions)
+  ###### Have a resource to suggest? [Click here](mailto:joel@moxleyholdings.com,nikhil@cyclotronroad.org?Subject=Founders%20Playbook%20Suggestions)
 
-  Send us feedback [here](mailto:joel@moxleyholdings.com?Subject=Founders%20Playbook%20Suggestions)
+  Send us feedback [here](mailto:joel@moxleyholdings.com,nikhil@cyclotronroad.org?Subject=Founders%20Playbook%20Suggestions)
 </div>
 
 ---
