@@ -33,7 +33,7 @@ Search above (e.g. "pitch") or click one of the five volumes above (e.g. "founda
 <div markdown="1" class="home-slider-foundational">
 # Most Popular Foundational Resources
 * [Cyclotron Road - Elevator Pitch - Template](/foundational/eoe-elevator-pitch//cyclotron-road-elevator-pitch-template.pptx.md)
-* [Matthew Nordan - Demystifyng Money](/foundational/content-equity-v-debt-v-revenue//matthew-nordan-demystifyng-money.pdf.md)
+* [Matthew Nordan - Demystifying Money](/foundational/content-equity-v-debt-v-revenue//matthew-nordan-demystifyng-money.pdf.md)
 </div>
 
 <div markdown="1" class="home-slider-foundational">
