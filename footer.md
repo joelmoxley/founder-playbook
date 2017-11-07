@@ -2,7 +2,7 @@
 
   # About the Founder's Playbook
 
-  The Founder's Playbook was developed by Cyclotron Road and Moxley Holdings
+  The Founder's Playbook was developed by Cyclotron Road and its partners
   to be the go-to knowledge repository for hard tech innovators and entrepreneurs.
   Cyclotron Road, along with the community of educational partners and practitioners
   below, will serve as a living laboratory for these resources, continually
