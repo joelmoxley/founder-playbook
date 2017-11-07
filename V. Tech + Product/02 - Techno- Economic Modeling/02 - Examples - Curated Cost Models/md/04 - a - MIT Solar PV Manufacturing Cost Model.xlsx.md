@@ -1,7 +1,7 @@
 
-This model from MIT provides structure to assess the cost of producing solar photovoltaics, highlighting capital expenditure and ways to reduce it.
+This model by Doug Powell at the MIT Photovoltaic Research Lab provides structure to assess the cost of producing solar photovoltaics, highlighting capital expenditure and ways to reduce it.
 
-Credit: [NREL](https://www.nrel.gov/)
+Credit: [MIT PV Research Lab](http://pv.mit.edu/pvmit_people/doug-powell/)
 
 {! search-content: !}
 
