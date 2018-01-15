@@ -1,14 +1,22 @@
 ---
-Title: Founder Playbook
+Title: Founder's Playbook
 ---
 
 # Home Page
 
 <div class="home-lead-content">
 
-“And if you no longer go for a gap that exists, you are no longer a racing driver because we are competing, we are competing to win. And the main motivation to all of us is to compete for victory, it’s not to come 3rd, 4th, 5th or 6th.” – Ayrton Senna, 1991
+“Ideas are easy, implementation is hard” – Guy Kawasaki
 
-Search above (e.g. "pitch") or click one of the five volumes above (e.g. "foundational") and let's get after it to build some great companies. 💯 🙌 🚀
+The Founder’s Playbook, is a curated library of educational resources covering essential topics related to launching and growing a hard tech company, including incorporation, raising capital, team building, managing daily operations, developing a product, and more. The Playbook also includes example documents from leading companies and organizations that demonstrate excellence in implementation of the topics discussed, labeled Examples of Excellence (EoE).  
+
+How to use the playbook:
+
+Get the basics: Just getting started as a hard tech entrepreneur? Check out these foundational resources first to familiarize yourself with some of the basic concepts you’ll need to be successful.
+
+Dive deep: Looking to educate yourself in a particular area? Resources in the Founder’s Playbook are categorized according the four pillars of a balanced hard tech company: finance, market & customer, team & execution, tech & product. Use the tabs above to browse all of the resources in each specific category.
+
+Find what you need: Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)
 
 </div>
 
