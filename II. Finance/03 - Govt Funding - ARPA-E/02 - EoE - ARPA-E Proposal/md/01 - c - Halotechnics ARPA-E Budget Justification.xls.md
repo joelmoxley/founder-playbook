@@ -1,7 +1,7 @@
 
 -Halotechnics- A thorough example of a Budget Justification form, for ARPA-E. 
 
-Credit: [Halotechnics]( http://www.halotechnics.com)
+Credit:[Halotechnics]( http://www.halotechnics.com)
 
 
 {! search-content: !}
