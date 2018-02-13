@@ -6,17 +6,15 @@ Title: Founder's Playbook
 
 <div class="home-lead-content">
 
-“Ideas are easy, implementation is hard” – Guy Kawasaki<br/><br/>
-
-The Founder’s Playbook, is a curated library of educational resources covering essential topics related to launching and growing a hard tech company, including incorporation, raising capital, team building, managing daily operations, developing a product, and more. The Playbook also includes example documents from leading companies and organizations that demonstrate excellence in implementation of the topics discussed, labeled Examples of Excellence (EoE).  <br/><br/>
+The Founder’s Playbook is a curated library of essential reading and examples of excellence related to launching and growing a hard tech company, including incorporation, developing a product, raising capital, team building, managing daily operations and more. <br/><br/>
 
 How to use the playbook:<br/>
 
--- Get the basics: Just getting started as a hard tech entrepreneur? Check out these foundational resources first to familiarize yourself with some of the basic concepts you’ll need to be successful.<br/>
+1.  Get the basics: Just getting started as a hard tech entrepreneur? Check out these foundational resources first to familiarize yourself with some of the basic concepts you’ll need to be successful.<br/>
 
--- Dive deep: Looking to educate yourself in a particular area? Resources in the Founder’s Playbook are categorized according the four pillars of a balanced hard tech company: finance, market & customer, team & execution, tech & product. Use the tabs above to browse all of the resources in each specific category.<br/>
+2.  Dive deep: Looking to educate yourself in a particular area? Resources in the Founder’s Playbook are categorized according the four pillars of a balanced hard tech company: finance, market & customer, team & execution, tech & product. Use the tabs above to browse all of the resources in each specific category.<br/>
 
--- Find what you need: Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)<br/>
+3.  Find what you need: Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)<br/>
 
 </div>
 
