@@ -7,7 +7,7 @@
   Cyclotron Road, along with the community of educational partners and practitioners
   below, will serve as a living laboratory for these resources, continually
   bulding upon and refining the content contained within based on their
-  day-to-day engagement with leading hard tech innovators and entrepreneurs.
+  day-to-day engagement with leading hard tech innovators and entrepreneurs.The creation of this site has been made possible thanks to a grant from the California Energy Commission. 
 
 </div>
 
