@@ -1,7 +1,7 @@
 
-This capitalization table (cap table) template enables tracking of ownership across founders, universities, and investors from various stages from seed stage through acquisition and IPO. 
+This capitalization table (cap table) template by S3 Cap Table Template enables tracking of ownership across founders, universities, and investors from various stages from seed stage through acquisition and IPO. 
 
-Credit: [  ]( )
+Credit: [S3 Ventures]( http://www.s3vc.com/resources/s3-venture-cap-table-template/)
 
 {! search-content: !}
 
