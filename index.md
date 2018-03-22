@@ -6,9 +6,9 @@ Title: Founder's Playbook
 
 
 
-<p class="intro-text">The Founder’s Playbook is a curated library of essential reading and examples of excellence related to launching and growing a hard tech company. </p>
+<p class="intro-text">The Founder’s Playbook is a curated library of essential reading and examples related to launching and growing a hard tech company. </p>
 
-
+<h3>How to use the playbook:</h3>
 
 </div>
 
