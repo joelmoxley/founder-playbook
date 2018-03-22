@@ -14,7 +14,7 @@ Title: Founder's Playbook
 
 <div markdown="1" class="medium-12 home-popular-resources">
 
-<h3>Most Popular Resources</h3>
+<h2>Most Popular Resources</h2>
 * 
   [Cyclotron Road - Elevator Pitch - Template](/foundational/eoe-elevator-pitch//cyclotron-road-elevator-pitch-template.pptx.md)
 
