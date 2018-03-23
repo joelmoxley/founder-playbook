@@ -10,6 +10,8 @@ Title: Founder's Playbook
 
 <h3>How to use the playbook:</h3>
 
+<p> Hello world! </p>
+
 </div>
 
 <div markdown="1" class="medium-12 home-popular-resources">
