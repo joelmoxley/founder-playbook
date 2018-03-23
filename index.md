@@ -13,7 +13,7 @@ Title: Founder's Playbook
 <p> 
 
 <ol>
-  <li><b>Etc.</b> etc. </li>
+  <li><b></b> etc. </li>
   <li><b>Etc.</b> etc. </li>
   <li><b>Etc.</b> etc. </li>
 </ol>  
