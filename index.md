@@ -4,17 +4,9 @@ Title: Founder's Playbook
 
 <div class="home-lead-content">
 
-<<<<<<< HEAD
-The Founder’s Playbook is a curated library of essential reading and examples of excellence related to launching and growing a hard tech company in the four fundamental areas of Technology, Finance, Market, Team. Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic. <br/><br/>
-=======
 
 
-<p class="intro-text">The Founder’s Playbook is a curated library of essential reading and examples of excellence related to launching and growing a hard tech company in the four fundamental areas of Technology, Finance, Market, Team. Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic. </p>
-
-
->>>>>>> b8f214046b84c3142c1129618c5af872f103d3d0
-
-</div>
+<p class="intro-text">The Founder’s Playbook is a curated library of essential reading and example materials related to launching and growing a hard tech company. </p>
 
 <div markdown="1" class="medium-12 home-popular-resources">
 
