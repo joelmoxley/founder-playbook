@@ -44,9 +44,7 @@
   ###### Contributing Partners
 
   * ![Stanford](/img/stanford-university-stacked.png)
-  * ![MIT](/img/2000px-MIT_logo.png)
+  * ![MIT](/img/MIT.png)
   * ![California Energy Commission](/img/california-energy.png)
   * ![Breakthrough Energy](/img/BEV_Logo_RGB.png)
 </div>
-
----
