@@ -12,11 +12,13 @@ Title: Expert Lists
 
 <h3>Matt Price, Managing Director at Cyclotron Road</h3>
 
+<p>These are my top four resources on the entire playbook.</p>
+
 * 
   [ARPA-E - Wind Turbine Market Analysis](/market-customer/market-sizing-segmentation/eoe-market-sizing-s1/arpa-e-wind-turbine-generators-market-analysis-vf.pptx.md)
 
 * 
-  [Cyclotron Road Customer Deck Template (Adapted from Magic Box Paradigm](http://playbooks.cyclotronroad.org/market-customer/customer-deck/01%20-%20Examples%20-%20Customer%20Deck/cyclotron-road-customer-deck-template.pptx.md)
+  [Cyclotron Road Customer Deck Template (Adapted from Magic Box Paradigm)](http://playbooks.cyclotronroad.org/market-customer/customer-deck/01%20-%20Examples%20-%20Customer%20Deck/cyclotron-road-customer-deck-template.pptx.md)
 
 * 
   [MIT Technology Ventures Corporate Finance Template](http://playbooks.cyclotronroad.org/team-execution/ops-finance-accounting/01%20-%20Examples-%20P&L/mit-energy-ventures-financial-template-corp..xls.md)
@@ -29,6 +31,8 @@ Title: Expert Lists
 <img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
   
 <h3> Joel Moxley, General Partner at Moxley Holdings</h3>
+
+<p>These are my favorite resources related to company building</p>
  
 * 
   [Ilan Gur - High Hit Rate Hiring](/team-execution/team-building/content-hiring/ilan-gur-high-hit-rate-hiring.pptx.md)
@@ -50,7 +54,9 @@ Title: Expert Lists
 <img src="Beth-Zotter-headshot-250x250.jpg" alt="Beth Zotter headshot" style="width:100px;height:100px;border-radius:50%"> 
   
 <h3> Beth Zotter, Technology Economics at Cyclotron Road </h3>
-  
+
+<p>These are my top five resources related to cost modeling and technoeconomics</p>
+
 * 
   [Yet Min Chiang - Beyond the Back of the Envelope - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
 
