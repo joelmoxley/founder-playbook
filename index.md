@@ -13,9 +13,9 @@ Title: Founder's Playbook
 <p> 
 
 <ol>
-  <li><b>Find what you need:</b> Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)</li>
-  <li><b>Dive deep:</b> Want to educate yourself in a particular area? Resources in the Founder’s Playbook are categorized by the four pillars of a balanced company: technolgy, finance, market, and team. Use the tabs above to see all of the resources in each category.</li>
-  <li><b>Browse:</b> Not sure where to start? Check out the most popular resources below or take a look at recommended reading from our network experts at the "Expert Lists" tab above</li>
+  <li><b>Already know what you’re looking for?</b>  Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)</li>
+  <li><b>Want to educate yourself in a particular area?</b>  Resources in the Founder’s Playbook are categorized by the four pillars of a balanced company: <a href="http://playbooks.cyclotronroad.org/tech-product">technology</a>, <a href="http://playbooks.cyclotronroad.org/finance">finance</a>, <a href="http://playbooks.cyclotronroad.org/market-customer">market</a>market, and <a href="http://playbooks.cyclotronroad.org/team-execution">team</a>. Use the tabs above to see all of the resources in each category.</li>
+  <li><b>Not sure where to start?</b>  Take a look at <a href="http://playbooks.cyclotronroad.org/expert-lists">recommended reading from our community of experts</a> or check out the most popular resources below</li>
  
 </ol>  
 
