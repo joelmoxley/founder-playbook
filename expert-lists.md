@@ -23,7 +23,9 @@ Title: Expert Lists
 
 *
   [Cyclotron Road Data Sheet Template - ADD CORRECT RESOURCE](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
+  
 <br>
+
 <img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
   
 <h2> Joel Moxley, General Partner at Moxley Holdings and Founder of Foro Energy </h2>
@@ -47,7 +49,7 @@ Title: Expert Lists
 
 <img src="Beth-Zotter-headshot-250x250.jpg" alt="Beth Zotter headshot" style="width:100px;height:100px;border-radius:50%"> 
   
-<h2> Beth Zotter, Technology Economics Lead at Cyclotron Road </h2>
+<h2> Beth Zotter, Technology Economics at Cyclotron Road </h2>
   
 * 
   [Yet Min Chiang - Beyond the Back of the Envelope - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
