@@ -8,6 +8,21 @@ Title: Founder's Playbook
 
 <p class="intro-text">The Founder’s Playbook is a curated library of essential reading and example materials related to launching and growing a hard tech company. </p>
 
+<h3>How to use the Playbook:</h3>
+
+<p> 
+
+<ol>
+  <li><b>Find what you need:</b> Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)</li>
+  <li><b>Dive deep:</b> Looking to educate yourself in a particular area? Resources in the Founder’s Playbook are categorized according the four pillars of a balanced hard tech company: finance, market & customer, team & execution, tech & product. Use the tabs above to browse all of the resources in each specific category.</li>
+  <li><b>Browse:</b> Not sure where to start? Check out the most popular resources below or take a look at recommended reading from our network experts at the "Expert Lists" tab above</li>
+ 
+</ol>  
+
+</p>
+
+</div>
+
 <div markdown="1" class="medium-12 home-popular-resources">
 
 <h2>Most Popular Resources</h2>
