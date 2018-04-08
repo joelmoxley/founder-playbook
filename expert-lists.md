@@ -43,6 +43,8 @@ Title: Expert Lists
 * 
   [ICorps - Best Practices Customer Discovery](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
 
+<br>
+
 <img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
   
 <h2> Joel Moxley, General Partner at Moxley Holdings and Founder of Foro Energy </h2>
