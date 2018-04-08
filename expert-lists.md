@@ -28,7 +28,7 @@ Title: Expert Lists
 
 <img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
   
-<h3> Joel Moxley, General Partner at Moxley Holdings and Founder of Foro Energy </h3>
+<h3> Joel Moxley, General Partner at Moxley Holdings</h3>
  
 * 
   [Ilan Gur - High Hit Rate Hiring](/team-execution/team-building/content-hiring/ilan-gur-high-hit-rate-hiring.pptx.md)
