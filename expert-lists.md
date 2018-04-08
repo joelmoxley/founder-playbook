@@ -45,24 +45,24 @@ Title: Expert Lists
 
 <br>
 
-<img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
+<img src="Beth-Zotter-headshot-250x250.jpg" alt="Beth Zotter headshot" style="width:100px;height:100px;border-radius:50%"> 
   
-<h2> Joel Moxley, General Partner at Moxley Holdings and Founder of Foro Energy </h2>
+<h2> Beth Zotter, Technology Economics Lead at Cyclotron Road </h2>
   
 * 
-  [Ilan Gur - High Hit Rate Hiring](/team-execution/team-building/content-hiring/ilan-gur-high-hit-rate-hiring.pptx.md)
+  [Yet Min Chiang - Beyond the Back of the Envelope - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
 
 * 
-  [Dave Danielson - Energy Startup Funding Landscape]-add resource()
+  [Chris Burk - Riboflavin Production Cost Model - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
 
 * 
-  [Founder Institute - Advisor Agreements](/team-execution/team-building/content-early-stage-advisors/founder-institute-advisor-agreements-.webloc.md)
+  [ULSAB Vehicle Cost Model - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
 
 *
-  [Samer Hamadeh - What you need to know about startup boards](/team-execution/board-of-directors-meetings/content-startup-boards/samer-hamadeh-what-you-need-to-know-about-startup-boards.webloc.md)
+  [LEDCOM Cost Model - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
   
 * 
-  [ICorps - Best Practices Customer Discovery](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
+  [Beth Zotter - How to Make a Good Cost Model](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
 </div>
 
-</div> -->
+</div>
