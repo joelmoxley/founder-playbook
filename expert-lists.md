@@ -8,7 +8,7 @@ Title: Expert Lists
 
 <div markdown="1" class="medium-12 home-popular-resources">
 
-<img src="Matt-Price-headshot-250x250.jpg" alt="Matt-Price" style="width:100px;height:100px;border-radius:50%">
+<img src="Matt-Price-headshot-250x250.jpg" alt="Matt Price headshot" style="width:100px;height:100px;border-radius:50%">
 
 
 <h2>Matt Price, Managing Director at Cyclotron Road</h2>
@@ -23,6 +23,8 @@ Title: Expert Lists
 
 *
   [Cyclotron Road Spec Sheet Template From Cummins](/tech-product/product-prd-spec-sheet/eoe-product-spec-sheets/cyclotron-road-spec-sheet-template-from-cummins.docx.md)
+  
+<img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%">joel-moxley-250x250.jpg  
   
   <h2> Joel Moxley, Founder </h2>
 * 
