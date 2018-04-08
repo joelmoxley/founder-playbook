@@ -22,25 +22,25 @@ Title: Expert Lists
   [MIT Technology Ventures Corporate Finance Template](http://playbooks.cyclotronroad.org/team-execution/ops-finance-accounting/01%20-%20Examples-%20P&L/mit-energy-ventures-financial-template-corp..xls.md)
 
 *
-  [Cyclotron Road Spec Sheet Template From Cummins](/tech-product/product-prd-spec-sheet/eoe-product-spec-sheets/cyclotron-road-spec-sheet-template-from-cummins.docx.md)
+  [Cyclotron Road Data Sheet Template]-add resource()
   
-<img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%">joel-moxley-250x250.jpg  
+<img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
   
-  <h2> Joel Moxley, Founder </h2>
+  <h2> Joel Moxley, General Partner at Moxley Holdings and Founder of Foro Energy </h2>
 * 
-  [Cyclotron Road - Elevator Pitch - Template](/foundational/eoe-elevator-pitch//cyclotron-road-elevator-pitch-template.pptx.md)
+  [Ilan Gur - High Hit Rate Hiring](/team-execution/team-building/content-hiring/ilan-gur-high-hit-rate-hiring.pptx.md)
 
 * 
-  [Cyclotron Road Pitch Deck Template 2017](/finance/vc-pitch/content-templates/cyclotron-road-pitch-deck-template-2017.pptx.md)
+  [Dave Danielson - Energy Startup Funding Landscape]-add resource()
 
 * 
-  [ICorps - Best Practices Customer Discovery](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
-
-* 
-  [Cyclotron Road - Quarterly Review Template 2016](/team-execution/advisory-board-meetings/eoe-advisory-board-meetings/cyclotron-road-quarterly-review-template-2016.pptx.md)
+  [Founder Institute - Advisor Agreements](/team-execution/team-building/content-early-stage-advisors/founder-institute-advisor-agreements-.webloc.md)
 
 *
-  [Cyclotron Road Spec Sheet Template From Cummins](/tech-product/product-prd-spec-sheet/eoe-product-spec-sheets/cyclotron-road-spec-sheet-template-from-cummins.docx.md)
+  [Samer Hamadeh - What you need to know about startup boards](/team-execution/board-of-directors-meetings/content-startup-boards/samer-hamadeh-what-you-need-to-know-about-startup-boards.webloc.md)
+  
+* 
+  [ICorps - Best Practices Customer Discovery](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
 
 </div>
 
