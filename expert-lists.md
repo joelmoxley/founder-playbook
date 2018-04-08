@@ -11,8 +11,7 @@ Title: Expert Lists
 <img src="Matt-Price-headshot-250x250.jpg" alt="Matt Price headshot" style="width:100px;height:100px;border-radius:50%;float:left">
 
 <h2>Matt Price, Managing Director at Cyclotron Road</h2>
-
-<div>
+<br>
 * 
   [ARPA-E - Wind Turbine Market Analysis](/market-customer/market-sizing-segmentation/eoe-market-sizing-s1/arpa-e-wind-turbine-generators-market-analysis-vf.pptx.md)
 
@@ -24,8 +23,6 @@ Title: Expert Lists
 
 *
   [Cyclotron Road Data Sheet Template]-add resource()
- 
-</div>
 
 <img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
   
