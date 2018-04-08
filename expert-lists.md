@@ -1,5 +1,5 @@
 ---
-Title: Expert Picks
+Title: Expert Lists
 ---
 
 <div class="home-lead-content">
