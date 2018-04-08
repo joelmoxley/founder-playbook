@@ -14,7 +14,7 @@ Title: Founder's Playbook
 
 <ol>
   <li><b>Find what you need:</b> Already know what you’re looking for? Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)</li>
-  <li><b>Dive deep:</b> Looking to educate yourself in a particular area? Resources in the Founder’s Playbook are categorized according the four pillars of a balanced hard tech company: finance, market & customer, team & execution, tech & product. Use the tabs above to browse all of the resources in each specific category.</li>
+  <li><b>Dive deep:</b> Want to educate yourself in a particular area? Resources in the Founder’s Playbook are categorized by the four pillars of a balanced company: technolgy, finance, market, and team. Use the tabs above to see all of the resources in each category.</li>
   <li><b>Browse:</b> Not sure where to start? Check out the most popular resources below or take a look at recommended reading from our network experts at the "Expert Lists" tab above</li>
  
 </ol>  
