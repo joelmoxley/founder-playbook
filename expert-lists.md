@@ -24,7 +24,7 @@ Title: Expert Lists
 *
   [Cyclotron Road Data Sheet Template]-add resource()
 
-<img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
+<img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%;float:left" hspace="20"> 
   
   <h2> Joel Moxley, General Partner at Moxley Holdings and Founder of Foro Energy </h2>
 * 
