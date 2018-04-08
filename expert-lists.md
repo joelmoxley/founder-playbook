@@ -10,6 +10,10 @@ Title: Expert Lists
 
 <img src="Matt-Price-headshot-250x250.jpg" alt="Matt-Price">
 
+img {
+    border-radius: 50%;
+}
+
 <h2>Matt Price, Managing Director at Cyclotron Road</h2>
 * 
   [ARPA-E - Wind Turbine Market Analysis](/market-customer/market-sizing-segmentation/eoe-market-sizing-s1/arpa-e-wind-turbine-generators-market-analysis-vf.pptx.md)
