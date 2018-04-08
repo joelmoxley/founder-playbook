@@ -22,7 +22,7 @@ Title: Expert Lists
   [MIT Technology Ventures Corporate Finance Template](http://playbooks.cyclotronroad.org/team-execution/ops-finance-accounting/01%20-%20Examples-%20P&L/mit-energy-ventures-financial-template-corp..xls.md)
 
 *
-  [Cyclotron Road Data Sheet Template]-add resource()
+  [Cyclotron Road Data Sheet Template - ADD CORRECT RESOURCE]-add resource(/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
 <br>
 <img src="joel-moxley-250x250.jpg" alt="Joel Moxley headshot" style="width:100px;height:100px;border-radius:50%"> 
   
@@ -32,7 +32,7 @@ Title: Expert Lists
   [Ilan Gur - High Hit Rate Hiring](/team-execution/team-building/content-hiring/ilan-gur-high-hit-rate-hiring.pptx.md)
 
 * 
-  [Dave Danielson - Energy Startup Funding Landscape]-add resource()
+  [Dave Danielson - Energy Startup Funding Landscape - ADD CORRECT RESOURCE]-add resource(/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
 
 * 
   [Founder Institute - Advisor Agreements](/team-execution/team-building/content-early-stage-advisors/founder-institute-advisor-agreements-.webloc.md)
