@@ -40,8 +40,9 @@
   * ![MH](/img/moxley-holdings-logo-white.png)
 </div>
 
-<div markdown="1" class="columns medium-6 contributors">
+<div markdown="1" class="columns medium-6 partners">
   ###### Contributing Partners
+  
   * ![California Energy Commission](/img/california-energy.png)
   * ![Breakthrough Energy](/img/BEV_Logo_RGB.png)
 </div>
