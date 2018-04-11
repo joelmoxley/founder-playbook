@@ -4,7 +4,7 @@ Title: Expert Lists
 
 <div class="home-lead-content">
 
-<p class="intro-text">Recommended reading from hard tech practitioners</p>
+<p class="intro-text">Recommended reading from our network of experts and hard tech practitioners</p>
 
 <div markdown="1" class="medium-12 home-popular-resources">
 
