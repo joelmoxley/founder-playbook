@@ -42,9 +42,6 @@
 
 <div markdown="1" class="columns medium-6 contributors">
   ###### Contributing Partners
-
-  * ![Stanford](/img/stanford-university-stacked.png)
-  * ![MIT](/img/MIT.png)
   * ![California Energy Commission](/img/california-energy.png)
   * ![Breakthrough Energy](/img/BEV_Logo_RGB.png)
 </div>
