@@ -43,6 +43,6 @@
 <div markdown="1" class="columns medium-6 contributors">
   ###### Contributing Partners
   
-  * ![California Energy Commission](/img/california-energy.png)
+  * ![California Energy Commission](/img/CEC-logo-transparent.png)
   * ![Breakthrough Energy](/img/BEV_Logo_RGB.png)
 </div>
