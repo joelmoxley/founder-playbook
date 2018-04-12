@@ -12,7 +12,7 @@ Title: Expert Lists
 
 <h3>Matt Price, Managing Director at Cyclotron Road</h3>
 
-<p>These are my top four resources on the entire playbook.</p>
+<p>I support fellows at Cyclotron Road by helping them build strong partnerships with commercial partners, customers, and investors. These are my top three resources related to market analysis and customer engagement for early-stage hard tech companies.</p>
 
 * 
   [ARPA-E - Wind Turbine Market Analysis](/market-customer/market-sizing-segmentation/eoe-market-sizing-s1/arpa-e-wind-turbine-generators-market-analysis-vf.pptx.md)
@@ -22,9 +22,6 @@ Title: Expert Lists
 
 * 
   [MIT Technology Ventures Corporate Finance Template](http://playbooks.cyclotronroad.org/team-execution/ops-finance-accounting/01%20-%20Examples-%20P&L/mit-energy-ventures-financial-template-corp..xls.md)
-
-*
-  [Cyclotron Road Data Sheet Template - ADD CORRECT RESOURCE](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
   
 <br>
 
