@@ -29,13 +29,13 @@ Title: Expert Lists
   
 <h3> Joel Moxley, General Partner at Moxley Holdings</h3>
 
-<p>These are my favorite resources related to company building</p>
+<p>I have spent the last decade building companies at the intersection of hard technology and data, and have seen the ins, outs, ups, and downs of building a great hard tech venture. These are my favorite resources related to company building for hard tech entrepreneurs.</p>
  
 * 
   [Ilan Gur - High Hit Rate Hiring](/team-execution/team-building/content-hiring/ilan-gur-high-hit-rate-hiring.pptx.md)
 
 * 
-  [Dave Danielson - Energy Startup Funding Landscape - ADD CORRECT RESOURCE](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
+  [Dave Danielson - Energy Startup Funding Landscape](/finance/content-sources-of-capital-equity-v-debt-v-revenue/dave-danielson-energy-startup-funding-landscape.pptx.md)
 
 * 
   [Founder Institute - Advisor Agreements](/team-execution/team-building/content-early-stage-advisors/founder-institute-advisor-agreements-.webloc.md)
@@ -52,19 +52,19 @@ Title: Expert Lists
   
 <h3> Beth Zotter, Technology Economics at Cyclotron Road </h3>
 
-<p>These are my top five resources related to cost modeling and technoeconomics</p>
+<p>We have a motto at Cyclotron Road: "It's never too early to build a cost model." I support our teams by helping them do just that, even when the product is not yet well defined and there's still science to be done. These are my top five resources related to cost modeling and technoeconomics</p>
 
 * 
-  [Yet Min Chiang - Beyond the Back of the Envelope - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
+  [Yet Min Chiang - Beyond the Back of the Envelope](/tech-product/techno-economic-modeling/content-cost-modeling/chiang-boas-beyond-the-back-of-the-envelope.pptx.md)
 
 * 
-  [Chris Burk - Riboflavin Production Cost Model - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
+  [Chris Burk - Riboflavin Production Cost Model](/tech-product/techno-economic-modeling/examples-curated-cost-models/riboflavin-demo-model-burk-engineering.numbers.md)
 
 * 
-  [ULSAB Vehicle Cost Model - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
+  [ULSAB Vehicle Cost Model](/tech-product/techno-economic-modeling/examples-curated-cost-models/ulsab-vehicles-cost-model.xls.md)
 
 *
-  [LEDCOM Cost Model - ADD CORRECT RESOURCE](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
+  [LEDCOM Cost Model](/tech-product/techno-economic-modeling/examples-curated-cost-models/led-manufacturing-cost-model-ledcom-.xls.md)
   
 * 
   [Beth Zotter - How to Make a Good Cost Model](/tech-product/techno-economic-modeling/content-cost-modeling/how-to-build-a-good-cost-model.pdf.md)
