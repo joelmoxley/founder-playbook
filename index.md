@@ -6,7 +6,7 @@ Title: Founder's Playbook
 
 
 
-<p class="intro-text">Welcome to the Founder’s Playbook beta site. The Playbook is a curated, searchable library of essential reading and example materials related to launching and growing a hard tech company, meant for anyone who is working to bring new innovations in the physical and biological sciences to market. </p>
+<p class="intro-text">Welcome to the Founder’s Playbook beta site. The Playbook is a curated, searchable library of essential reading and example materials related to launching and growing a hard tech company.</p>
 
 <h3>How to use the Playbook:</h3>
 
