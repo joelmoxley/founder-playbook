@@ -1,7 +1,6 @@
 
 This one page tip sheet contains quick bullet points of how to target your talking points, and your delivery to effectively connect with your audience. 
 
-Credit: []
 
 {! search-content: !}
 
