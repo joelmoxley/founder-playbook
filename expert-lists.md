@@ -29,7 +29,7 @@ Title: Expert Lists
   
 <h3> Joel Moxley, General Partner at Moxley Holdings</h3>
 
-<p>I have spent the last decade building companies at the intersection of hard technology and data, and have seen the ins, outs, ups, and downs of building a great hard tech venture. These are my favorite resources related to company building for hard tech entrepreneurs.</p>
+<p>I've spent the last decade building companies at the intersection of hard technology and data, and have seen the ins, outs, ups, and downs of building a great hard tech venture. These are my favorite resources related to company building for hard tech entrepreneurs.</p>
  
 * 
   [Ilan Gur - High Hit Rate Hiring](/team-execution/team-building/content-hiring/ilan-gur-high-hit-rate-hiring.pptx.md)
