@@ -1,7 +1,7 @@
 
 This spreadsheet template allows you to track production, product development, fundraising, and other operational functions on a quarterly basis.
 
-Credit: [ ]()
+
 
 {! search-content: !}
 
