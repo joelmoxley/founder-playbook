@@ -21,7 +21,7 @@ Title: Expert Lists
   [Cyclotron Road Customer Deck Template (Adapted from Magic Box Paradigm)](http://playbooks.cyclotronroad.org/market-customer/customer-deck/01%20-%20Examples%20-%20Customer%20Deck/cyclotron-road-customer-deck-template.pptx.md)
 
 * 
-  [MIT Technology Ventures Corporate Finance Template](http://playbooks.cyclotronroad.org/team-execution/ops-finance-accounting/01%20-%20Examples-%20P&L/mit-energy-ventures-financial-template-corp..xls.md)
+  [MIT Technology Ventures Corporate Finance Template](http://playbooks.cyclotronroad.org/team-execution/ops-finance-accounting/examples-p-l/mit-energy-ventures-financial-template-corp..xls.md)
   
 <br>
 
