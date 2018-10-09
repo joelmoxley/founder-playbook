@@ -61,20 +61,18 @@ DOE National Labs
 
 How can SBV help me?
 SBV links your skills and innovation to the resources and experience of the national labs to help bring your products and ideas to market.
-About the Pilot 
+About the Pilot
 
 Does my business qualify?
 Businesses with fewer than 500 employees working on advanced energy products and services in the technology areas below are eligible.
-Check My Eligibility 
+Check My Eligibility
 
 Where do I start?
 The submission process is easy! Follow the Process and Timeline steps, Read the FAQs or contact the appropriate technology lead.
-Get Started 
+Get Started
 
 The SBV Pilot is an initiative of the U.S. Department of Energy, DOE's Office of Energy Efficiency & Renewable Energy and participating DOE national labs.
 
 Contact the webmaster to send us your comments, report problems, and/or ask questions about information on this website or view our site map.
 
 US Department of Energy Office of Energy Efficiency and Renewable Energy
-
-
