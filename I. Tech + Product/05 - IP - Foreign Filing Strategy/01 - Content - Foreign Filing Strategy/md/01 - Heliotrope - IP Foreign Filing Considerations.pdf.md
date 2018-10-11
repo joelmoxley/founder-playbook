@@ -1,10 +1,10 @@
-This quick one pager by Heliotrope provides advice on how to prioritize markets of relative value before filing expesive patent applications. Definition of 3 Tiers based on the commercial importance of the invention in question and the markets it which one intends to opearate.
+This quick one pager by Heliotrope provides advice on how to prioritize markets of relative value before filing expensive patent applications. Definition of 3 Tiers based on the commercial importance of the invention in question and the markets it which one intends to operate.
 
 Credit: []()
 
 {! search-content: !}
 
-IP	Foreign	Filing	Considerations	
+IP	Foreign	Filing	Considerations
 
 In	order	to	minimize	the	high	costs	of	filing	foreign	patent	applications,	it	is	useful	to	define various	tiers	based on	the	commercial	importance	of	the	invention	in	question and	the	markets	in	which	one	intends	to	operate.
 
@@ -14,7 +14,7 @@ An	approach	that	has	worked	for	us	is	to	define	3	tiers	as	follows:
 * Tier	2
     * Medium	commercial importance	applications	and/or	those	of	interest	to	selected	strategic	partners of	yours.		This	could	mean	US,	certain	South	American	countries,	EPO,	and	perhaps	China
 * Tier	3
-    * Patents	that	don’t	fall	into	either	of	the other	two	categories.	Typically	US	only 
+    * Patents	that	don’t	fall	into	either	of	the other	two	categories.	Typically	US	only
 
 Expected filing costs	are	as	follows:
 * Mexico,	various	South	American	countries,	Saudi Arabia,	China,	etc….	=	about	$5-$7k	due	to	translation	costs
