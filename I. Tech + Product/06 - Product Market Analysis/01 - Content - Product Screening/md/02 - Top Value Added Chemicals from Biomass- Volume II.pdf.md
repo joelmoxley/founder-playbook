@@ -1,6 +1,9 @@
 This is the second part of a 2-part DOE series on screening products and narrowing down a select target number of chemical candidates. The first part focused on candidates from sugar and synthesis gas, and this part focuses on candidates from lignin. This resource can give you a sense of the comprehensiveness necessary to comfortably dedicate company resources towards chemical product development.
 
 Credit: [PNNL](https://www.pnnl.gov/)
+
+{! search-content: !}
+
 Table of Contents
 EXECUTIVE SUMMARY .................................................................................. 1
 1 BACKGROUND ........................................................................................... 3

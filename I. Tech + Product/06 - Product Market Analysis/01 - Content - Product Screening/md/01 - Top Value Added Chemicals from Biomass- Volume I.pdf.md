@@ -1,6 +1,9 @@
 This in-depth product market analysis from the DOE of biomass and the building block chemicals that can be derived from biomass is an excellent insight into how to comprehensively screen an industry. This is part 1 of a 2-part paper concerning starting with a candidate list of possible products, systematically eliminating certain candidates, and reporting on the results.
 
 Credit: [PNNL](https://www.energy.gov/sites/prod/files/2014/03/f14/35523.pdf)
+
+{! search-content: !}
+
 Table of Contents
 Executive Summary ................................................................................................................1
 1 Background .................................................................................................................3
