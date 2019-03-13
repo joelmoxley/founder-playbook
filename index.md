@@ -27,7 +27,7 @@ Title: Founder's Playbook
 
 <h2>Most Popular Resources</h2>
 * 
-  [Cyclotron Road - Elevator Pitch - Template](/foundational/eoe-elevator-pitch//cyclotron-road-elevator-pitch-template.pptx.md)
+  [Cyclotron Road - Elevator Pitch - Template](/finance/vc-pitch/examples-elevator-pitch/cyclotron-road-elevator-pitch-template.pptx.md)
 
 * 
   [Cyclotron Road Pitch Deck Template 2017](/finance/vc-pitch/content-templates/cyclotron-road-pitch-deck-template-2017.pptx.md)
