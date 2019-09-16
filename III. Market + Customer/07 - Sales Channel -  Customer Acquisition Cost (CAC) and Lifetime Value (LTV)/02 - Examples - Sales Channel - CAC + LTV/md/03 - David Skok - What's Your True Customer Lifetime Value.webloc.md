@@ -1,5 +1,5 @@
 
-This web article by David Skok (and the accompanying spreadsheet in the Examples section below) takes the reader through the importance of quantifying  lifetime value (LTV) of a customer and gives a detailed explanation on how to calculate it.
+This web article by David Skok (and the accompanying spreadsheet below) takes the reader through the importance of quantifying  lifetime value (LTV) of a customer and gives a detailed explanation on how to calculate it.
 
 Credit: [David Skok](https://www.forentrepreneurs.com/about/)
 
