@@ -1,6 +1,6 @@
 Renowned investor Vinod Khosla details how technology-driven entrepreneurship can reinvent out society.
 
-Credit: Vinod Khosla
+Credit: [Vinod Khosla](https://www.khoslaventures.com/team/vinod-khosla)
 
 {! search-content: !}
 
