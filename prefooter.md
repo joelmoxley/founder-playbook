@@ -7,7 +7,7 @@
   Cyclotron Road, along with the community of educational partners and practitioners
   below, will serve as a living laboratory for these resources, continually
   bulding upon and refining the content contained within based on their
-  day-to-day engagement with leading hard tech innovators and entrepreneurs.The creation of this site has been made possible thanks to a grant from the California Energy Commission. 
+  day-to-day engagement with leading hard tech innovators and entrepreneurs.The creation of this site has been made possible thanks to a grant from the California Energy Commission.
 
 </div>
 
@@ -37,12 +37,12 @@
   ###### Founding Partners & Playbook Curators
 
   * ![Cyclotron Road](/img/Cyclotron-Road-Logo-white.png)
-  * ![MH](/img/moxley-holdings-logo-white.png)
+  * ![MH](/img/echelon-logo-white.png)
 </div>
 
 <div markdown="1" class="columns medium-6 contributors">
   ###### Contributing Partners
-  
+
   * ![California Energy Commission](/img/CEC-logo-transparent.png)
   * ![Breakthrough Energy](/img/BEV_Logo_RGB.png)
 </div>
