@@ -1,3 +1,15 @@
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-57SZ2D6LQF"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-57SZ2D6LQF');
+  </script>
+</head>
+
 ---
 Title: Founder's Playbook
 ---
@@ -10,13 +22,13 @@ Title: Founder's Playbook
 
 <h3>How to use the Playbook:</h3>
 
-<p> 
+<p>
 
 <ol>
   <li><b>Already know what you’re looking for?</b>  Use the search bar at the top of the page to bring up all documents related to a specific topic (e.g. “intellectual property”)</li>
   <li><b>Want to educate yourself in a particular area?</b>  Resources in the Founder’s Playbook are categorized by the four pillars of a balanced company: <a href="http://playbooks.cyclotronroad.org/tech-product" style="color: rgb(235,149,19)">technology</a>, <a href="http://playbooks.cyclotronroad.org/finance" style="color: rgb(235,149,19)">finance</a>, <a href="http://playbooks.cyclotronroad.org/market-customer" style="color: rgb(235,149,19)">market</a>, and <a href="http://playbooks.cyclotronroad.org/team-execution" style="color: rgb(235,149,19)">team</a>. Use the tabs above to see all of the resources in each category.</li>
   <li><b>Not sure where to start?</b>  Take a look at the <a href="http://playbooks.cyclotronroad.org/expert-lists" style="color: rgb(235,149,19)">recommended reading</a> from our community of experts or check out the most popular resources below</li>
- 
+
 </ol>  
 
 </p>
@@ -26,16 +38,16 @@ Title: Founder's Playbook
 <div markdown="1" class="medium-12 home-popular-resources">
 
 <h2>Most Popular Resources</h2>
-* 
+*
   [Cyclotron Road - Elevator Pitch - Template](/finance/vc-pitch/examples-elevator-pitch/cyclotron-road-elevator-pitch-template.pptx.md)
 
-* 
+*
   [Cyclotron Road Pitch Deck Template 2017](/finance/vc-pitch/content-templates/cyclotron-road-pitch-deck-template-2017.pptx.md)
 
-* 
+*
   [ICorps - Best Practices Customer Discovery](/market-customer/customer-discovery/content-icorps-customer-discovery/icorps-best-practices-customer-discovery.pdf.md)
 
-* 
+*
   [Cyclotron Road - Quarterly Review Template 2016](/team-execution/advisory-board-meetings/eoe-advisory-board-meetings/cyclotron-road-quarterly-review-template-2016.pptx.md)
 
 *
