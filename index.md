@@ -1,3 +1,6 @@
+---
+Title: Founder's Playbook
+---
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-57SZ2D6LQF"></script>
@@ -9,10 +12,6 @@
   gtag('config', 'G-57SZ2D6LQF');
   </script>
 </head>
-
----
-Title: Founder's Playbook
----
 
 <div class="home-lead-content">
 
